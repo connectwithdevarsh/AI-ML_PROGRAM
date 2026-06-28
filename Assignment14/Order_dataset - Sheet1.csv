@@ -1,0 +1,1251 @@
+month,day_of_week,food_category,order_platform,payment_method,time_slot,items_ordered,order_value,discount_percent,prep_time_mins,delivery_time_mins,is_repeat_customer,distance_km,driver_rating,weather_condition,kitchen_load,customer_complaint_history,payment_failed_attempt,promo_code_used,order_status
+Apr-24,Monday,Pizza,Website,Wallet,Afternoon (2-5pm),3,1123.35,15,28,31,0,10,4.5,Rainy,High,0,0,0,Delivered
+Jan-23,Tuesday,Healthy Bowls,Swiggy,Wallet,Morning (7-11am),1,419.51,10,12,31,0,23.8,3.7,Rainy,Very High,0,0,0,Cancelled
+Nov-23,Wednesday,South Indian,Zomato,Cash on Delivery,Dinner (8-11pm),4,332.72,15,21,38,0,18.6,2.8,Cloudy,Medium,1,0,0,Delivered
+Jan-23,Thursday,Biryani,Swiggy,Wallet,Evening (5-8pm),5,1696.2,0,26,15,0,15.4,2.8,Stormy,High,1,1,0,Cancelled
+Oct-24,Friday,Beverages,Zomato,Cash on Delivery,Evening (5-8pm),5,535.8,10,5,60,0,4.7,4.2,Clear,Medium,2,0,1,Delivered
+Feb-23,Tuesday,Biryani,Website,Credit Card,Dinner (8-11pm),3,827.16,0,26,42,0,4.7,3.6,Clear,Low,0,0,1,Delivered
+Mar-23,Monday,Chinese,Direct App,Debit Card,Evening (5-8pm),1,381.78,15,20,15,0,2.4,3,Rainy,Low,0,1,0,Cancelled
+Sep-24,Thursday,Beverages,Direct App,Debit Card,Lunch (11am-2pm),5,726.2,5,3,40,0,21.8,3.7,Clear,Medium,1,2,0,Delivered
+Sep-24,Monday,Desserts,Zomato,Credit Card,Lunch (11am-2pm),6,1207.56,5,8,31,0,15.4,2.7,Rainy,Medium,1,0,0,Delivered
+Jan-24,Wednesday,Pizza,Zomato,Cash on Delivery,Lunch (11am-2pm),6,3123.42,20,18,22,0,18,4,Rainy,High,0,0,0,Delivered
+Dec-24,Friday,Beverages,Swiggy,UPI,Evening (5-8pm),6,486.78,5,3,20,0,1.5,3.2,Clear,Low,0,0,0,Delivered
+Nov-24,Wednesday,Beverages,Swiggy,Cash on Delivery,Afternoon (2-5pm),6,1005.54,20,10,25,0,24.3,4.5,Rainy,High,0,0,0,Delivered
+Mar-24,Saturday,Wraps & Rolls,Swiggy,UPI,Late Night (11pm-2am),5,981.25,25,18,37,0,21,3.3,Clear,Medium,0,0,0,Delivered
+Mar-23,Monday,Pasta,Website,UPI,Lunch (11am-2pm),3,606.03,0,16,19,0,6.1,3.6,Cloudy,Medium,1,0,0,Refunded
+Apr-23,Friday,Biryani,Website,Credit Card,Morning (7-11am),2,761.4,5,33,46,0,5.4,2.5,Cloudy,Medium,0,2,0,Cancelled
+Feb-24,Thursday,Desserts,Direct App,Debit Card,Dinner (8-11pm),4,495.92,0,5,18,0,5.4,2.7,Stormy,Medium,3,0,1,Cancelled
+Feb-23,Friday,South Indian,Website,Cash on Delivery,Morning (7-11am),3,539.01,5,12,38,0,8.3,3.5,Clear,Medium,0,0,0,Delivered
+Dec-23,Monday,Biryani,Swiggy,Wallet,Late Night (11pm-2am),2,712.88,0,22,37,0,13.6,3.7,Clear,Medium,0,0,0,Delivered
+Apr-23,Friday,Beverages,Zomato,Wallet,Morning (7-11am),4,216.24,0,9,34,0,11.4,4,Cloudy,Low,1,0,1,Refunded
+Oct-23,Monday,Pizza,Website,Cash on Delivery,Morning (7-11am),3,793.74,15,25,36,0,8,3.2,Cloudy,Low,0,1,0,Cancelled
+Jun-24,Friday,Pizza,Swiggy,Cash on Delivery,Morning (7-11am),2,1121.26,10,20,60,0,15.7,4.2,Cloudy,Medium,0,0,0,Delivered
+Nov-23,Monday,Burgers,Swiggy,UPI,Afternoon (2-5pm),6,1046.34,0,18,39,0,4.3,4.7,Clear,Very High,0,0,0,Delivered
+Feb-23,Saturday,Beverages,Swiggy,Credit Card,Lunch (11am-2pm),2,255.34,0,7,17,0,8,4.4,Clear,Medium,0,0,0,Delivered
+Dec-24,Thursday,South Indian,Swiggy,Credit Card,Dinner (8-11pm),3,446.94,10,21,20,0,9.8,2.6,Clear,High,0,0,0,Delivered
+Apr-24,Monday,Pasta,Swiggy,Wallet,Afternoon (2-5pm),5,2231.85,25,20,25,0,11.9,3.7,Rainy,High,0,0,1,Delivered
+Oct-24,Thursday,Beverages,Website,Wallet,Dinner (8-11pm),5,343.1,20,4,33,0,19.8,2.8,Clear,Very High,1,0,0,Delivered
+Sep-24,Monday,Wraps & Rolls,Swiggy,Debit Card,Morning (7-11am),4,609.16,25,10,21,0,5.8,3.1,Clear,High,2,0,0,Cancelled
+Jun-23,Tuesday,Pasta,Direct App,UPI,Late Night (11pm-2am),2,493.18,0,23,29,0,13.3,5,Stormy,Medium,0,0,1,Delivered
+Jul-24,Saturday,Wraps & Rolls,Direct App,Cash on Delivery,Evening (5-8pm),4,550.6,5,15,38,0,15.2,2.9,Clear,High,0,0,1,Delivered
+Apr-24,Sunday,Chinese,Swiggy,Debit Card,Dinner (8-11pm),1,202.72,10,17,29,0,2.1,3.7,Stormy,High,1,1,0,Cancelled
+Oct-23,Sunday,South Indian,Zomato,UPI,Dinner (8-11pm),2,356.6,0,13,33,0,15.6,4,Cloudy,Medium,0,1,1,Delivered
+Oct-23,Monday,Wraps & Rolls,Website,Credit Card,Afternoon (2-5pm),4,994.28,5,10,27,0,5.1,4.3,Rainy,Medium,0,0,0,Delivered
+Jun-23,Thursday,Desserts,Direct App,Wallet,Late Night (11pm-2am),2,166.44,0,5,25,0,2.6,3.9,Clear,Low,0,0,0,Delivered
+Sep-23,Thursday,Wraps & Rolls,Website,Cash on Delivery,Dinner (8-11pm),2,356.04,0,16,23,0,23.8,2.5,Clear,High,0,0,0,Delivered
+Sep-23,Monday,South Indian,Swiggy,Cash on Delivery,Late Night (11pm-2am),1,139.32,15,12,49,0,24.2,3.3,Cloudy,High,0,0,0,Delivered
+Jan-24,Friday,Biryani,Swiggy,Wallet,Lunch (11am-2pm),6,1275.24,15,22,48,0,20.4,3.8,Rainy,Low,0,0,1,Delivered
+Apr-23,Wednesday,South Indian,Zomato,UPI,Morning (7-11am),6,556.02,10,22,23,0,8.3,2.7,Cloudy,Medium,1,1,0,Cancelled
+Aug-23,Monday,Chinese,Zomato,Cash on Delivery,Afternoon (2-5pm),4,1591.84,25,20,33,0,3.3,3.4,Clear,Medium,0,1,0,Cancelled
+May-23,Saturday,Beverages,Swiggy,Debit Card,Lunch (11am-2pm),2,335.24,0,10,19,0,17.4,2.6,Rainy,Low,0,0,0,Delivered
+Jun-23,Friday,Biryani,Swiggy,Cash on Delivery,Morning (7-11am),5,1533,5,23,37,0,11.6,2.7,Rainy,Very High,1,0,0,Cancelled
+Sep-23,Sunday,Pasta,Swiggy,Credit Card,Dinner (8-11pm),3,562.83,15,28,32,0,3.9,3.5,Cloudy,Medium,0,1,0,Delivered
+Mar-23,Saturday,Pasta,Website,Wallet,Late Night (11pm-2am),5,1876.05,25,16,45,0,12.9,2.8,Rainy,Low,0,1,0,Cancelled
+Mar-23,Monday,Wraps & Rolls,Website,Wallet,Dinner (8-11pm),3,698.13,15,8,36,0,1.8,3.9,Rainy,Medium,0,0,1,Delivered
+Oct-24,Sunday,South Indian,Direct App,Wallet,Lunch (11am-2pm),5,428.25,0,19,32,0,22.8,4.2,Cloudy,High,2,0,0,Delivered
+Feb-23,Thursday,Chinese,Swiggy,Debit Card,Afternoon (2-5pm),5,1482.1,5,15,31,0,7.2,4.5,Clear,Low,0,0,0,Delivered
+Dec-23,Sunday,Burgers,Direct App,Cash on Delivery,Late Night (11pm-2am),6,1414.5,0,12,16,0,16.9,3,Clear,High,1,0,0,Delivered
+May-23,Friday,Biryani,Zomato,UPI,Evening (5-8pm),3,1175.85,10,20,34,0,8.5,2.9,Clear,Medium,0,0,0,Delivered
+Apr-23,Monday,Chinese,Direct App,Credit Card,Evening (5-8pm),2,497.94,10,28,17,0,13.5,2.8,Clear,Low,0,0,0,Delivered
+Aug-24,Monday,Healthy Bowls,Website,UPI,Dinner (8-11pm),2,870.96,0,15,68,0,14.1,4.1,Clear,Low,1,0,1,Refunded
+Jun-24,Monday,Pasta,Swiggy,Cash on Delivery,Dinner (8-11pm),3,563.55,5,15,40,0,5.4,4.3,Clear,Medium,0,0,1,Delivered
+May-23,Tuesday,Burgers,Swiggy,UPI,Lunch (11am-2pm),4,1034,5,18,34,0,24.3,2.6,Clear,Medium,1,0,0,Delivered
+Sep-23,Sunday,South Indian,Zomato,Debit Card,Lunch (11am-2pm),6,1271.64,0,21,31,0,19.6,4.8,Clear,Very High,0,0,0,Delivered
+Jan-23,Wednesday,Burgers,Website,Wallet,Dinner (8-11pm),3,489.42,0,11,18,0,23.5,2.6,Rainy,High,1,1,1,Cancelled
+Nov-24,Sunday,South Indian,Swiggy,UPI,Morning (7-11am),2,532.52,10,12,27,0,22.5,3.9,Stormy,Very High,1,1,0,Cancelled
+Apr-23,Friday,Pasta,Zomato,UPI,Morning (7-11am),1,348.42,0,19,21,0,15.3,4.3,Clear,Medium,0,0,0,Delivered
+Aug-23,Wednesday,Pasta,Zomato,Debit Card,Evening (5-8pm),2,881.3,10,28,27,0,23.1,4.7,Stormy,Very High,0,0,0,Cancelled
+Jun-23,Tuesday,Biryani,Direct App,Debit Card,Morning (7-11am),5,1874.3,10,20,44,0,3.1,4.3,Cloudy,Medium,0,2,1,Delivered
+Jan-23,Friday,Desserts,Direct App,UPI,Dinner (8-11pm),1,65.74,0,10,43,0,5.7,4.5,Clear,Medium,0,0,0,Delivered
+Apr-23,Sunday,Burgers,Swiggy,Debit Card,Evening (5-8pm),1,118.77,20,15,16,0,2.1,3.3,Clear,Low,1,0,1,Delivered
+Apr-23,Tuesday,South Indian,Zomato,Credit Card,Morning (7-11am),2,247.76,15,18,17,0,8.8,4.5,Cloudy,Low,0,0,1,Delivered
+Jun-23,Wednesday,Desserts,Zomato,Wallet,Evening (5-8pm),2,374.62,10,15,16,0,10.3,2.7,Rainy,High,0,0,0,Delivered
+Jan-23,Saturday,Chinese,Website,UPI,Dinner (8-11pm),6,2089.38,25,25,22,0,7.5,4.7,Cloudy,Medium,1,0,1,Delivered
+Jan-24,Tuesday,Desserts,Swiggy,Wallet,Afternoon (2-5pm),3,392.55,20,12,26,0,20.9,3.9,Clear,Medium,0,1,1,Delivered
+Oct-24,Wednesday,Wraps & Rolls,Zomato,UPI,Lunch (11am-2pm),6,671.88,10,16,43,0,9.6,4.5,Clear,High,0,0,0,Delivered
+Aug-23,Thursday,Pizza,Zomato,Wallet,Lunch (11am-2pm),5,1391.7,10,25,32,0,7.7,3.6,Clear,Medium,0,0,0,Delivered
+Sep-24,Monday,Desserts,Swiggy,Credit Card,Evening (5-8pm),2,265.88,0,12,19,0,14,4.1,Clear,Medium,0,1,0,Delivered
+Sep-23,Thursday,Pasta,Zomato,Credit Card,Evening (5-8pm),3,1157.28,0,24,33,0,4.4,3.8,Clear,Medium,1,0,0,Delivered
+May-24,Wednesday,Chinese,Website,Wallet,Evening (5-8pm),2,624,0,18,24,0,20.3,4.3,Clear,High,0,0,0,Delivered
+Mar-24,Sunday,South Indian,Direct App,Debit Card,Afternoon (2-5pm),6,1044.18,0,12,28,0,2.8,2.7,Rainy,High,0,0,0,Delivered
+Feb-24,Tuesday,Desserts,Swiggy,Cash on Delivery,Lunch (11am-2pm),1,200.75,20,7,25,0,24.7,2.7,Stormy,Medium,1,0,0,Cancelled
+May-23,Wednesday,Biryani,Zomato,Cash on Delivery,Lunch (11am-2pm),3,893.1,5,25,20,0,19.5,3.1,Clear,Medium,0,0,1,Delivered
+May-23,Saturday,Chinese,Direct App,UPI,Afternoon (2-5pm),5,1553.1,5,22,45,0,5.8,2.9,Stormy,Medium,0,0,0,Delivered
+Jul-23,Wednesday,Wraps & Rolls,Zomato,UPI,Evening (5-8pm),5,1089.75,25,9,25,0,1.1,4.7,Clear,High,0,0,0,Delivered
+Sep-24,Tuesday,South Indian,Swiggy,Cash on Delivery,Late Night (11pm-2am),6,1293.12,0,17,25,0,20.6,3,Clear,Medium,0,0,0,Delivered
+Apr-24,Monday,South Indian,Zomato,UPI,Lunch (11am-2pm),2,402.18,0,22,63,0,18,4.9,Clear,Medium,0,0,0,Delivered
+Jun-23,Saturday,Desserts,Zomato,Debit Card,Morning (7-11am),3,628.86,0,6,37,0,18.5,3.3,Cloudy,Low,0,0,0,Delivered
+Aug-23,Sunday,Chinese,Zomato,Credit Card,Morning (7-11am),3,1182.3,0,20,28,0,19.5,3,Stormy,Medium,0,0,0,Delivered
+Apr-24,Wednesday,Pizza,Website,Wallet,Morning (7-11am),5,2913.95,0,19,39,0,2.8,4.5,Cloudy,Medium,0,0,0,Delivered
+Jan-24,Saturday,Wraps & Rolls,Swiggy,Credit Card,Evening (5-8pm),4,954.04,20,16,43,0,9.6,4.1,Clear,High,0,0,1,Delivered
+Nov-23,Saturday,Pizza,Zomato,Wallet,Afternoon (2-5pm),4,2260.92,5,22,40,0,3.8,3.7,Cloudy,Medium,0,1,1,Delivered
+May-24,Tuesday,Pizza,Website,Cash on Delivery,Morning (7-11am),6,2114.58,0,28,15,0,21.7,3.9,Clear,Medium,4,0,0,Delivered
+Jan-24,Monday,Biryani,Zomato,Wallet,Lunch (11am-2pm),2,730.56,20,32,28,0,16,4.3,Rainy,High,1,0,1,Delivered
+Sep-24,Friday,Biryani,Zomato,Debit Card,Late Night (11pm-2am),2,594.78,0,31,57,0,8.9,3.1,Cloudy,High,1,0,1,Delivered
+Feb-23,Friday,South Indian,Direct App,Cash on Delivery,Dinner (8-11pm),2,478.84,0,18,27,0,2.5,5,Clear,Medium,0,0,0,Delivered
+Sep-24,Monday,Healthy Bowls,Zomato,UPI,Evening (5-8pm),1,246.41,5,13,19,0,8.5,4.9,Cloudy,Medium,1,0,1,Refunded
+Feb-23,Wednesday,Beverages,Zomato,Debit Card,Afternoon (2-5pm),6,506.4,15,10,43,0,8.8,4.1,Cloudy,Medium,0,1,1,Delivered
+Jan-24,Monday,Burgers,Zomato,Cash on Delivery,Dinner (8-11pm),1,269.1,10,13,22,0,18.5,3,Clear,Very High,1,1,0,Cancelled
+Jun-23,Tuesday,Pasta,Zomato,Wallet,Late Night (11pm-2am),3,1029.78,5,18,26,0,16.3,4.2,Cloudy,Low,0,0,0,Delivered
+Aug-23,Sunday,Pizza,Website,Wallet,Afternoon (2-5pm),3,1594.29,0,26,36,0,22.3,2.7,Clear,Very High,1,0,0,Cancelled
+Jun-23,Friday,Wraps & Rolls,Website,Debit Card,Dinner (8-11pm),4,497.2,0,15,39,0,12.3,2.6,Cloudy,High,0,0,0,Delivered
+Sep-24,Monday,Pasta,Zomato,Wallet,Evening (5-8pm),1,464.23,15,25,50,0,3.9,3.1,Rainy,Medium,0,0,1,Delivered
+May-24,Thursday,Desserts,Website,UPI,Lunch (11am-2pm),6,688.44,5,9,36,0,18.1,3.7,Rainy,Low,0,0,0,Delivered
+Sep-24,Tuesday,Pasta,Direct App,Credit Card,Evening (5-8pm),6,2748.96,5,22,27,0,19.3,4.7,Cloudy,Medium,1,0,1,Delivered
+Mar-24,Sunday,South Indian,Website,Credit Card,Afternoon (2-5pm),3,674.22,0,16,25,0,14.5,4.3,Cloudy,Medium,0,1,1,Delivered
+Jun-23,Sunday,Wraps & Rolls,Website,UPI,Evening (5-8pm),6,1038.54,15,17,40,0,19.5,4.4,Clear,Low,0,0,0,Delivered
+Dec-23,Saturday,Desserts,Swiggy,Credit Card,Late Night (11pm-2am),4,391.92,0,5,41,0,12.9,3.6,Rainy,High,0,0,1,Delivered
+Sep-23,Tuesday,Biryani,Zomato,UPI,Afternoon (2-5pm),2,413.1,25,31,19,0,13.5,3.4,Clear,Very High,1,0,0,Cancelled
+Mar-24,Sunday,Burgers,Swiggy,Credit Card,Lunch (11am-2pm),5,799.95,10,17,43,0,11.3,3.4,Clear,Medium,0,0,0,Delivered
+Dec-24,Sunday,Healthy Bowls,Website,UPI,Lunch (11am-2pm),3,1118.04,0,18,36,0,1.6,5,Clear,High,0,0,0,Delivered
+May-23,Monday,South Indian,Direct App,Debit Card,Dinner (8-11pm),2,206.52,0,19,28,0,3.6,2.6,Clear,Low,2,1,0,Cancelled
+Jul-24,Friday,Desserts,Zomato,UPI,Late Night (11pm-2am),3,218.82,20,9,27,0,1.8,4.7,Cloudy,Medium,0,0,0,Delivered
+Oct-24,Thursday,Chinese,Swiggy,Credit Card,Lunch (11am-2pm),5,1121.45,15,18,15,0,16.3,3.9,Clear,Low,0,0,1,Delivered
+Jul-24,Friday,Pasta,Website,Cash on Delivery,Lunch (11am-2pm),1,267.41,5,26,34,0,8.5,3.6,Cloudy,High,1,0,1,Delivered
+Nov-24,Tuesday,Burgers,Website,UPI,Lunch (11am-2pm),4,1381.6,15,11,40,0,13.2,4.3,Clear,Very High,1,0,0,Delivered
+Oct-24,Wednesday,South Indian,Swiggy,Cash on Delivery,Dinner (8-11pm),1,250.8,15,20,31,0,22.8,3.7,Clear,High,1,2,1,Delivered
+Mar-23,Saturday,Pizza,Swiggy,UPI,Lunch (11am-2pm),6,1519.56,0,20,42,0,7,4.7,Cloudy,Low,0,0,1,Delivered
+May-23,Saturday,Chinese,Website,Wallet,Morning (7-11am),6,1364.94,10,18,26,0,10.8,4.8,Clear,Medium,0,0,0,Delivered
+Apr-24,Saturday,Pizza,Direct App,Cash on Delivery,Afternoon (2-5pm),6,2593.08,0,30,22,0,19.1,3.6,Clear,Medium,0,2,0,Delivered
+Jul-23,Friday,Healthy Bowls,Swiggy,Wallet,Evening (5-8pm),5,2249.1,0,10,29,0,6.5,3.2,Cloudy,Medium,2,0,1,Refunded
+Aug-23,Monday,Pasta,Direct App,UPI,Afternoon (2-5pm),3,692.64,15,25,34,0,2.8,4,Clear,High,0,0,0,Delivered
+Mar-23,Tuesday,Chinese,Zomato,Cash on Delivery,Evening (5-8pm),5,847.85,10,20,39,0,8,4.8,Rainy,High,0,0,0,Delivered
+Jul-24,Sunday,Healthy Bowls,Swiggy,UPI,Lunch (11am-2pm),6,1322.52,5,14,15,0,4.9,3,Clear,High,1,1,0,Cancelled
+Feb-24,Sunday,Chinese,Zomato,Cash on Delivery,Morning (7-11am),3,766.92,5,26,34,0,23.3,4.1,Clear,Medium,0,0,1,Delivered
+Jun-24,Saturday,Chinese,Direct App,UPI,Late Night (11pm-2am),4,759.48,20,18,20,0,20.4,4.1,Cloudy,Medium,1,0,0,Delivered
+Jul-23,Sunday,Wraps & Rolls,Website,UPI,Dinner (8-11pm),2,231.82,25,9,26,1,16.2,4.3,Clear,Low,0,0,0,Delivered
+Jan-24,Tuesday,Chinese,Website,Debit Card,Morning (7-11am),5,1970.2,25,21,26,0,21.9,2.8,Clear,Medium,0,0,0,Delivered
+Nov-24,Friday,Burgers,Direct App,UPI,Morning (7-11am),1,277.17,0,11,31,0,20.3,4.3,Clear,Medium,0,0,1,Delivered
+Jul-23,Sunday,Healthy Bowls,Zomato,Debit Card,Late Night (11pm-2am),2,899.44,5,10,34,0,5.5,4.8,Clear,High,1,0,0,Delivered
+May-23,Monday,Wraps & Rolls,Zomato,Wallet,Late Night (11pm-2am),2,304.34,10,9,37,0,22.4,2.9,Rainy,High,0,0,0,Cancelled
+Mar-23,Thursday,Wraps & Rolls,Swiggy,Cash on Delivery,Evening (5-8pm),2,198.84,20,16,66,0,13.9,3.1,Clear,Low,0,0,1,Delivered
+Nov-23,Saturday,Pasta,Website,UPI,Afternoon (2-5pm),2,997.16,20,15,19,0,20.4,4.9,Rainy,Medium,1,0,0,Delivered
+Apr-23,Thursday,Pasta,Website,Credit Card,Morning (7-11am),4,880.52,0,15,69,0,22.5,3,Rainy,Low,0,0,1,Cancelled
+Jul-23,Thursday,Healthy Bowls,Zomato,Credit Card,Morning (7-11am),1,457.31,0,13,41,0,8.6,4.6,Clear,Low,0,1,1,Delivered
+Aug-24,Monday,Wraps & Rolls,Website,Cash on Delivery,Morning (7-11am),6,746.04,0,10,17,0,3.6,3.7,Stormy,High,0,0,1,Delivered
+Dec-23,Saturday,Biryani,Direct App,Wallet,Late Night (11pm-2am),6,2347.92,0,20,39,0,6.5,3.1,Clear,Low,0,0,0,Delivered
+Apr-23,Wednesday,Chinese,Zomato,Wallet,Afternoon (2-5pm),2,403.7,0,18,44,0,11.3,4.7,Stormy,Medium,2,0,0,Delivered
+Oct-24,Sunday,Pizza,Direct App,Credit Card,Afternoon (2-5pm),5,2271.3,0,20,44,0,20.6,3.6,Clear,Low,0,0,1,Delivered
+Jan-24,Tuesday,Beverages,Zomato,Credit Card,Dinner (8-11pm),6,787.98,0,9,30,0,21.7,3.8,Cloudy,High,1,1,1,Refunded
+Jul-24,Wednesday,Burgers,Website,Debit Card,Evening (5-8pm),4,641.56,5,20,39,0,1.2,3.4,Clear,Medium,1,1,0,Cancelled
+Dec-23,Monday,Biryani,Swiggy,Wallet,Evening (5-8pm),2,719.76,5,28,16,0,13.3,4,Clear,Medium,3,1,1,Cancelled
+Mar-24,Sunday,Pizza,Direct App,UPI,Dinner (8-11pm),4,1745.24,5,19,16,0,11,2.9,Cloudy,Medium,0,0,0,Delivered
+Jan-23,Saturday,Healthy Bowls,Zomato,UPI,Morning (7-11am),3,1190.88,0,16,36,0,6.3,3.5,Cloudy,High,1,0,0,Delivered
+Feb-24,Sunday,Biryani,Swiggy,UPI,Afternoon (2-5pm),5,1291.55,0,20,19,0,3.9,4.9,Clear,Very High,0,0,0,Delivered
+May-24,Wednesday,Chinese,Direct App,Credit Card,Lunch (11am-2pm),6,1248.42,0,28,43,0,9.1,3.1,Clear,Medium,1,0,1,Delivered
+Aug-23,Monday,Biryani,Zomato,UPI,Late Night (11pm-2am),6,2180.04,25,33,43,0,23.6,4.1,Cloudy,High,1,0,0,Delivered
+Apr-24,Monday,South Indian,Zomato,Cash on Delivery,Lunch (11am-2pm),4,682.72,0,22,32,0,8.8,3.3,Cloudy,Very High,1,1,0,Cancelled
+Jun-24,Wednesday,Wraps & Rolls,Direct App,UPI,Lunch (11am-2pm),3,710.67,0,9,27,0,13.5,4.4,Stormy,Very High,0,0,1,Delivered
+Mar-24,Saturday,Pasta,Direct App,Wallet,Afternoon (2-5pm),3,1079.13,5,17,32,0,17.9,2.8,Rainy,High,0,0,0,Delivered
+Feb-24,Saturday,Desserts,Website,Credit Card,Lunch (11am-2pm),3,555.48,15,11,44,0,9.7,4.9,Stormy,High,0,0,0,Delivered
+Jun-24,Saturday,Healthy Bowls,Swiggy,Credit Card,Lunch (11am-2pm),1,314.7,20,18,39,0,24.3,3.6,Cloudy,Medium,0,1,0,Delivered
+May-24,Thursday,Chinese,Direct App,Cash on Delivery,Late Night (11pm-2am),4,1517.64,5,22,24,0,24.1,3.1,Clear,High,2,0,0,Cancelled
+Aug-23,Saturday,Wraps & Rolls,Direct App,UPI,Late Night (11pm-2am),4,437.48,20,9,37,0,7,2.7,Clear,Medium,1,0,1,Delivered
+Mar-24,Friday,Pasta,Zomato,Debit Card,Evening (5-8pm),3,1255.08,0,16,65,0,12.9,2.9,Rainy,High,1,1,1,Cancelled
+Mar-23,Sunday,Wraps & Rolls,Website,Debit Card,Late Night (11pm-2am),2,262.16,5,15,21,0,8.2,3.8,Cloudy,Medium,1,0,0,Delivered
+Sep-24,Saturday,Chinese,Zomato,Credit Card,Morning (7-11am),4,986.2,5,17,16,0,7.8,3.3,Clear,High,1,0,1,Delivered
+Oct-23,Friday,Desserts,Swiggy,UPI,Lunch (11am-2pm),4,521.96,20,8,29,0,1.9,4.6,Clear,High,0,0,0,Delivered
+Mar-24,Saturday,Pizza,Direct App,Wallet,Dinner (8-11pm),5,2510.55,10,24,27,0,15.6,3.6,Stormy,Low,1,0,0,Delivered
+Jul-24,Tuesday,Pizza,Swiggy,Cash on Delivery,Afternoon (2-5pm),6,1542.96,25,16,21,0,13.1,3.1,Cloudy,High,1,1,0,Cancelled
+May-24,Wednesday,Desserts,Swiggy,Cash on Delivery,Lunch (11am-2pm),3,542.61,0,7,38,0,2.2,4,Clear,Medium,1,0,0,Delivered
+Oct-23,Wednesday,Desserts,Direct App,Wallet,Dinner (8-11pm),6,1299.42,10,11,35,0,7.7,4.3,Clear,High,0,0,0,Delivered
+Oct-24,Friday,Wraps & Rolls,Website,UPI,Evening (5-8pm),3,434.67,5,15,50,0,22.8,2.9,Clear,Medium,0,0,0,Delivered
+Dec-23,Friday,Pasta,Zomato,Wallet,Lunch (11am-2pm),1,254.46,20,24,22,0,6.7,2.9,Clear,Medium,0,0,0,Delivered
+Feb-24,Saturday,Healthy Bowls,Swiggy,Wallet,Dinner (8-11pm),6,2411.76,15,10,42,0,4.5,2.6,Clear,Very High,0,0,0,Delivered
+Jan-24,Thursday,Burgers,Direct App,Cash on Delivery,Morning (7-11am),1,254.03,25,14,52,0,12.7,4.3,Clear,Medium,0,0,0,Delivered
+May-24,Thursday,Pizza,Website,Credit Card,Late Night (11pm-2am),2,715.14,15,22,39,0,24.7,4.2,Rainy,High,0,0,0,Delivered
+Mar-24,Wednesday,Desserts,Website,Credit Card,Dinner (8-11pm),2,147.84,0,13,26,0,6.8,3.7,Clear,Medium,0,0,1,Delivered
+Mar-23,Wednesday,Healthy Bowls,Swiggy,Wallet,Afternoon (2-5pm),2,592.86,5,17,38,0,17.1,4.6,Rainy,Medium,0,1,0,Cancelled
+Dec-24,Thursday,Wraps & Rolls,Website,UPI,Lunch (11am-2pm),1,196.87,5,18,29,0,19.3,4.5,Rainy,Medium,1,0,0,Delivered
+Feb-24,Wednesday,Burgers,Swiggy,UPI,Afternoon (2-5pm),6,1523.46,10,13,24,0,6.7,4,Clear,Medium,0,0,1,Delivered
+Dec-23,Thursday,South Indian,Swiggy,Credit Card,Evening (5-8pm),1,271.55,0,22,34,0,18.5,4.7,Cloudy,Medium,1,0,1,Refunded
+Mar-23,Friday,Healthy Bowls,Zomato,UPI,Afternoon (2-5pm),1,431.48,20,19,37,0,9.8,3,Clear,Low,1,1,0,Cancelled
+Dec-23,Sunday,Healthy Bowls,Website,Wallet,Afternoon (2-5pm),4,1540.52,15,14,47,0,16.2,2.8,Rainy,Medium,0,0,0,Delivered
+May-24,Tuesday,Chinese,Zomato,Debit Card,Lunch (11am-2pm),2,390.9,25,27,19,0,16.2,3.2,Clear,Low,0,0,1,Delivered
+Jul-23,Friday,Biryani,Zomato,UPI,Lunch (11am-2pm),5,1202.15,0,28,17,0,13.9,2.6,Cloudy,Very High,1,0,0,Delivered
+Jan-24,Tuesday,Healthy Bowls,Website,Cash on Delivery,Late Night (11pm-2am),6,1376.7,25,10,34,0,3.2,3.8,Cloudy,Very High,0,0,1,Delivered
+Oct-24,Saturday,Healthy Bowls,Zomato,Debit Card,Morning (7-11am),2,719.68,20,10,20,0,21,4.8,Clear,Medium,0,0,1,Delivered
+Sep-24,Sunday,Pasta,Direct App,Cash on Delivery,Lunch (11am-2pm),4,1362.76,20,21,34,0,8.7,2.6,Clear,High,1,1,0,Cancelled
+Apr-24,Saturday,Beverages,Direct App,Wallet,Late Night (11pm-2am),4,543,0,7,59,0,5.5,2.8,Cloudy,Medium,0,2,1,Cancelled
+Jun-24,Wednesday,Desserts,Direct App,UPI,Morning (7-11am),2,425.16,5,8,43,0,2,3.6,Cloudy,High,2,0,0,Delivered
+May-24,Wednesday,Biryani,Swiggy,Wallet,Late Night (11pm-2am),1,386.88,20,25,42,0,15.2,4.8,Clear,High,2,0,0,Delivered
+Feb-24,Wednesday,Healthy Bowls,Website,Credit Card,Evening (5-8pm),5,1873.8,15,17,39,0,17.3,3.3,Cloudy,Very High,0,0,1,Delivered
+Sep-24,Thursday,Burgers,Zomato,Cash on Delivery,Dinner (8-11pm),6,958.32,0,14,40,0,1.4,3.8,Clear,Medium,0,0,0,Delivered
+Jul-24,Wednesday,Biryani,Website,Wallet,Evening (5-8pm),3,1224.66,0,35,29,0,13.3,2.6,Cloudy,High,2,2,1,Cancelled
+Aug-23,Tuesday,Chinese,Zomato,Cash on Delivery,Dinner (8-11pm),2,639.6,10,24,21,0,6.4,2.9,Clear,Medium,1,0,1,Delivered
+Feb-23,Sunday,Desserts,Zomato,Wallet,Evening (5-8pm),2,215.24,15,8,40,0,16.5,5,Rainy,Very High,0,0,1,Delivered
+May-23,Saturday,Healthy Bowls,Swiggy,Cash on Delivery,Morning (7-11am),3,691.05,25,19,16,0,5.2,4.9,Clear,Low,0,0,0,Delivered
+Apr-23,Tuesday,Biryani,Swiggy,Credit Card,Evening (5-8pm),6,2452.86,25,25,29,0,17.6,2.5,Clear,High,0,0,0,Delivered
+Jul-24,Wednesday,Desserts,Direct App,Wallet,Morning (7-11am),4,305.96,15,14,27,0,10.3,4.9,Clear,High,1,0,0,Delivered
+Dec-23,Tuesday,Wraps & Rolls,Direct App,Credit Card,Morning (7-11am),3,511.68,0,12,33,0,23.5,4.1,Clear,High,1,0,0,Delivered
+Apr-23,Sunday,Wraps & Rolls,Zomato,Credit Card,Morning (7-11am),1,207.55,5,12,17,0,4.3,4.7,Cloudy,Low,0,0,0,Delivered
+Apr-23,Wednesday,Biryani,Swiggy,Credit Card,Late Night (11pm-2am),1,374.13,5,35,24,0,9.2,3.6,Clear,Very High,1,1,1,Cancelled
+Jan-24,Saturday,Beverages,Swiggy,Wallet,Evening (5-8pm),3,388.77,10,3,43,0,3.7,3.8,Rainy,Low,0,0,1,Delivered
+Feb-24,Thursday,South Indian,Direct App,Cash on Delivery,Lunch (11am-2pm),4,416.76,25,19,38,0,23.2,3.7,Clear,High,0,0,0,Delivered
+Aug-23,Wednesday,Pasta,Zomato,UPI,Lunch (11am-2pm),4,1082.36,0,26,16,0,22.1,4.2,Clear,Medium,1,0,0,Refunded
+Oct-24,Monday,Chinese,Website,Cash on Delivery,Afternoon (2-5pm),6,961.02,15,24,32,0,7.2,2.8,Clear,Medium,0,0,1,Delivered
+Mar-23,Tuesday,Pasta,Swiggy,Wallet,Late Night (11pm-2am),3,1096.65,15,15,44,0,16.8,2.6,Clear,Medium,0,0,0,Delivered
+Sep-23,Saturday,Pasta,Swiggy,Cash on Delivery,Afternoon (2-5pm),4,1338.24,0,16,43,0,20.6,3.3,Clear,Medium,0,0,0,Delivered
+Jul-23,Tuesday,Chinese,Zomato,Wallet,Morning (7-11am),2,600.4,0,16,39,0,14.3,4.3,Clear,Low,1,0,1,Delivered
+Feb-23,Tuesday,Beverages,Website,UPI,Late Night (11pm-2am),5,221.25,20,7,20,0,13.7,3,Clear,Low,0,0,1,Delivered
+Jun-23,Saturday,Chinese,Zomato,Wallet,Dinner (8-11pm),2,424.24,0,16,23,0,6.8,4.2,Clear,Medium,0,1,0,Delivered
+Jun-24,Thursday,South Indian,Direct App,UPI,Evening (5-8pm),4,795.4,20,12,36,0,3.2,4.9,Cloudy,High,0,0,1,Delivered
+Dec-24,Tuesday,South Indian,Website,Wallet,Lunch (11am-2pm),6,945.42,0,22,32,0,22.5,2.7,Cloudy,High,1,0,0,Delivered
+Oct-23,Friday,Chinese,Direct App,Credit Card,Afternoon (2-5pm),1,329.19,5,24,32,0,22.6,4.2,Clear,Low,1,0,1,Delivered
+Feb-23,Tuesday,Chinese,Website,Wallet,Lunch (11am-2pm),2,399.16,20,20,50,0,16.2,3.6,Clear,Medium,0,0,0,Delivered
+Jan-23,Monday,Chinese,Zomato,UPI,Afternoon (2-5pm),4,808.4,15,15,23,0,9.1,4.7,Stormy,Low,1,0,0,Delivered
+Jul-23,Friday,Pasta,Swiggy,Debit Card,Lunch (11am-2pm),5,2440.4,5,21,37,0,9.4,2.9,Cloudy,Low,2,1,1,Cancelled
+Mar-23,Friday,Desserts,Zomato,Credit Card,Dinner (8-11pm),3,307.98,5,13,17,0,18.4,4.2,Cloudy,High,0,0,0,Delivered
+Feb-23,Friday,Burgers,Swiggy,Debit Card,Late Night (11pm-2am),1,211.66,5,15,45,0,22.5,4.6,Clear,High,1,1,1,Delivered
+Dec-24,Sunday,Burgers,Website,Debit Card,Late Night (11pm-2am),4,1340.08,0,13,44,0,22.3,4.9,Rainy,Low,0,0,1,Delivered
+May-23,Thursday,South Indian,Zomato,UPI,Afternoon (2-5pm),6,1530.84,25,20,22,0,19.7,4.2,Rainy,Medium,0,0,1,Delivered
+Apr-23,Monday,Beverages,Swiggy,UPI,Lunch (11am-2pm),4,292.04,0,10,19,0,16.4,3.7,Cloudy,Low,0,0,1,Delivered
+Dec-24,Thursday,Chinese,Zomato,Credit Card,Afternoon (2-5pm),3,1153.65,0,22,37,0,3,4,Stormy,High,1,1,0,Cancelled
+Aug-23,Tuesday,South Indian,Direct App,Debit Card,Morning (7-11am),4,437,0,21,45,0,4.9,4.7,Clear,Very High,0,0,1,Delivered
+May-23,Monday,Beverages,Direct App,Credit Card,Afternoon (2-5pm),1,123.75,0,5,22,0,22.6,3.9,Clear,Low,0,1,0,Delivered
+Apr-24,Sunday,Desserts,Swiggy,Debit Card,Late Night (11pm-2am),1,116.72,15,12,24,0,15.6,2.6,Rainy,Medium,0,1,0,Cancelled
+Nov-23,Sunday,Pasta,Swiggy,Debit Card,Late Night (11pm-2am),1,418.84,5,21,42,0,1.2,4.8,Rainy,High,0,1,1,Cancelled
+Sep-24,Tuesday,Beverages,Direct App,Debit Card,Evening (5-8pm),4,279.08,20,9,15,0,3.4,4.2,Clear,Very High,1,0,0,Delivered
+Mar-23,Tuesday,Beverages,Website,Wallet,Lunch (11am-2pm),5,212.25,0,7,20,0,16.9,4.2,Clear,Medium,2,0,0,Delivered
+Sep-23,Sunday,South Indian,Direct App,UPI,Lunch (11am-2pm),1,94.11,15,21,42,0,1.1,3,Clear,Low,0,0,0,Delivered
+Dec-24,Friday,Wraps & Rolls,Website,Debit Card,Morning (7-11am),4,917.68,10,15,33,0,4.9,4.1,Clear,Low,0,0,0,Delivered
+Jan-23,Tuesday,Chinese,Zomato,Debit Card,Dinner (8-11pm),3,624.78,15,17,45,0,14.2,3.5,Rainy,Medium,0,0,1,Delivered
+Oct-23,Friday,Desserts,Swiggy,Debit Card,Morning (7-11am),2,128.18,5,11,42,0,17.6,4.1,Cloudy,Medium,2,0,0,Delivered
+May-24,Tuesday,Pizza,Zomato,UPI,Lunch (11am-2pm),4,1020.8,15,28,42,0,16.6,2.8,Clear,Low,1,0,0,Delivered
+Mar-24,Tuesday,Pizza,Swiggy,Credit Card,Morning (7-11am),6,2527.98,25,17,23,0,6.4,4.1,Clear,Medium,1,0,1,Refunded
+Oct-24,Saturday,South Indian,Website,Cash on Delivery,Late Night (11pm-2am),3,429.15,10,16,23,0,18.1,5,Clear,Low,0,0,0,Delivered
+Feb-23,Thursday,Pasta,Website,Credit Card,Dinner (8-11pm),5,1318.75,5,16,20,0,6.7,2.6,Clear,High,0,0,0,Delivered
+Jul-23,Monday,Biryani,Swiggy,Credit Card,Lunch (11am-2pm),3,633.42,5,29,36,0,8.8,4.9,Cloudy,Medium,1,0,0,Delivered
+Sep-23,Sunday,Pizza,Website,Debit Card,Afternoon (2-5pm),6,3033.9,0,17,26,0,18.9,3.5,Stormy,Low,0,0,0,Delivered
+Jan-23,Monday,South Indian,Swiggy,Credit Card,Evening (5-8pm),5,1325.8,10,15,20,0,16.6,4.7,Rainy,Medium,0,0,0,Delivered
+Dec-23,Friday,Chinese,Swiggy,UPI,Late Night (11pm-2am),5,1718.9,10,21,30,0,21.4,4.5,Clear,Medium,0,0,1,Delivered
+Jan-24,Wednesday,Wraps & Rolls,Swiggy,Credit Card,Morning (7-11am),6,1414.26,25,11,24,0,16.8,3.9,Rainy,Very High,0,0,0,Cancelled
+Mar-23,Wednesday,Wraps & Rolls,Direct App,Wallet,Dinner (8-11pm),4,958.28,0,15,31,0,14.6,4.3,Rainy,Medium,1,0,1,Delivered
+Dec-23,Wednesday,Burgers,Zomato,Credit Card,Lunch (11am-2pm),4,428.84,0,13,20,0,3.2,4.7,Rainy,Medium,0,0,1,Delivered
+Apr-24,Monday,Wraps & Rolls,Direct App,Credit Card,Evening (5-8pm),3,771.42,5,8,32,0,9.8,3.5,Clear,High,0,0,1,Delivered
+Dec-23,Friday,Chinese,Zomato,Credit Card,Morning (7-11am),3,1056.6,0,18,30,0,7.4,3.3,Clear,Medium,0,0,0,Delivered
+Jul-23,Sunday,Desserts,Zomato,Wallet,Morning (7-11am),6,773.94,25,15,29,0,6.9,4.2,Clear,Very High,0,0,0,Delivered
+Oct-24,Tuesday,South Indian,Zomato,Cash on Delivery,Evening (5-8pm),3,424.17,5,20,43,0,24.4,4.5,Clear,Medium,0,0,0,Delivered
+Sep-24,Sunday,Burgers,Swiggy,Debit Card,Morning (7-11am),4,750.16,5,18,31,0,10.4,4.4,Clear,Medium,0,0,1,Delivered
+Aug-24,Monday,South Indian,Zomato,Credit Card,Lunch (11am-2pm),6,810.18,10,15,30,0,22.4,4.5,Clear,Low,0,0,0,Delivered
+Jul-24,Saturday,Pizza,Swiggy,UPI,Morning (7-11am),6,1481.28,5,30,34,0,16.1,3.6,Clear,Medium,0,0,0,Delivered
+Feb-23,Wednesday,Biryani,Website,UPI,Evening (5-8pm),1,448.09,10,29,42,0,20.1,4.5,Cloudy,High,0,0,0,Delivered
+Dec-23,Saturday,Pasta,Website,Cash on Delivery,Evening (5-8pm),1,194.11,15,28,29,0,13.1,2.8,Clear,High,2,0,0,Delivered
+Nov-24,Friday,South Indian,Zomato,Wallet,Evening (5-8pm),3,261.27,10,15,18,0,14.8,3.9,Clear,Medium,0,0,0,Delivered
+Feb-24,Thursday,Chinese,Website,Debit Card,Lunch (11am-2pm),6,971.82,20,28,36,0,12.8,2.5,Stormy,Medium,1,0,0,Delivered
+Jul-23,Sunday,Healthy Bowls,Direct App,Cash on Delivery,Afternoon (2-5pm),4,1595.6,0,11,33,0,5.7,3.3,Stormy,High,2,0,0,Cancelled
+Jul-23,Thursday,Biryani,Direct App,Debit Card,Dinner (8-11pm),3,730.41,5,27,61,0,18.3,3.4,Rainy,Very High,0,0,0,Cancelled
+Aug-24,Thursday,South Indian,Swiggy,Credit Card,Late Night (11pm-2am),6,632.7,20,16,18,0,7.7,3.5,Stormy,Low,1,1,0,Cancelled
+Jul-24,Monday,Desserts,Direct App,UPI,Lunch (11am-2pm),2,400.86,0,12,19,0,1.6,4.2,Cloudy,Medium,0,0,1,Delivered
+Jun-23,Monday,Biryani,Swiggy,UPI,Afternoon (2-5pm),4,1203.32,15,26,32,0,16.5,3.5,Stormy,Medium,0,0,0,Delivered
+Jun-24,Friday,Pasta,Swiggy,Cash on Delivery,Dinner (8-11pm),2,815.34,0,15,15,0,5.3,3.6,Clear,High,0,0,0,Delivered
+Mar-23,Monday,Desserts,Website,UPI,Late Night (11pm-2am),1,197.9,15,6,50,0,23.6,3.1,Clear,Low,1,0,0,Delivered
+Sep-23,Sunday,Healthy Bowls,Swiggy,Debit Card,Lunch (11am-2pm),4,1902.4,0,12,45,0,23.9,3.4,Clear,Medium,1,1,0,Cancelled
+Nov-24,Saturday,Beverages,Website,Wallet,Dinner (8-11pm),2,161.94,0,9,38,0,23,3.1,Clear,High,0,0,1,Delivered
+Aug-23,Tuesday,Biryani,Website,Debit Card,Dinner (8-11pm),6,1911.78,5,33,44,0,9.9,2.7,Clear,Low,0,0,0,Delivered
+Dec-23,Wednesday,Desserts,Direct App,Credit Card,Late Night (11pm-2am),2,344.7,0,6,26,0,1.4,4,Cloudy,Medium,0,1,1,Delivered
+Feb-24,Tuesday,Burgers,Swiggy,Credit Card,Late Night (11pm-2am),1,201.56,0,14,27,0,23.3,4.2,Rainy,Medium,0,0,1,Delivered
+Jul-24,Tuesday,Pasta,Website,Wallet,Evening (5-8pm),3,1298.97,10,23,53,0,11.3,4,Cloudy,Medium,2,0,1,Refunded
+Sep-23,Tuesday,Biryani,Website,Cash on Delivery,Dinner (8-11pm),2,876.56,10,21,33,0,24.2,3.7,Clear,Medium,0,2,0,Delivered
+Feb-23,Thursday,Pasta,Swiggy,Debit Card,Afternoon (2-5pm),1,440.93,0,18,30,0,24.1,3.4,Rainy,Medium,0,0,0,Cancelled
+Mar-23,Thursday,Biryani,Direct App,UPI,Evening (5-8pm),1,228.46,0,27,32,0,21.5,4.7,Cloudy,Low,0,0,1,Delivered
+Jul-24,Friday,Burgers,Zomato,UPI,Morning (7-11am),1,215.48,5,14,37,0,8.1,3.8,Clear,Medium,1,0,0,Refunded
+Jan-24,Monday,Healthy Bowls,Website,UPI,Late Night (11pm-2am),4,918.04,25,19,52,0,10.2,3.7,Cloudy,High,1,0,1,Delivered
+Jul-24,Sunday,Beverages,Swiggy,UPI,Evening (5-8pm),6,550.68,0,3,33,0,21.4,2.6,Clear,High,0,0,1,Delivered
+Mar-24,Sunday,Biryani,Zomato,Cash on Delivery,Lunch (11am-2pm),6,1544.82,0,26,32,0,8.6,3.4,Clear,Low,1,1,1,Cancelled
+Oct-23,Monday,Biryani,Direct App,Debit Card,Dinner (8-11pm),6,2693.52,5,30,18,0,5.1,3.5,Stormy,Low,0,0,0,Delivered
+Jan-24,Monday,South Indian,Swiggy,Debit Card,Late Night (11pm-2am),3,430.53,0,12,23,0,14.4,3.5,Clear,Medium,0,0,1,Delivered
+May-23,Monday,Wraps & Rolls,Website,Debit Card,Afternoon (2-5pm),3,489.69,0,17,39,0,23.5,4,Clear,Medium,0,1,1,Delivered
+Jul-23,Monday,Pasta,Zomato,Wallet,Lunch (11am-2pm),6,1790.34,15,27,19,0,17.7,3.8,Rainy,Medium,1,0,1,Refunded
+Aug-24,Friday,Desserts,Direct App,Credit Card,Lunch (11am-2pm),6,724.68,15,8,21,0,14.7,4,Cloudy,High,1,0,0,Delivered
+Jan-24,Sunday,Pizza,Swiggy,Cash on Delivery,Afternoon (2-5pm),6,1272.84,10,15,17,0,3.3,4.4,Clear,Low,0,0,0,Delivered
+Jun-23,Friday,Biryani,Swiggy,Cash on Delivery,Afternoon (2-5pm),5,2247.9,0,26,17,0,15.8,4.5,Clear,Low,1,1,0,Delivered
+Apr-23,Thursday,South Indian,Website,Credit Card,Dinner (8-11pm),1,94.66,15,17,30,0,24.8,4.3,Clear,Medium,0,1,0,Delivered
+Jan-23,Thursday,Biryani,Swiggy,Cash on Delivery,Late Night (11pm-2am),4,1367.84,15,29,22,0,4.4,4.9,Cloudy,High,0,0,0,Delivered
+Dec-24,Sunday,Beverages,Direct App,UPI,Afternoon (2-5pm),2,299.76,5,9,18,0,13.4,2.5,Clear,Low,0,0,1,Delivered
+Nov-24,Saturday,Pasta,Swiggy,Credit Card,Evening (5-8pm),3,1074.27,25,20,32,0,22.1,3,Clear,High,0,0,0,Delivered
+Jun-23,Monday,Chinese,Zomato,Credit Card,Evening (5-8pm),3,551.85,0,16,22,0,18.8,2.5,Stormy,Medium,1,1,1,Cancelled
+Jul-24,Saturday,Healthy Bowls,Zomato,Cash on Delivery,Late Night (11pm-2am),4,1805.08,20,14,51,0,17.7,4.1,Cloudy,High,0,0,0,Delivered
+Feb-24,Thursday,Biryani,Zomato,Debit Card,Evening (5-8pm),6,1890,0,28,17,0,17.9,4.7,Clear,High,1,0,0,Delivered
+Aug-23,Wednesday,Chinese,Swiggy,Credit Card,Lunch (11am-2pm),3,924.51,25,28,32,0,9.6,3.1,Cloudy,Medium,1,1,0,Cancelled
+Aug-24,Tuesday,Desserts,Direct App,Debit Card,Evening (5-8pm),4,279.64,20,9,17,0,8,4.8,Cloudy,Medium,0,0,0,Delivered
+Apr-23,Thursday,Desserts,Swiggy,Debit Card,Morning (7-11am),3,306.84,5,11,35,0,20.4,2.7,Clear,Medium,1,0,1,Refunded
+Mar-24,Saturday,Burgers,Website,UPI,Evening (5-8pm),6,1732.56,20,11,35,0,20.4,4.8,Clear,Medium,1,0,0,Delivered
+Oct-23,Friday,Pizza,Zomato,Cash on Delivery,Afternoon (2-5pm),6,3249.84,0,28,32,0,21.8,3.4,Rainy,High,0,0,0,Cancelled
+Jun-23,Monday,Beverages,Swiggy,Credit Card,Afternoon (2-5pm),6,879.24,0,4,20,0,22.9,2.8,Clear,High,0,0,0,Delivered
+Oct-24,Friday,Pasta,Zomato,Cash on Delivery,Afternoon (2-5pm),4,1645.48,0,26,43,0,13.3,3.7,Cloudy,High,0,1,1,Delivered
+Sep-23,Wednesday,Desserts,Direct App,Wallet,Evening (5-8pm),4,294.92,5,14,42,0,13,3.1,Clear,High,1,0,0,Delivered
+Dec-24,Friday,Burgers,Zomato,Wallet,Afternoon (2-5pm),3,404.91,15,19,17,0,20.2,3.2,Clear,Medium,2,0,0,Cancelled
+Oct-24,Wednesday,Wraps & Rolls,Zomato,Debit Card,Lunch (11am-2pm),3,565.62,15,8,23,0,16.6,3.3,Clear,Low,0,0,0,Delivered
+Sep-23,Tuesday,Biryani,Direct App,Wallet,Morning (7-11am),4,800.84,0,24,32,0,17.8,4.5,Clear,High,2,0,0,Delivered
+Jul-24,Tuesday,Biryani,Direct App,Debit Card,Dinner (8-11pm),3,1182.54,25,31,39,0,20.1,3.8,Clear,Medium,0,0,0,Delivered
+Jul-24,Saturday,Burgers,Website,Debit Card,Morning (7-11am),5,912.75,5,14,33,0,22.4,3.3,Clear,High,0,0,1,Delivered
+Jul-23,Wednesday,Healthy Bowls,Website,UPI,Lunch (11am-2pm),1,440.19,25,18,20,0,9.1,4,Rainy,Medium,1,1,0,Cancelled
+Feb-23,Sunday,Wraps & Rolls,Direct App,Credit Card,Lunch (11am-2pm),5,1149.2,5,8,36,0,10,4.3,Stormy,Low,1,0,0,Delivered
+Nov-24,Friday,Wraps & Rolls,Website,Debit Card,Afternoon (2-5pm),3,675.42,0,15,20,0,3.3,3.2,Rainy,Very High,0,0,0,Cancelled
+Jan-24,Tuesday,South Indian,Swiggy,Debit Card,Dinner (8-11pm),6,578.04,0,20,31,0,14.9,3.5,Rainy,Low,0,0,0,Delivered
+Nov-24,Sunday,Biryani,Zomato,Cash on Delivery,Afternoon (2-5pm),1,376.94,0,25,42,0,1.9,2.8,Clear,Very High,0,1,0,Cancelled
+May-24,Friday,Desserts,Direct App,Cash on Delivery,Evening (5-8pm),3,229.65,15,14,43,0,12.2,3,Stormy,Very High,0,0,1,Cancelled
+Aug-23,Sunday,Burgers,Zomato,Wallet,Late Night (11pm-2am),6,1938.12,0,20,20,0,14,4.2,Clear,High,0,0,1,Delivered
+Jul-23,Tuesday,Pizza,Zomato,UPI,Morning (7-11am),3,983.1,0,27,29,0,7.9,3,Stormy,High,0,0,1,Delivered
+Mar-23,Sunday,Desserts,Website,UPI,Morning (7-11am),6,712.68,5,10,28,0,15.2,3.8,Stormy,Medium,0,1,1,Cancelled
+Apr-23,Sunday,Pasta,Website,Cash on Delivery,Afternoon (2-5pm),1,270.46,10,28,41,0,1.7,4.3,Cloudy,High,0,0,0,Delivered
+Jun-23,Wednesday,Pizza,Direct App,Debit Card,Morning (7-11am),1,491.8,0,21,41,0,1.9,2.8,Stormy,Medium,1,0,0,Delivered
+Mar-24,Thursday,Healthy Bowls,Direct App,Credit Card,Morning (7-11am),5,2320.05,0,18,23,0,20.7,3.9,Cloudy,Medium,0,0,0,Delivered
+Sep-23,Tuesday,Pasta,Swiggy,Debit Card,Afternoon (2-5pm),5,2503.1,20,17,24,0,9.6,3.1,Clear,High,0,0,0,Delivered
+Apr-23,Wednesday,Biryani,Zomato,Credit Card,Lunch (11am-2pm),4,1461.4,5,31,32,0,4,4.9,Clear,Medium,1,0,0,Delivered
+Oct-24,Thursday,Chinese,Zomato,Wallet,Lunch (11am-2pm),2,396.44,5,24,20,0,13.5,3.7,Cloudy,Medium,1,0,0,Refunded
+Mar-24,Monday,Biryani,Zomato,Credit Card,Afternoon (2-5pm),1,220.89,20,30,45,0,19.5,4.5,Clear,Medium,1,0,1,Delivered
+Aug-24,Sunday,Chinese,Direct App,Debit Card,Lunch (11am-2pm),3,1149.15,0,19,39,0,6.2,3.9,Cloudy,Medium,1,2,1,Delivered
+Sep-24,Wednesday,Pizza,Website,Credit Card,Dinner (8-11pm),4,2142.76,0,21,30,0,15.9,2.6,Stormy,High,0,1,1,Cancelled
+Aug-24,Sunday,Healthy Bowls,Zomato,Debit Card,Late Night (11pm-2am),1,433.45,10,18,20,0,3,4.1,Clear,Medium,1,0,1,Delivered
+Jan-23,Monday,Wraps & Rolls,Swiggy,Debit Card,Morning (7-11am),3,360.99,0,11,36,0,2.2,4.9,Rainy,Very High,1,1,0,Cancelled
+Jan-23,Saturday,Beverages,Direct App,Cash on Delivery,Morning (7-11am),3,186.09,0,3,38,0,13.8,4,Stormy,High,1,0,0,Delivered
+Mar-24,Wednesday,Beverages,Direct App,Debit Card,Lunch (11am-2pm),2,326.58,25,4,47,0,14,4.5,Stormy,High,0,0,1,Delivered
+Feb-23,Thursday,Biryani,Website,UPI,Dinner (8-11pm),1,413.61,20,35,33,0,16.3,4.7,Stormy,Medium,0,0,0,Delivered
+Aug-23,Saturday,Burgers,Direct App,Cash on Delivery,Lunch (11am-2pm),4,1143.48,25,17,30,0,18.4,3.1,Cloudy,High,1,0,0,Delivered
+Feb-23,Saturday,Beverages,Zomato,Wallet,Lunch (11am-2pm),4,176.64,5,6,40,0,24.4,3,Stormy,Low,0,0,0,Cancelled
+Sep-24,Tuesday,Beverages,Zomato,Debit Card,Dinner (8-11pm),2,338.18,0,8,59,0,13.4,4,Rainy,High,0,0,0,Delivered
+Mar-23,Friday,Beverages,Zomato,Debit Card,Late Night (11pm-2am),4,221.6,10,8,45,0,8.8,3.5,Clear,Low,1,0,0,Delivered
+Jan-23,Friday,Pizza,Swiggy,Credit Card,Lunch (11am-2pm),5,2271.75,15,19,27,0,20.1,4.6,Clear,High,0,0,0,Delivered
+May-24,Saturday,Chinese,Website,UPI,Morning (7-11am),1,398.97,0,25,37,0,7.5,4.8,Cloudy,Very High,0,0,0,Delivered
+Dec-24,Monday,Beverages,Direct App,UPI,Dinner (8-11pm),3,271.5,0,4,33,0,11.5,3.4,Clear,Medium,0,0,1,Delivered
+May-23,Wednesday,Wraps & Rolls,Swiggy,Cash on Delivery,Evening (5-8pm),1,107.02,15,15,39,0,2.9,3.1,Cloudy,Medium,0,1,0,Cancelled
+Jul-23,Tuesday,Desserts,Website,Debit Card,Afternoon (2-5pm),5,923.15,0,7,20,0,1.6,4.5,Cloudy,High,0,0,0,Delivered
+Dec-23,Tuesday,Beverages,Swiggy,Cash on Delivery,Morning (7-11am),2,113.88,20,4,40,0,24.1,3.2,Clear,Medium,1,0,0,Delivered
+Mar-24,Sunday,Biryani,Direct App,Credit Card,Lunch (11am-2pm),2,439.94,15,32,44,0,21.1,4.6,Cloudy,High,0,0,0,Delivered
+May-24,Wednesday,Burgers,Website,UPI,Morning (7-11am),5,1354.3,15,20,17,0,17.7,3.6,Rainy,Low,0,0,1,Delivered
+Jan-24,Monday,Beverages,Direct App,Wallet,Lunch (11am-2pm),1,115.86,15,8,17,0,10.8,4.2,Clear,Low,3,1,1,Cancelled
+Sep-23,Friday,Biryani,Website,UPI,Morning (7-11am),5,2237.45,15,26,33,0,5.2,2.7,Clear,Very High,0,0,1,Delivered
+Oct-24,Tuesday,Beverages,Zomato,Cash on Delivery,Morning (7-11am),4,517.68,0,10,54,0,4.8,4.1,Clear,High,0,0,0,Delivered
+Sep-24,Sunday,South Indian,Direct App,UPI,Morning (7-11am),5,653.6,15,19,28,0,7,3.6,Clear,High,0,0,0,Delivered
+Oct-23,Sunday,Healthy Bowls,Swiggy,Wallet,Lunch (11am-2pm),4,1317.84,0,10,21,0,14.2,4,Stormy,Medium,0,0,0,Delivered
+Jun-23,Monday,Beverages,Website,Cash on Delivery,Evening (5-8pm),5,418.7,0,8,27,0,18.2,2.9,Clear,High,2,2,0,Cancelled
+Mar-23,Saturday,Desserts,Direct App,Credit Card,Afternoon (2-5pm),5,882.55,10,11,44,0,16.8,4.3,Cloudy,Medium,0,0,0,Delivered
+Jan-24,Friday,Wraps & Rolls,Swiggy,Credit Card,Lunch (11am-2pm),1,139.26,20,18,31,0,7.7,4.7,Clear,High,1,0,0,Delivered
+Jul-24,Monday,Biryani,Zomato,Wallet,Dinner (8-11pm),2,803.06,0,26,22,0,23.9,3,Clear,High,0,0,0,Delivered
+Nov-23,Sunday,Healthy Bowls,Direct App,Wallet,Afternoon (2-5pm),4,651.2,20,19,29,0,18.7,2.7,Rainy,Medium,1,0,1,Refunded
+Jun-24,Wednesday,Beverages,Direct App,Cash on Delivery,Dinner (8-11pm),6,347.4,0,5,51,0,14.3,2.6,Cloudy,Medium,0,0,0,Delivered
+Jul-24,Thursday,Pizza,Direct App,Debit Card,Dinner (8-11pm),2,520.14,10,22,45,0,15.7,4.1,Clear,Medium,0,0,1,Delivered
+Feb-23,Thursday,Wraps & Rolls,Website,Wallet,Dinner (8-11pm),3,663.63,20,16,55,0,11.1,4,Clear,High,1,0,0,Refunded
+Jul-24,Friday,Chinese,Direct App,Debit Card,Lunch (11am-2pm),1,406.2,10,19,36,0,6.9,3.9,Clear,Medium,0,0,0,Delivered
+Jul-24,Sunday,Healthy Bowls,Direct App,Credit Card,Afternoon (2-5pm),6,2352.3,0,10,22,0,9.5,3.1,Clear,High,1,1,1,Cancelled
+Dec-23,Wednesday,Wraps & Rolls,Website,Credit Card,Lunch (11am-2pm),3,652.92,20,9,25,0,19.2,3.5,Cloudy,Medium,0,0,1,Delivered
+Aug-24,Thursday,Pasta,Direct App,Credit Card,Morning (7-11am),1,297.79,0,22,24,0,1.3,4,Clear,High,1,0,0,Delivered
+Aug-24,Friday,Biryani,Swiggy,UPI,Morning (7-11am),2,557.78,15,30,16,0,3.8,3.7,Clear,High,1,0,0,Delivered
+Feb-24,Sunday,Burgers,Direct App,Debit Card,Evening (5-8pm),3,951.12,10,15,30,0,2.1,5,Clear,Medium,1,0,0,Delivered
+Mar-23,Saturday,Beverages,Website,Wallet,Lunch (11am-2pm),1,79.32,15,8,23,0,2,2.8,Stormy,Low,1,0,0,Delivered
+Sep-23,Thursday,Desserts,Direct App,Wallet,Dinner (8-11pm),3,410.34,0,8,18,0,21.5,4.2,Stormy,Low,1,0,1,Delivered
+Jul-23,Friday,Wraps & Rolls,Website,Wallet,Dinner (8-11pm),5,1173.1,10,12,21,0,17.9,3.5,Clear,High,0,0,1,Delivered
+Jul-24,Tuesday,Burgers,Zomato,UPI,Lunch (11am-2pm),5,1222.05,0,16,35,0,12.4,3.6,Rainy,High,0,0,0,Delivered
+Feb-24,Monday,Burgers,Zomato,Wallet,Afternoon (2-5pm),6,1828.8,20,11,21,0,3.3,4.3,Clear,Low,0,1,0,Delivered
+Mar-23,Thursday,Wraps & Rolls,Website,UPI,Lunch (11am-2pm),3,733.41,15,9,42,0,12.8,4.2,Clear,High,0,0,0,Delivered
+Jan-24,Tuesday,Pasta,Website,UPI,Afternoon (2-5pm),2,931.82,0,18,19,0,12.4,5,Rainy,Medium,1,0,0,Delivered
+Aug-23,Saturday,South Indian,Swiggy,Cash on Delivery,Morning (7-11am),3,746.67,20,18,41,0,5.2,2.8,Stormy,Medium,1,0,1,Delivered
+Apr-24,Saturday,Wraps & Rolls,Website,Cash on Delivery,Lunch (11am-2pm),4,934.84,5,13,29,0,11.4,2.8,Stormy,Very High,0,1,1,Cancelled
+Jun-24,Thursday,Desserts,Zomato,Debit Card,Lunch (11am-2pm),2,314.14,0,6,37,0,10.6,4.3,Cloudy,Medium,0,1,0,Delivered
+Aug-24,Sunday,Biryani,Website,Credit Card,Morning (7-11am),1,376.08,10,20,44,0,15.8,3.9,Clear,Medium,0,0,0,Delivered
+Aug-23,Tuesday,Healthy Bowls,Zomato,Wallet,Morning (7-11am),5,2239.45,25,18,17,0,16.2,3.2,Rainy,Low,0,0,0,Cancelled
+Sep-23,Sunday,Burgers,Website,Debit Card,Afternoon (2-5pm),5,705.6,25,11,37,0,2.1,2.7,Clear,Low,0,0,0,Delivered
+Jan-23,Tuesday,Desserts,Swiggy,Cash on Delivery,Dinner (8-11pm),2,148.58,0,12,22,0,10,2.7,Cloudy,Medium,0,0,1,Delivered
+Oct-23,Tuesday,Burgers,Website,Cash on Delivery,Morning (7-11am),6,1997.04,0,11,27,0,16,4.7,Clear,Low,0,1,0,Delivered
+Jul-24,Wednesday,Wraps & Rolls,Zomato,Credit Card,Late Night (11pm-2am),3,503.25,20,15,26,0,13.1,3,Cloudy,High,0,0,0,Delivered
+Oct-24,Sunday,Burgers,Zomato,Debit Card,Dinner (8-11pm),2,481.1,0,14,21,0,21.6,3.3,Clear,Medium,0,0,0,Delivered
+Oct-23,Sunday,Healthy Bowls,Zomato,Credit Card,Morning (7-11am),4,1121.68,0,11,34,0,16.8,3.1,Clear,Medium,0,0,1,Delivered
+Nov-24,Tuesday,Pasta,Zomato,Credit Card,Lunch (11am-2pm),4,1973.68,0,15,29,0,4.9,3.4,Stormy,Low,2,0,0,Cancelled
+Feb-24,Tuesday,Biryani,Direct App,Credit Card,Morning (7-11am),6,1553.88,0,31,43,0,2.7,2.7,Clear,Medium,0,0,1,Delivered
+Dec-23,Saturday,Beverages,Swiggy,Debit Card,Dinner (8-11pm),1,55.85,0,9,18,0,16.4,3.8,Cloudy,High,2,0,1,Delivered
+Sep-23,Saturday,Pizza,Website,Debit Card,Afternoon (2-5pm),5,1126.55,15,25,34,0,1.6,2.7,Clear,Very High,0,0,1,Delivered
+May-23,Friday,Desserts,Direct App,UPI,Morning (7-11am),2,316.62,25,14,21,0,15.1,4.5,Clear,Low,1,0,0,Delivered
+Aug-23,Sunday,Chinese,Zomato,Debit Card,Morning (7-11am),3,748.71,25,28,41,0,23.6,3.1,Clear,High,0,0,0,Delivered
+Mar-23,Monday,Burgers,Direct App,Credit Card,Dinner (8-11pm),4,1044.8,0,12,23,0,14.8,3.9,Clear,Medium,1,0,0,Delivered
+Jun-23,Thursday,Burgers,Zomato,Cash on Delivery,Dinner (8-11pm),6,1124.34,0,17,34,0,10.3,4.7,Rainy,Medium,0,0,0,Delivered
+Aug-24,Sunday,Wraps & Rolls,Direct App,Credit Card,Afternoon (2-5pm),3,700.59,10,9,32,0,16.4,4.1,Clear,Medium,0,0,0,Delivered
+Jun-23,Wednesday,Biryani,Direct App,Wallet,Lunch (11am-2pm),6,2487.12,25,35,31,0,12,3.8,Stormy,Low,1,0,0,Delivered
+Sep-23,Wednesday,Pizza,Zomato,Wallet,Dinner (8-11pm),4,1753.04,0,20,17,0,14.1,3.3,Cloudy,Low,0,1,0,Cancelled
+Oct-23,Sunday,Healthy Bowls,Website,UPI,Evening (5-8pm),5,2052.1,15,10,16,0,23.6,3.3,Clear,High,0,1,1,Cancelled
+Jun-24,Sunday,Chinese,Zomato,Credit Card,Late Night (11pm-2am),4,912.28,15,17,46,0,10.3,4.2,Cloudy,Medium,0,1,0,Delivered
+Nov-24,Wednesday,Chinese,Website,Debit Card,Dinner (8-11pm),3,1094.46,5,15,42,0,24.1,5,Cloudy,Very High,0,0,0,Delivered
+May-24,Wednesday,Pasta,Zomato,Debit Card,Evening (5-8pm),1,476.36,10,17,18,0,22.7,4.2,Rainy,Medium,1,0,1,Refunded
+Nov-24,Tuesday,Desserts,Swiggy,UPI,Afternoon (2-5pm),4,643.68,5,10,41,0,5.7,3.9,Clear,Low,0,0,1,Delivered
+Jul-23,Sunday,Biryani,Website,Cash on Delivery,Dinner (8-11pm),6,1491.18,0,21,37,0,2.7,4.3,Clear,High,0,1,1,Delivered
+Apr-24,Monday,Pasta,Swiggy,Credit Card,Lunch (11am-2pm),2,854.26,25,15,22,0,3.4,3.7,Rainy,Medium,0,2,1,Cancelled
+Feb-23,Tuesday,Healthy Bowls,Website,Debit Card,Late Night (11pm-2am),5,1442.85,0,20,42,0,1.4,2.7,Stormy,Medium,1,1,1,Cancelled
+Nov-23,Thursday,Healthy Bowls,Website,Wallet,Morning (7-11am),6,2002.02,25,18,16,0,3.3,3.9,Rainy,High,0,0,0,Delivered
+Nov-23,Friday,Wraps & Rolls,Direct App,Debit Card,Late Night (11pm-2am),1,104.56,10,11,41,0,17.4,4.9,Clear,Very High,0,1,0,Cancelled
+Aug-24,Thursday,Healthy Bowls,Swiggy,Credit Card,Late Night (11pm-2am),3,1246.53,25,10,33,0,2.7,2.9,Rainy,High,1,0,0,Cancelled
+Apr-24,Sunday,Pasta,Zomato,Credit Card,Evening (5-8pm),3,925.86,25,19,50,0,8.7,4.2,Clear,High,1,0,0,Delivered
+Jan-23,Monday,Desserts,Swiggy,Wallet,Lunch (11am-2pm),6,807.78,0,8,56,0,21.3,3,Clear,High,0,0,0,Delivered
+Feb-23,Friday,Wraps & Rolls,Zomato,Credit Card,Evening (5-8pm),6,1206.42,0,11,44,0,1.6,3.8,Clear,Very High,0,0,0,Delivered
+Dec-23,Saturday,Wraps & Rolls,Website,UPI,Late Night (11pm-2am),1,218.13,25,16,36,0,20.5,2.7,Cloudy,Medium,0,0,0,Delivered
+Apr-24,Sunday,Biryani,Zomato,Wallet,Afternoon (2-5pm),3,852.57,5,32,42,0,7.8,3.6,Clear,Low,0,0,0,Delivered
+Mar-23,Friday,Pasta,Website,Wallet,Dinner (8-11pm),5,1153.7,25,19,32,0,3.8,4.4,Clear,Medium,0,0,0,Delivered
+Mar-24,Saturday,South Indian,Zomato,Cash on Delivery,Morning (7-11am),2,380.96,0,17,16,0,17.7,3.4,Rainy,Medium,0,0,1,Delivered
+Aug-23,Saturday,Burgers,Zomato,Debit Card,Evening (5-8pm),1,285.85,5,18,20,0,16.1,4.2,Clear,High,0,1,0,Delivered
+Nov-24,Wednesday,South Indian,Website,Cash on Delivery,Late Night (11pm-2am),2,429.14,0,15,35,0,22.1,4.5,Clear,High,1,0,1,Refunded
+Jul-24,Thursday,Wraps & Rolls,Swiggy,Cash on Delivery,Evening (5-8pm),5,821.25,10,12,45,0,18.6,4.8,Clear,Medium,1,0,0,Delivered
+Apr-23,Monday,Chinese,Direct App,Credit Card,Evening (5-8pm),1,323.95,5,22,37,0,20.3,3.1,Stormy,Low,0,1,1,Cancelled
+Apr-23,Friday,South Indian,Website,Wallet,Evening (5-8pm),1,96.65,15,17,44,0,7.8,3.5,Cloudy,High,1,1,1,Delivered
+May-24,Sunday,Wraps & Rolls,Zomato,Credit Card,Afternoon (2-5pm),1,225,0,14,54,0,5.3,2.9,Clear,Medium,1,0,1,Delivered
+Aug-24,Monday,Biryani,Website,Cash on Delivery,Afternoon (2-5pm),3,771.03,25,23,24,0,19,5,Rainy,High,1,0,1,Delivered
+Jun-24,Monday,Burgers,Website,Debit Card,Late Night (11pm-2am),2,516.12,20,14,27,0,20.4,4.8,Rainy,Medium,0,0,0,Delivered
+Mar-24,Thursday,Chinese,Website,Wallet,Late Night (11pm-2am),3,1082.22,25,25,38,0,24.8,3.8,Clear,Medium,1,0,1,Delivered
+Jan-23,Tuesday,Pizza,Website,Debit Card,Evening (5-8pm),3,814.77,20,22,36,0,10.9,4.6,Cloudy,Low,1,0,1,Delivered
+Oct-24,Sunday,Pizza,Swiggy,UPI,Morning (7-11am),3,862.53,0,16,52,0,9.9,3.8,Rainy,Low,3,1,1,Cancelled
+Oct-23,Tuesday,Beverages,Zomato,Credit Card,Morning (7-11am),2,213.08,15,6,34,0,19.6,4.1,Cloudy,High,1,0,1,Refunded
+Apr-23,Saturday,South Indian,Swiggy,Cash on Delivery,Dinner (8-11pm),1,274.43,0,12,43,0,9.2,2.7,Clear,Very High,1,1,0,Cancelled
+Nov-24,Friday,Biryani,Website,UPI,Late Night (11pm-2am),2,739.7,25,29,42,0,23.3,4.4,Rainy,High,2,1,1,Cancelled
+Dec-23,Friday,Wraps & Rolls,Website,UPI,Afternoon (2-5pm),2,334.48,10,8,23,0,21.6,2.8,Cloudy,Low,0,1,0,Cancelled
+Jun-23,Wednesday,Burgers,Direct App,Credit Card,Evening (5-8pm),1,199.6,25,20,16,0,11.3,4.6,Clear,Medium,0,0,0,Delivered
+Apr-24,Wednesday,South Indian,Zomato,Cash on Delivery,Dinner (8-11pm),5,762.3,20,21,29,0,19,4.5,Clear,High,0,1,0,Delivered
+Feb-23,Saturday,Biryani,Website,Credit Card,Dinner (8-11pm),5,1152.5,0,25,24,0,19.1,4.3,Clear,High,1,0,1,Refunded
+Jun-24,Sunday,Beverages,Zomato,Cash on Delivery,Late Night (11pm-2am),1,77.03,15,6,18,0,3.5,2.6,Clear,Low,0,0,0,Delivered
+Sep-24,Sunday,Wraps & Rolls,Website,Wallet,Evening (5-8pm),3,475.23,25,12,27,0,22.7,3.3,Rainy,Low,0,0,0,Cancelled
+Jan-23,Sunday,Desserts,Direct App,UPI,Dinner (8-11pm),4,619.64,20,9,21,0,13.1,3.2,Clear,High,0,0,0,Delivered
+Dec-24,Monday,Chinese,Swiggy,Cash on Delivery,Afternoon (2-5pm),6,1048.44,0,17,24,0,20.8,3.4,Clear,Medium,0,0,1,Delivered
+May-23,Thursday,Chinese,Website,Debit Card,Dinner (8-11pm),5,1463.15,0,23,19,0,8.7,2.7,Cloudy,Medium,1,0,0,Delivered
+Jan-24,Thursday,Wraps & Rolls,Direct App,Cash on Delivery,Evening (5-8pm),1,119.77,20,11,59,0,22.5,4.8,Clear,Low,0,0,0,Delivered
+Nov-24,Friday,Pizza,Swiggy,Cash on Delivery,Late Night (11pm-2am),6,1322.94,5,15,20,0,10.3,3.9,Stormy,Medium,0,0,0,Delivered
+Feb-23,Tuesday,South Indian,Direct App,Debit Card,Dinner (8-11pm),1,82.22,0,22,27,0,1.3,3.3,Clear,High,0,0,1,Delivered
+Jul-23,Monday,Wraps & Rolls,Direct App,Cash on Delivery,Late Night (11pm-2am),5,1190.1,20,10,45,0,22.7,3.5,Clear,Very High,1,0,1,Delivered
+Dec-24,Tuesday,Wraps & Rolls,Zomato,UPI,Late Night (11pm-2am),2,383.96,0,9,32,0,3.2,3.6,Clear,Medium,0,1,1,Delivered
+Mar-23,Saturday,Healthy Bowls,Direct App,Wallet,Morning (7-11am),1,450.47,10,19,44,0,8.7,4,Clear,Medium,0,0,0,Delivered
+Feb-24,Thursday,Pizza,Direct App,Debit Card,Afternoon (2-5pm),1,503.22,25,28,18,0,23.8,3.8,Clear,Low,1,0,1,Delivered
+Feb-23,Thursday,Desserts,Zomato,UPI,Evening (5-8pm),2,259.18,5,5,47,0,23.8,4.8,Cloudy,Medium,1,0,0,Delivered
+Jul-23,Saturday,Pizza,Direct App,Wallet,Morning (7-11am),2,1181.62,10,27,19,0,14.8,3.7,Stormy,Medium,0,0,0,Delivered
+Jun-24,Saturday,Biryani,Zomato,Credit Card,Late Night (11pm-2am),5,1995.6,0,30,19,0,16.2,5,Clear,High,0,0,0,Delivered
+Jan-23,Wednesday,Wraps & Rolls,Website,Debit Card,Afternoon (2-5pm),3,307.17,0,16,24,0,11.8,4.6,Cloudy,Medium,1,0,0,Delivered
+Nov-24,Friday,Pasta,Website,Debit Card,Morning (7-11am),3,1338.96,25,20,25,0,8,3,Cloudy,Medium,0,2,1,Cancelled
+Nov-24,Monday,Healthy Bowls,Swiggy,Wallet,Lunch (11am-2pm),5,1777.95,15,12,21,0,8.9,4.8,Rainy,Low,2,0,0,Delivered
+Mar-23,Monday,Healthy Bowls,Website,Credit Card,Lunch (11am-2pm),6,2085.18,10,12,30,0,17.1,2.8,Clear,Medium,0,0,0,Delivered
+Feb-23,Monday,Desserts,Website,Wallet,Afternoon (2-5pm),6,1059.3,5,7,16,0,19.1,4.5,Clear,Low,0,0,0,Delivered
+Dec-24,Thursday,Wraps & Rolls,Swiggy,Wallet,Morning (7-11am),4,385.2,0,16,65,0,20,3.5,Clear,Low,1,1,0,Delivered
+Aug-23,Monday,Biryani,Direct App,Wallet,Evening (5-8pm),4,1639.56,0,33,15,0,20,4.7,Cloudy,Very High,0,0,0,Delivered
+Feb-24,Thursday,Chinese,Zomato,Cash on Delivery,Late Night (11pm-2am),4,1261.36,0,25,32,0,3.2,4.7,Rainy,Medium,0,0,0,Delivered
+May-24,Saturday,Healthy Bowls,Swiggy,Wallet,Evening (5-8pm),4,858.16,25,11,15,0,12.9,4.5,Clear,Medium,2,0,0,Delivered
+Feb-24,Thursday,Pasta,Zomato,UPI,Morning (7-11am),1,481.49,0,21,35,0,2.4,4.5,Clear,High,0,0,1,Delivered
+Mar-24,Wednesday,Biryani,Direct App,Credit Card,Afternoon (2-5pm),2,443.42,20,23,43,0,14.2,3.3,Stormy,Very High,0,0,1,Cancelled
+Nov-24,Tuesday,Biryani,Direct App,Wallet,Dinner (8-11pm),4,1028.32,5,31,16,0,11.6,2.7,Rainy,Medium,0,0,1,Delivered
+Apr-24,Sunday,Pasta,Swiggy,Debit Card,Late Night (11pm-2am),6,2054.16,15,23,28,0,22.3,3.5,Stormy,High,2,0,0,Cancelled
+Jan-23,Saturday,Biryani,Direct App,Cash on Delivery,Morning (7-11am),3,1152.72,20,20,30,0,9.4,2.9,Rainy,Medium,0,0,1,Delivered
+Oct-24,Tuesday,Pizza,Website,UPI,Lunch (11am-2pm),3,1181.31,0,23,18,0,3.8,4.2,Clear,Medium,1,0,1,Delivered
+Jul-23,Monday,Wraps & Rolls,Website,Credit Card,Morning (7-11am),1,189.73,0,18,28,0,4.4,3.4,Cloudy,Medium,0,0,1,Delivered
+Jul-24,Thursday,Chinese,Direct App,UPI,Afternoon (2-5pm),4,1324.4,0,23,35,0,19.3,4.9,Cloudy,High,0,0,0,Delivered
+Jan-23,Thursday,Pizza,Swiggy,Wallet,Morning (7-11am),6,3309,25,28,45,0,15.8,4.1,Clear,High,0,0,0,Delivered
+Sep-24,Thursday,Desserts,Website,Credit Card,Lunch (11am-2pm),3,623.67,0,8,38,0,3.4,4.6,Cloudy,Medium,1,1,1,Delivered
+Jul-23,Monday,Pasta,Zomato,Credit Card,Dinner (8-11pm),4,1753.76,15,17,55,0,3,2.8,Cloudy,Low,0,1,0,Cancelled
+Mar-23,Thursday,Burgers,Direct App,Cash on Delivery,Afternoon (2-5pm),4,1074.92,5,16,29,0,17.8,4.7,Clear,High,0,0,0,Delivered
+Aug-23,Friday,Biryani,Website,Debit Card,Lunch (11am-2pm),2,427.84,25,28,16,0,2.7,4.8,Rainy,Low,0,0,0,Delivered
+Apr-24,Monday,Healthy Bowls,Website,Credit Card,Afternoon (2-5pm),1,403.87,5,20,25,0,20.7,3.7,Cloudy,Medium,0,0,0,Delivered
+Nov-23,Friday,Chinese,Swiggy,Debit Card,Late Night (11pm-2am),1,285.79,15,28,40,0,17.9,4,Stormy,High,0,0,1,Delivered
+Aug-23,Wednesday,Pizza,Direct App,Debit Card,Lunch (11am-2pm),5,2079.5,0,26,15,0,3,4.4,Clear,High,1,0,0,Delivered
+Jun-23,Friday,South Indian,Direct App,UPI,Late Night (11pm-2am),1,235.39,25,17,24,0,3,2.9,Clear,High,0,2,0,Cancelled
+Oct-24,Tuesday,Burgers,Swiggy,UPI,Lunch (11am-2pm),2,517.96,10,17,36,0,24.7,3.8,Cloudy,High,0,0,1,Delivered
+Dec-24,Thursday,Pasta,Swiggy,Wallet,Afternoon (2-5pm),5,1893.35,20,16,31,0,10,3.5,Clear,Medium,1,0,0,Refunded
+Jul-23,Wednesday,Biryani,Direct App,Credit Card,Evening (5-8pm),6,1560.48,20,29,44,0,9.9,2.9,Cloudy,High,0,0,0,Delivered
+Feb-24,Thursday,Beverages,Swiggy,UPI,Dinner (8-11pm),3,489.87,0,9,29,0,20.5,3.4,Rainy,High,0,0,0,Cancelled
+Aug-23,Wednesday,Chinese,Direct App,Cash on Delivery,Dinner (8-11pm),4,791.6,5,28,28,0,23.7,2.7,Clear,Low,0,0,1,Delivered
+Feb-23,Wednesday,Chinese,Swiggy,Debit Card,Morning (7-11am),2,410.08,25,24,28,0,24.7,2.6,Cloudy,Low,0,0,0,Delivered
+Mar-24,Friday,Desserts,Direct App,Cash on Delivery,Dinner (8-11pm),6,1195.8,5,5,19,0,19.1,2.8,Cloudy,Medium,1,0,1,Delivered
+Aug-24,Saturday,Pasta,Direct App,UPI,Lunch (11am-2pm),1,475.25,0,23,43,0,10,4.9,Clear,Medium,0,1,0,Delivered
+Aug-24,Thursday,Pasta,Swiggy,Debit Card,Lunch (11am-2pm),4,1030,20,24,26,0,3,3.9,Stormy,High,1,0,0,Delivered
+Feb-23,Tuesday,Pizza,Website,Cash on Delivery,Lunch (11am-2pm),1,215.62,0,30,40,0,19.7,4.9,Rainy,High,0,1,0,Cancelled
+May-24,Tuesday,Pizza,Zomato,Cash on Delivery,Dinner (8-11pm),4,1372.36,0,21,33,0,14.4,3.6,Cloudy,Low,0,1,0,Delivered
+Jul-24,Tuesday,Burgers,Direct App,Wallet,Lunch (11am-2pm),2,200.76,0,17,30,0,11.2,3.3,Cloudy,Low,0,0,1,Delivered
+Aug-23,Monday,Chinese,Swiggy,Debit Card,Evening (5-8pm),3,645.69,0,26,31,0,22.8,3.8,Clear,Very High,0,0,1,Delivered
+Jul-24,Saturday,Desserts,Direct App,Cash on Delivery,Evening (5-8pm),5,499.95,0,10,41,0,3.7,3.6,Stormy,Low,1,0,0,Refunded
+May-23,Saturday,Pizza,Direct App,UPI,Late Night (11pm-2am),6,1744.86,20,25,20,0,12.8,2.8,Cloudy,Medium,1,2,0,Cancelled
+Dec-23,Sunday,Pasta,Direct App,Credit Card,Dinner (8-11pm),3,985.59,25,25,31,0,1.3,4.1,Cloudy,Medium,0,0,1,Delivered
+Sep-24,Wednesday,Wraps & Rolls,Direct App,UPI,Late Night (11pm-2am),6,1173.72,0,11,43,0,12.2,3,Rainy,Medium,0,0,0,Delivered
+Feb-23,Saturday,Beverages,Swiggy,Debit Card,Late Night (11pm-2am),1,92.2,25,8,24,0,2.4,4,Clear,Low,1,0,0,Delivered
+Sep-24,Monday,Desserts,Zomato,Wallet,Late Night (11pm-2am),5,613.85,10,6,15,0,3.9,4.1,Rainy,Low,1,0,1,Delivered
+Mar-24,Monday,Healthy Bowls,Website,Debit Card,Lunch (11am-2pm),3,1079.34,5,11,32,0,3.8,2.9,Clear,Low,1,2,0,Cancelled
+Oct-24,Friday,Burgers,Swiggy,Debit Card,Afternoon (2-5pm),5,1061.55,10,17,21,0,16.6,2.7,Clear,Medium,0,0,1,Delivered
+Jun-23,Thursday,Biryani,Zomato,Credit Card,Lunch (11am-2pm),5,2129.25,25,26,39,0,18.9,4.5,Clear,Medium,2,0,0,Delivered
+Mar-23,Wednesday,Chinese,Zomato,Debit Card,Lunch (11am-2pm),3,596.52,15,19,18,0,15,3.6,Stormy,Medium,1,0,1,Delivered
+Feb-24,Wednesday,Wraps & Rolls,Direct App,Credit Card,Dinner (8-11pm),2,182.48,10,11,48,0,24.1,2.6,Rainy,High,1,1,0,Cancelled
+Jun-24,Thursday,Pasta,Website,Wallet,Morning (7-11am),3,556.95,0,20,60,0,10,5,Cloudy,High,0,0,0,Delivered
+Sep-24,Tuesday,Biryani,Swiggy,Credit Card,Morning (7-11am),2,715.6,0,20,54,0,7.9,2.6,Cloudy,Low,0,0,0,Delivered
+Apr-23,Tuesday,Pizza,Zomato,Cash on Delivery,Lunch (11am-2pm),3,1059.72,0,24,41,0,21.8,4.2,Cloudy,Medium,1,0,0,Delivered
+Dec-24,Thursday,Healthy Bowls,Website,UPI,Afternoon (2-5pm),6,1336.32,0,19,33,0,6.4,5,Stormy,High,0,0,0,Delivered
+Jan-24,Thursday,Pizza,Zomato,Debit Card,Morning (7-11am),5,2781.9,0,25,25,0,24.1,3.1,Clear,Medium,0,0,0,Delivered
+Jul-24,Friday,Burgers,Website,Wallet,Late Night (11pm-2am),1,165.53,10,14,37,0,1.3,2.9,Clear,Medium,1,0,0,Delivered
+Mar-23,Sunday,Biryani,Swiggy,Debit Card,Morning (7-11am),5,1843.75,25,33,41,0,24.3,2.8,Clear,High,0,0,1,Delivered
+Jun-24,Thursday,Chinese,Direct App,Debit Card,Late Night (11pm-2am),1,419.77,10,17,22,0,2,3.3,Rainy,High,1,0,0,Delivered
+Feb-24,Tuesday,Pizza,Zomato,Cash on Delivery,Evening (5-8pm),2,973.12,0,18,30,0,22.4,2.8,Cloudy,High,1,0,0,Delivered
+May-23,Thursday,Beverages,Website,Debit Card,Afternoon (2-5pm),4,357.76,25,9,44,0,13.7,4.2,Clear,Medium,1,0,0,Delivered
+Jun-24,Saturday,Chinese,Zomato,Wallet,Afternoon (2-5pm),6,1528.44,0,16,15,0,24.8,2.7,Clear,High,0,0,0,Delivered
+Feb-23,Tuesday,Biryani,Direct App,Credit Card,Dinner (8-11pm),5,1086.9,0,30,54,0,2.8,3.8,Rainy,Medium,1,1,0,Cancelled
+Jun-24,Monday,Desserts,Swiggy,Cash on Delivery,Evening (5-8pm),3,282.81,15,13,18,0,14.3,5,Clear,High,1,1,0,Delivered
+Apr-24,Friday,South Indian,Website,Credit Card,Dinner (8-11pm),6,551.7,0,21,41,0,24.3,4.5,Cloudy,Medium,0,0,1,Delivered
+Oct-24,Wednesday,Pasta,Direct App,Wallet,Lunch (11am-2pm),6,2571.12,0,18,33,0,13.6,4,Stormy,Low,0,0,0,Delivered
+Sep-24,Saturday,Pasta,Zomato,Cash on Delivery,Morning (7-11am),5,1019.05,0,20,46,0,16.1,3.3,Clear,High,1,0,0,Refunded
+Oct-23,Monday,South Indian,Direct App,Credit Card,Morning (7-11am),4,740.76,5,22,37,0,17.7,4.1,Clear,Medium,0,0,1,Delivered
+Sep-23,Monday,Wraps & Rolls,Swiggy,Wallet,Dinner (8-11pm),2,232.88,15,15,28,0,11.9,3.8,Cloudy,Medium,0,0,1,Delivered
+Aug-23,Saturday,Desserts,Direct App,UPI,Afternoon (2-5pm),4,875.52,20,6,27,0,16.1,3.6,Rainy,Very High,0,0,0,Delivered
+Apr-24,Thursday,Desserts,Zomato,Cash on Delivery,Dinner (8-11pm),3,607.32,20,9,42,0,15,2.8,Cloudy,Low,0,0,1,Delivered
+Apr-23,Monday,Biryani,Direct App,Debit Card,Evening (5-8pm),4,1101.08,20,34,42,0,22.6,4.7,Stormy,Medium,1,1,0,Cancelled
+Nov-24,Thursday,Chinese,Swiggy,Wallet,Dinner (8-11pm),3,563.22,0,16,23,0,2.1,3.6,Clear,Low,1,0,1,Delivered
+Dec-24,Saturday,Chinese,Website,Credit Card,Dinner (8-11pm),2,438.66,5,16,36,0,7.7,3,Cloudy,High,1,0,0,Delivered
+Jun-24,Thursday,Healthy Bowls,Website,Debit Card,Dinner (8-11pm),6,1529.46,5,11,20,0,23.8,3.4,Cloudy,High,0,0,1,Delivered
+Sep-23,Thursday,South Indian,Direct App,Cash on Delivery,Late Night (11pm-2am),4,544.04,20,21,36,0,22.4,3.5,Rainy,Medium,1,0,1,Delivered
+Sep-24,Saturday,Pasta,Zomato,UPI,Dinner (8-11pm),5,2296.4,25,21,44,0,11.9,4.6,Clear,High,2,0,0,Delivered
+Mar-24,Tuesday,Burgers,Swiggy,Wallet,Dinner (8-11pm),6,701.88,25,10,22,0,15.9,4.3,Rainy,Medium,0,0,0,Delivered
+Jul-23,Sunday,Pasta,Website,Debit Card,Lunch (11am-2pm),5,2236.25,10,24,20,0,7.7,4.4,Cloudy,High,0,0,0,Delivered
+Oct-24,Sunday,Pizza,Direct App,Debit Card,Afternoon (2-5pm),4,2167.32,15,19,44,0,5.5,2.5,Clear,Medium,0,0,0,Delivered
+Jul-23,Sunday,Wraps & Rolls,Direct App,Credit Card,Dinner (8-11pm),3,666.3,15,14,40,0,12.1,3.5,Clear,Medium,0,1,0,Delivered
+Oct-24,Wednesday,Wraps & Rolls,Direct App,Wallet,Dinner (8-11pm),1,172.45,0,17,61,0,9.5,3.7,Rainy,Very High,0,0,0,Delivered
+Feb-24,Saturday,Pizza,Zomato,Credit Card,Morning (7-11am),2,594.38,0,21,24,0,15,2.5,Clear,Medium,0,0,0,Delivered
+Sep-24,Wednesday,Pizza,Zomato,Wallet,Dinner (8-11pm),4,2263.24,5,20,41,0,2.9,3.1,Clear,Low,1,0,0,Delivered
+Nov-24,Wednesday,Pasta,Direct App,Cash on Delivery,Dinner (8-11pm),2,764.86,20,28,33,0,24.4,4.4,Clear,Medium,0,0,0,Delivered
+Sep-23,Monday,Chinese,Website,Debit Card,Late Night (11pm-2am),1,180.33,5,15,31,0,24.7,2.8,Rainy,Very High,1,0,0,Cancelled
+Apr-23,Thursday,Pasta,Website,Cash on Delivery,Morning (7-11am),2,411.46,20,17,19,0,17.8,3.8,Cloudy,Medium,0,0,0,Delivered
+Apr-23,Tuesday,Beverages,Swiggy,Cash on Delivery,Morning (7-11am),4,587.8,0,8,34,0,13.9,3,Rainy,Low,0,2,1,Cancelled
+Jul-23,Saturday,South Indian,Zomato,Debit Card,Late Night (11pm-2am),3,348.45,0,16,42,0,8.4,2.5,Clear,Medium,2,1,0,Cancelled
+Aug-24,Monday,Chinese,Direct App,Credit Card,Afternoon (2-5pm),6,2456.4,25,25,24,0,20.5,3.1,Cloudy,Medium,1,0,0,Delivered
+Nov-24,Friday,Healthy Bowls,Zomato,UPI,Morning (7-11am),2,677.3,0,17,16,0,17.4,4.9,Cloudy,Low,1,1,1,Delivered
+Mar-24,Wednesday,Biryani,Website,Credit Card,Evening (5-8pm),6,1267.92,20,24,36,0,4.9,4.5,Rainy,High,1,0,1,Delivered
+Jun-24,Friday,Biryani,Website,Debit Card,Afternoon (2-5pm),1,413.88,10,35,18,0,22.9,4.9,Stormy,Very High,0,0,0,Cancelled
+Nov-24,Thursday,Healthy Bowls,Website,Wallet,Lunch (11am-2pm),2,390.92,25,13,17,0,20.7,3.7,Clear,Medium,0,0,1,Delivered
+May-24,Wednesday,Biryani,Website,Cash on Delivery,Morning (7-11am),1,419.4,15,26,38,0,23.8,2.8,Cloudy,Medium,1,1,0,Cancelled
+Jul-24,Thursday,South Indian,Direct App,Debit Card,Late Night (11pm-2am),6,1361.46,10,22,35,0,18.4,3.9,Clear,Medium,2,0,1,Refunded
+Jun-23,Friday,Desserts,Direct App,Debit Card,Morning (7-11am),4,607.36,0,6,26,0,15.7,3.6,Cloudy,Low,1,0,0,Delivered
+Jun-24,Saturday,Biryani,Website,Debit Card,Dinner (8-11pm),4,1564.4,0,22,26,0,11,4.6,Clear,High,3,0,0,Refunded
+Oct-23,Monday,Pasta,Direct App,Credit Card,Evening (5-8pm),5,2425.55,15,22,38,0,23.4,2.7,Clear,Medium,1,0,0,Refunded
+May-24,Friday,Pasta,Website,UPI,Lunch (11am-2pm),2,572.52,0,18,42,0,21.8,3.7,Clear,Medium,2,0,1,Delivered
+Jan-24,Thursday,Desserts,Zomato,Debit Card,Morning (7-11am),6,522.24,0,15,40,0,2.1,2.9,Cloudy,High,1,1,0,Cancelled
+Dec-23,Saturday,Pizza,Swiggy,UPI,Dinner (8-11pm),5,1542.55,0,27,37,0,1.6,3.3,Clear,Medium,0,0,0,Delivered
+Oct-23,Sunday,Healthy Bowls,Swiggy,Cash on Delivery,Afternoon (2-5pm),2,817.42,0,17,35,0,10,4.3,Cloudy,High,0,0,0,Delivered
+Jul-24,Wednesday,Biryani,Website,Credit Card,Lunch (11am-2pm),4,914.84,20,30,28,0,20.5,3.7,Clear,Low,3,0,1,Refunded
+Oct-24,Saturday,Healthy Bowls,Website,Credit Card,Late Night (11pm-2am),6,1420.32,0,15,32,0,24.7,3.4,Clear,High,2,0,1,Cancelled
+Sep-24,Saturday,Pizza,Zomato,UPI,Evening (5-8pm),1,364.24,25,17,55,0,4.6,3.5,Rainy,Very High,0,0,0,Cancelled
+Oct-23,Tuesday,Desserts,Zomato,Credit Card,Lunch (11am-2pm),6,1286.46,20,12,40,0,15.3,3.6,Clear,High,0,0,0,Delivered
+Jun-23,Wednesday,Burgers,Direct App,Cash on Delivery,Late Night (11pm-2am),3,305.88,0,20,20,0,10.1,4.5,Clear,Very High,1,0,0,Delivered
+Sep-24,Monday,Pasta,Website,UPI,Dinner (8-11pm),2,1007.26,0,24,49,0,24.3,4.7,Cloudy,Low,1,0,0,Delivered
+Sep-24,Wednesday,South Indian,Swiggy,UPI,Afternoon (2-5pm),4,694.8,0,19,22,0,21.2,4.9,Clear,Medium,1,0,1,Delivered
+Sep-23,Thursday,Healthy Bowls,Zomato,Debit Card,Dinner (8-11pm),1,174.32,0,13,45,0,21.1,4.5,Clear,High,0,0,0,Delivered
+Oct-24,Wednesday,Burgers,Website,Wallet,Lunch (11am-2pm),5,936.8,20,16,42,0,12.2,3.3,Clear,Medium,1,0,0,Delivered
+Jun-23,Thursday,South Indian,Swiggy,Wallet,Dinner (8-11pm),4,978.08,10,16,30,0,11,4.2,Stormy,Medium,1,0,0,Refunded
+Nov-24,Tuesday,Pizza,Zomato,Wallet,Dinner (8-11pm),2,1154.3,5,15,35,0,7.6,3.6,Cloudy,Medium,1,2,0,Delivered
+Mar-23,Monday,Beverages,Website,Wallet,Afternoon (2-5pm),4,701.32,5,6,35,0,2.4,3.1,Cloudy,Low,0,0,0,Delivered
+Jan-24,Monday,Healthy Bowls,Direct App,UPI,Morning (7-11am),5,1189.85,5,19,22,0,21.8,4.6,Cloudy,Medium,0,0,0,Delivered
+May-23,Monday,Beverages,Zomato,Wallet,Evening (5-8pm),5,289.3,15,10,35,0,20.5,2.6,Clear,Low,0,0,0,Delivered
+Aug-24,Thursday,Pizza,Zomato,Wallet,Evening (5-8pm),6,2710.62,0,28,58,0,25,4.8,Clear,High,1,0,0,Refunded
+Mar-23,Friday,Pasta,Direct App,Cash on Delivery,Dinner (8-11pm),1,207.38,25,19,16,0,24.9,3.7,Rainy,Medium,2,2,0,Cancelled
+Nov-24,Wednesday,Pizza,Direct App,Wallet,Evening (5-8pm),4,1289.28,5,30,16,0,14.3,4.1,Clear,Low,0,0,0,Delivered
+Aug-24,Tuesday,Pizza,Swiggy,Credit Card,Late Night (11pm-2am),4,919.2,15,21,53,0,19.5,4.1,Clear,Medium,2,0,0,Delivered
+Jan-24,Thursday,Chinese,Website,Credit Card,Evening (5-8pm),5,1206.25,0,16,18,0,23.7,4.7,Clear,Medium,0,0,1,Delivered
+Feb-23,Tuesday,Chinese,Website,Credit Card,Lunch (11am-2pm),6,2345.34,0,25,33,0,21.4,4.1,Clear,High,1,0,0,Delivered
+Apr-24,Monday,Chinese,Zomato,UPI,Late Night (11pm-2am),6,1860.6,0,20,26,0,6.9,4,Stormy,Medium,2,1,0,Cancelled
+Dec-24,Monday,Chinese,Swiggy,Wallet,Afternoon (2-5pm),5,1592.45,10,22,39,0,11.8,2.7,Clear,Medium,0,0,1,Delivered
+May-24,Sunday,Chinese,Swiggy,Wallet,Morning (7-11am),4,1211.56,0,22,34,0,4.1,3.8,Cloudy,High,0,0,1,Delivered
+Aug-23,Wednesday,Pasta,Website,Cash on Delivery,Dinner (8-11pm),4,1178.72,10,27,28,0,23.9,2.9,Clear,Medium,0,0,0,Delivered
+Feb-24,Sunday,Pasta,Zomato,Wallet,Afternoon (2-5pm),5,2187.85,15,19,25,0,15.5,4.3,Stormy,Low,1,0,0,Refunded
+Feb-23,Sunday,Beverages,Direct App,Credit Card,Lunch (11am-2pm),5,307.3,0,8,27,0,6.5,3.8,Clear,Medium,0,1,0,Delivered
+Aug-24,Tuesday,Burgers,Direct App,Debit Card,Evening (5-8pm),6,990.66,0,13,69,0,17.1,4.2,Clear,Very High,0,0,0,Delivered
+Jun-24,Sunday,Healthy Bowls,Zomato,Debit Card,Evening (5-8pm),6,2704.56,5,17,19,0,15.8,2.6,Cloudy,Medium,2,0,0,Delivered
+Jul-24,Wednesday,Beverages,Swiggy,Cash on Delivery,Evening (5-8pm),6,1017.36,0,6,57,0,9.6,2.7,Cloudy,Medium,0,0,1,Delivered
+Jan-23,Saturday,Healthy Bowls,Zomato,Cash on Delivery,Dinner (8-11pm),4,1818.44,20,13,37,0,3.7,4.3,Clear,Low,2,0,1,Refunded
+Nov-23,Sunday,Desserts,Zomato,UPI,Evening (5-8pm),3,271.08,15,7,41,0,17.1,2.7,Clear,Low,0,0,0,Delivered
+Jul-24,Wednesday,Biryani,Website,Cash on Delivery,Dinner (8-11pm),5,1754.8,0,24,44,0,13.5,2.7,Clear,Medium,0,0,0,Delivered
+Jan-24,Wednesday,Healthy Bowls,Swiggy,Wallet,Afternoon (2-5pm),6,2401.44,25,17,24,0,19.5,2.5,Clear,Medium,0,0,0,Delivered
+Jun-23,Friday,Pizza,Zomato,Credit Card,Evening (5-8pm),5,2469.75,25,18,55,0,13.5,4.9,Clear,Low,0,0,0,Delivered
+Dec-24,Wednesday,Desserts,Swiggy,Wallet,Evening (5-8pm),5,669,20,13,34,0,21.5,4.3,Clear,Very High,1,0,0,Delivered
+May-24,Wednesday,Wraps & Rolls,Direct App,Debit Card,Afternoon (2-5pm),5,1091.25,20,9,22,0,14.2,3.4,Clear,High,1,2,1,Cancelled
+Nov-24,Thursday,Desserts,Zomato,Wallet,Evening (5-8pm),6,795,0,9,30,0,14.5,3.2,Clear,Medium,1,0,0,Delivered
+Aug-24,Sunday,Chinese,Zomato,Cash on Delivery,Dinner (8-11pm),6,2289.18,5,25,31,0,22,3.4,Cloudy,High,0,0,1,Delivered
+Aug-24,Sunday,Healthy Bowls,Swiggy,UPI,Afternoon (2-5pm),6,2776.5,0,14,40,0,10.7,4.4,Stormy,Low,0,0,1,Delivered
+Aug-23,Tuesday,Desserts,Swiggy,Credit Card,Morning (7-11am),4,723.64,5,14,17,0,4.2,4.2,Cloudy,Medium,1,0,1,Delivered
+Jun-24,Thursday,Pizza,Swiggy,Cash on Delivery,Lunch (11am-2pm),2,1125.84,0,30,37,0,1.7,3,Clear,High,0,0,0,Delivered
+Jan-23,Thursday,Pasta,Website,Cash on Delivery,Late Night (11pm-2am),3,950.46,25,25,26,0,19.1,2.9,Clear,High,0,1,0,Cancelled
+Apr-23,Monday,Healthy Bowls,Zomato,Credit Card,Afternoon (2-5pm),2,520.96,10,19,47,0,15.9,2.7,Stormy,High,1,0,0,Refunded
+Sep-23,Sunday,Desserts,Website,Credit Card,Evening (5-8pm),3,337.35,15,14,52,0,17.9,4.2,Clear,Medium,1,0,0,Refunded
+Jul-24,Saturday,South Indian,Website,UPI,Morning (7-11am),3,654.6,0,15,35,0,6.1,4.4,Clear,Very High,1,0,0,Delivered
+Jul-23,Sunday,Wraps & Rolls,Zomato,Cash on Delivery,Evening (5-8pm),3,496.77,10,12,38,0,4.3,3.2,Cloudy,Low,1,0,0,Delivered
+Mar-24,Wednesday,Biryani,Swiggy,Credit Card,Afternoon (2-5pm),3,824.22,0,21,42,0,1.3,2.6,Cloudy,High,0,0,0,Delivered
+Aug-23,Monday,Chinese,Swiggy,Credit Card,Morning (7-11am),1,352.96,0,17,43,0,9.4,2.7,Cloudy,Very High,1,0,0,Delivered
+May-23,Tuesday,Wraps & Rolls,Website,UPI,Morning (7-11am),4,703.24,0,9,29,0,15.2,4.9,Clear,Low,0,0,1,Delivered
+Mar-23,Tuesday,Beverages,Direct App,Debit Card,Afternoon (2-5pm),6,806.46,15,4,36,0,10.4,3.2,Clear,High,0,0,0,Delivered
+Sep-24,Monday,Beverages,Website,Credit Card,Morning (7-11am),6,768.18,0,6,33,0,11.5,4.4,Stormy,Low,0,0,0,Delivered
+Sep-24,Friday,Burgers,Website,Wallet,Lunch (11am-2pm),2,629.34,10,14,26,0,22.7,4.1,Clear,Medium,1,0,0,Delivered
+Sep-23,Friday,Desserts,Swiggy,UPI,Morning (7-11am),3,233.16,0,10,57,0,9.4,3.5,Cloudy,Medium,0,0,1,Delivered
+Feb-24,Wednesday,Beverages,Direct App,Wallet,Lunch (11am-2pm),6,382.08,10,4,25,0,13.3,3,Cloudy,Medium,1,0,0,Delivered
+Sep-23,Thursday,Wraps & Rolls,Website,Credit Card,Late Night (11pm-2am),6,645.78,25,17,32,0,19.8,2.8,Cloudy,Very High,0,0,0,Cancelled
+Dec-24,Monday,South Indian,Website,Wallet,Evening (5-8pm),1,271.03,0,21,38,0,10.5,4,Clear,High,0,0,0,Delivered
+Nov-23,Thursday,Desserts,Zomato,Debit Card,Dinner (8-11pm),6,528.96,15,6,17,0,15.9,4.4,Clear,Medium,3,0,1,Delivered
+May-24,Sunday,Chinese,Swiggy,UPI,Dinner (8-11pm),1,364.08,15,15,25,0,21.7,4.1,Cloudy,High,1,0,1,Delivered
+Feb-24,Saturday,Wraps & Rolls,Website,UPI,Afternoon (2-5pm),3,710.67,15,10,35,0,23.8,3.8,Rainy,Very High,0,0,0,Cancelled
+Sep-23,Sunday,Beverages,Zomato,Debit Card,Lunch (11am-2pm),2,102.4,0,3,33,0,4.5,2.6,Stormy,Low,0,0,0,Delivered
+Feb-23,Sunday,Chinese,Swiggy,UPI,Evening (5-8pm),1,261.91,0,20,21,0,23.2,4.9,Clear,Very High,0,0,0,Delivered
+Jun-23,Friday,Wraps & Rolls,Zomato,Wallet,Afternoon (2-5pm),6,1470.06,20,8,24,0,12.8,4.5,Clear,Low,0,0,0,Delivered
+Nov-24,Tuesday,Desserts,Zomato,Wallet,Afternoon (2-5pm),1,138.14,10,13,23,0,7.2,3.2,Stormy,High,0,0,1,Delivered
+Sep-24,Monday,Healthy Bowls,Direct App,UPI,Afternoon (2-5pm),4,1164.04,0,11,36,0,12,4.9,Cloudy,Medium,0,1,1,Delivered
+Mar-23,Monday,Wraps & Rolls,Website,Credit Card,Lunch (11am-2pm),1,101.74,5,16,24,0,24.5,4,Rainy,Low,0,0,1,Delivered
+Sep-23,Friday,Burgers,Swiggy,Credit Card,Lunch (11am-2pm),3,690.72,5,14,31,0,12.8,4,Clear,Medium,1,0,0,Delivered
+Mar-24,Friday,Desserts,Direct App,Debit Card,Dinner (8-11pm),5,442.3,0,9,22,0,8.9,4.4,Cloudy,High,1,0,0,Refunded
+May-23,Monday,South Indian,Swiggy,Debit Card,Lunch (11am-2pm),4,439.08,0,20,27,0,16.2,4.5,Cloudy,Medium,1,0,0,Delivered
+Apr-23,Wednesday,Pizza,Zomato,Cash on Delivery,Late Night (11pm-2am),4,1790.76,10,20,19,0,6.8,4.1,Cloudy,Low,0,0,1,Delivered
+Aug-23,Friday,Pasta,Direct App,UPI,Morning (7-11am),5,2129.95,0,27,16,0,2.8,2.8,Clear,Medium,0,0,1,Delivered
+Oct-24,Wednesday,Wraps & Rolls,Zomato,Cash on Delivery,Late Night (11pm-2am),3,670.5,25,13,40,0,4.1,3.3,Clear,Very High,1,0,0,Cancelled
+Nov-24,Friday,Biryani,Swiggy,Debit Card,Morning (7-11am),5,2189.4,5,26,33,0,4.1,4.8,Cloudy,Medium,0,0,0,Delivered
+May-24,Friday,South Indian,Zomato,UPI,Evening (5-8pm),5,1134.8,0,19,35,0,4.6,3.1,Clear,Medium,0,0,0,Delivered
+Aug-24,Wednesday,Chinese,Direct App,Wallet,Dinner (8-11pm),2,620.04,0,16,62,0,4.3,3.4,Clear,Medium,1,0,0,Delivered
+Mar-23,Saturday,Burgers,Direct App,Debit Card,Late Night (11pm-2am),2,622.7,0,16,35,0,16.4,3.6,Stormy,Low,0,0,1,Delivered
+Jul-23,Thursday,Pizza,Website,Credit Card,Afternoon (2-5pm),4,1442.12,15,27,34,0,5.4,3.6,Clear,High,0,0,0,Delivered
+Jul-24,Sunday,Desserts,Swiggy,Cash on Delivery,Afternoon (2-5pm),6,1124.34,25,13,33,0,9.3,4,Rainy,High,0,0,1,Delivered
+Aug-24,Friday,Wraps & Rolls,Website,UPI,Dinner (8-11pm),3,350.79,0,13,46,0,22.5,4.9,Clear,Medium,1,0,0,Delivered
+Sep-24,Friday,Desserts,Website,Credit Card,Late Night (11pm-2am),1,160.55,0,9,28,0,12.4,3.1,Cloudy,Medium,1,0,1,Delivered
+Jan-24,Thursday,Biryani,Swiggy,Cash on Delivery,Lunch (11am-2pm),6,1545.72,10,24,34,0,17,2.8,Stormy,High,0,0,0,Delivered
+Jun-24,Friday,Desserts,Direct App,Wallet,Evening (5-8pm),3,326.13,0,15,22,0,5.1,3,Clear,Medium,0,0,1,Delivered
+Sep-23,Saturday,Chinese,Direct App,Wallet,Afternoon (2-5pm),3,1158.33,5,21,29,0,5.6,4.7,Clear,High,2,0,0,Delivered
+Apr-24,Sunday,Wraps & Rolls,Swiggy,Debit Card,Morning (7-11am),4,846.32,25,10,37,0,2,4.1,Clear,High,1,1,0,Delivered
+Jun-24,Wednesday,South Indian,Website,Debit Card,Late Night (11pm-2am),2,440.06,0,19,40,0,5.1,3.2,Clear,High,0,2,0,Cancelled
+Aug-23,Monday,South Indian,Direct App,Credit Card,Morning (7-11am),3,476.85,5,19,38,0,7.7,4.5,Cloudy,Medium,0,0,0,Delivered
+Jan-23,Sunday,Wraps & Rolls,Swiggy,Credit Card,Afternoon (2-5pm),3,570.69,10,13,44,0,5.2,4.7,Stormy,Medium,0,0,0,Delivered
+Aug-24,Saturday,Biryani,Direct App,Cash on Delivery,Evening (5-8pm),6,1280.34,5,31,24,0,3.1,4.6,Clear,Very High,0,0,0,Delivered
+Aug-24,Sunday,Pasta,Zomato,Credit Card,Afternoon (2-5pm),6,2645.64,10,28,50,0,3.9,4.8,Clear,Medium,1,0,1,Delivered
+Apr-24,Thursday,Biryani,Website,Debit Card,Afternoon (2-5pm),3,1310.85,0,24,33,0,12.1,3.1,Clear,High,1,0,0,Refunded
+May-23,Friday,South Indian,Zomato,UPI,Dinner (8-11pm),4,1010.52,0,21,39,0,6,4.4,Cloudy,Medium,1,0,1,Delivered
+Dec-23,Wednesday,Desserts,Direct App,Wallet,Dinner (8-11pm),5,1024.5,10,10,45,0,9.7,3.7,Clear,High,0,1,1,Delivered
+Oct-24,Saturday,Healthy Bowls,Direct App,Debit Card,Evening (5-8pm),6,2557.92,0,11,58,0,13.1,4.6,Cloudy,Medium,0,0,0,Delivered
+Jun-24,Tuesday,South Indian,Swiggy,Credit Card,Evening (5-8pm),5,589.15,0,21,24,0,17.6,4.3,Cloudy,Low,0,0,1,Delivered
+Jul-23,Tuesday,Chinese,Zomato,Debit Card,Lunch (11am-2pm),5,894.4,20,24,44,0,1.9,4.4,Cloudy,Low,1,0,0,Delivered
+Oct-24,Wednesday,Desserts,Website,Credit Card,Evening (5-8pm),2,125.2,0,9,21,0,20.2,4.1,Clear,High,1,1,0,Refunded
+Dec-24,Sunday,Burgers,Website,UPI,Late Night (11pm-2am),3,750.84,15,10,38,0,16.1,2.9,Cloudy,High,0,0,0,Delivered
+Jan-23,Wednesday,Pasta,Zomato,UPI,Afternoon (2-5pm),6,2364.24,0,19,20,0,3,3.9,Clear,Medium,0,0,1,Delivered
+Mar-24,Saturday,Healthy Bowls,Direct App,Credit Card,Morning (7-11am),3,1356.09,0,12,39,0,22,5,Clear,Medium,2,0,0,Refunded
+Feb-23,Tuesday,Wraps & Rolls,Direct App,Cash on Delivery,Lunch (11am-2pm),4,447.52,15,11,26,0,23.1,4.8,Rainy,High,0,1,0,Cancelled
+Jan-24,Wednesday,Wraps & Rolls,Website,UPI,Evening (5-8pm),3,747.9,25,8,32,0,2.5,2.6,Cloudy,Low,0,0,0,Delivered
+Oct-23,Monday,Pizza,Direct App,Credit Card,Lunch (11am-2pm),6,2028.06,0,20,17,0,7.6,2.9,Clear,Medium,2,1,1,Cancelled
+Jul-24,Thursday,Chinese,Website,Cash on Delivery,Dinner (8-11pm),2,771.2,0,19,40,0,20.3,2.8,Clear,Low,0,0,0,Delivered
+Oct-23,Thursday,Biryani,Website,UPI,Evening (5-8pm),5,1324.85,20,20,36,0,19,4.3,Clear,Low,0,0,1,Delivered
+May-24,Wednesday,Pasta,Website,Credit Card,Evening (5-8pm),3,723.81,0,24,21,0,5.4,4.5,Clear,Medium,1,0,1,Delivered
+Feb-24,Wednesday,Chinese,Direct App,Wallet,Evening (5-8pm),6,1738.74,0,26,34,0,6,3,Clear,Medium,1,0,1,Refunded
+Sep-23,Tuesday,Pizza,Direct App,UPI,Evening (5-8pm),1,483.54,0,16,43,0,9.9,3.8,Clear,Low,1,0,1,Delivered
+Jan-24,Thursday,South Indian,Website,Credit Card,Lunch (11am-2pm),3,722.28,20,21,47,0,12.6,4.6,Clear,Medium,1,1,1,Delivered
+Jan-24,Friday,Beverages,Direct App,Wallet,Afternoon (2-5pm),6,750.12,0,5,45,0,15.8,4.3,Cloudy,Medium,1,0,0,Delivered
+May-23,Sunday,Healthy Bowls,Direct App,Wallet,Lunch (11am-2pm),3,880.95,0,20,28,0,9.9,3.9,Cloudy,Medium,0,0,0,Delivered
+Apr-24,Friday,Healthy Bowls,Swiggy,Debit Card,Lunch (11am-2pm),6,1681.92,0,14,31,0,12.1,4,Cloudy,Medium,0,0,0,Delivered
+Nov-23,Wednesday,Desserts,Swiggy,Credit Card,Lunch (11am-2pm),6,1275.9,0,5,35,0,18.9,3.8,Clear,High,1,0,0,Refunded
+Aug-24,Saturday,Healthy Bowls,Direct App,Wallet,Late Night (11pm-2am),3,512.91,25,14,35,0,1.9,3.2,Stormy,Low,1,0,0,Cancelled
+Apr-24,Tuesday,Wraps & Rolls,Direct App,UPI,Morning (7-11am),3,778.17,20,17,17,0,7.1,3.9,Rainy,Medium,0,0,0,Delivered
+Mar-23,Sunday,Burgers,Website,Wallet,Lunch (11am-2pm),3,627.78,20,17,45,0,18.1,4.2,Rainy,Low,0,0,0,Delivered
+May-24,Tuesday,Chinese,Direct App,UPI,Lunch (11am-2pm),3,1017.87,0,26,41,0,22.5,4.7,Rainy,Low,0,0,1,Delivered
+Mar-24,Thursday,Burgers,Swiggy,Cash on Delivery,Lunch (11am-2pm),2,528.74,0,16,29,0,13.3,4.1,Stormy,Medium,0,2,0,Cancelled
+Nov-23,Tuesday,Healthy Bowls,Swiggy,Debit Card,Afternoon (2-5pm),1,363.81,5,20,24,0,13.8,4.4,Cloudy,Medium,0,0,1,Delivered
+Jul-24,Saturday,Pizza,Zomato,Wallet,Morning (7-11am),1,504.31,0,22,38,0,3.6,2.9,Clear,High,0,1,0,Cancelled
+Aug-24,Tuesday,Biryani,Swiggy,UPI,Dinner (8-11pm),2,663.3,0,29,30,0,11.7,3.7,Cloudy,Medium,2,0,0,Delivered
+Jan-24,Saturday,South Indian,Website,Credit Card,Afternoon (2-5pm),5,1337.3,0,13,32,0,13.8,2.5,Cloudy,Very High,0,0,1,Delivered
+Mar-23,Thursday,Beverages,Swiggy,Credit Card,Late Night (11pm-2am),3,152.04,25,3,24,0,6.8,3.1,Cloudy,Low,0,0,0,Delivered
+Oct-24,Tuesday,Chinese,Zomato,Wallet,Morning (7-11am),4,1119.24,0,27,40,0,7.5,4.3,Cloudy,Low,1,0,0,Delivered
+May-23,Thursday,Wraps & Rolls,Website,Cash on Delivery,Evening (5-8pm),6,887.46,0,12,22,0,10.1,5,Clear,Low,0,1,0,Delivered
+Jul-24,Sunday,Pizza,Zomato,Debit Card,Morning (7-11am),2,1009.44,0,16,30,0,1.5,2.7,Clear,Low,0,0,0,Delivered
+Jul-23,Monday,Wraps & Rolls,Swiggy,Cash on Delivery,Lunch (11am-2pm),1,248.25,0,12,55,0,8.7,3.5,Stormy,Medium,1,0,1,Refunded
+Aug-24,Saturday,Beverages,Website,Cash on Delivery,Late Night (11pm-2am),3,171.6,0,5,24,0,6.1,4.5,Cloudy,High,0,1,1,Delivered
+Apr-23,Tuesday,Wraps & Rolls,Website,UPI,Lunch (11am-2pm),4,1013.8,0,14,25,0,8.9,3,Cloudy,Low,1,0,0,Delivered
+Apr-24,Sunday,Chinese,Zomato,Wallet,Morning (7-11am),3,539.22,10,21,24,0,3.9,3.9,Clear,Very High,0,0,0,Delivered
+Mar-24,Wednesday,Pasta,Direct App,Credit Card,Afternoon (2-5pm),5,2556.95,0,18,25,0,22.4,4.3,Clear,High,2,0,0,Refunded
+Apr-24,Monday,South Indian,Zomato,Credit Card,Dinner (8-11pm),1,90.09,0,22,43,0,15.2,4,Rainy,Medium,1,1,0,Cancelled
+Jun-24,Saturday,Beverages,Zomato,Wallet,Afternoon (2-5pm),6,973.56,20,6,22,0,17.3,3,Cloudy,Low,1,0,0,Delivered
+Oct-23,Thursday,Desserts,Swiggy,UPI,Lunch (11am-2pm),1,92.51,0,10,32,0,19.9,3.4,Rainy,Low,2,0,0,Cancelled
+Mar-23,Thursday,Burgers,Swiggy,Debit Card,Lunch (11am-2pm),6,1463.04,5,12,38,0,13,4.5,Clear,Low,3,0,0,Delivered
+Jun-23,Monday,Pizza,Direct App,Debit Card,Morning (7-11am),6,2710.44,10,30,20,0,3.1,3.9,Cloudy,Low,2,1,0,Cancelled
+Jul-24,Wednesday,Desserts,Direct App,Credit Card,Morning (7-11am),5,415.15,5,13,43,0,13.9,2.5,Clear,Medium,1,0,0,Delivered
+Aug-24,Friday,Biryani,Website,UPI,Dinner (8-11pm),5,1335.9,10,29,15,0,15.1,4.4,Cloudy,Medium,0,0,1,Delivered
+Aug-23,Monday,South Indian,Swiggy,Wallet,Dinner (8-11pm),5,987.4,20,21,40,0,18.9,2.6,Clear,Medium,0,0,0,Delivered
+Jan-24,Wednesday,Burgers,Website,Credit Card,Dinner (8-11pm),4,808.8,0,11,33,0,11.4,4.4,Clear,Very High,0,1,1,Cancelled
+Dec-24,Sunday,South Indian,Direct App,UPI,Lunch (11am-2pm),3,302.79,5,12,17,0,4.1,3,Cloudy,High,1,1,1,Cancelled
+Sep-23,Friday,Desserts,Direct App,Wallet,Evening (5-8pm),1,63.11,0,12,28,0,7.8,4.9,Stormy,Very High,1,2,0,Cancelled
+Aug-23,Wednesday,Burgers,Direct App,Debit Card,Dinner (8-11pm),3,965.19,25,13,39,0,9.7,3.4,Clear,Low,0,0,0,Delivered
+Feb-24,Sunday,Burgers,Website,Cash on Delivery,Afternoon (2-5pm),6,1003.32,0,10,57,0,16.5,3.3,Rainy,Medium,0,0,1,Delivered
+Dec-24,Monday,Pizza,Direct App,UPI,Morning (7-11am),3,690.75,0,29,19,0,14.7,2.9,Clear,Medium,0,0,1,Delivered
+Jun-23,Sunday,Pizza,Swiggy,UPI,Morning (7-11am),2,1007.52,0,16,31,0,9.5,3.3,Clear,Low,2,1,1,Cancelled
+Jul-24,Monday,Chinese,Swiggy,Debit Card,Evening (5-8pm),2,321.5,0,21,36,0,24.7,4.7,Clear,Low,0,0,0,Delivered
+Aug-23,Tuesday,Healthy Bowls,Zomato,UPI,Dinner (8-11pm),2,490.74,0,20,59,0,15.5,5,Clear,High,0,0,1,Delivered
+Apr-23,Thursday,Biryani,Zomato,UPI,Lunch (11am-2pm),2,421.84,10,29,20,0,6.7,3.4,Cloudy,High,0,0,0,Delivered
+Oct-24,Thursday,Pizza,Swiggy,Credit Card,Morning (7-11am),6,1943.22,5,22,18,0,3.4,3.6,Clear,Medium,0,0,1,Refunded
+Feb-23,Tuesday,Beverages,Website,Wallet,Lunch (11am-2pm),3,449.34,5,3,33,0,4.7,4.3,Clear,Medium,0,0,1,Delivered
+Aug-23,Saturday,South Indian,Website,Cash on Delivery,Afternoon (2-5pm),1,231.73,15,13,15,0,6.9,4.7,Stormy,Medium,1,0,0,Delivered
+Apr-24,Thursday,Burgers,Direct App,Debit Card,Morning (7-11am),2,580.76,0,11,45,0,4.9,4,Clear,Low,1,0,1,Delivered
+Dec-24,Thursday,South Indian,Website,Credit Card,Lunch (11am-2pm),1,252.16,15,22,25,0,5.5,3.5,Rainy,Medium,0,0,0,Delivered
+Jun-24,Saturday,Biryani,Website,UPI,Dinner (8-11pm),4,1224.36,0,32,39,0,7.8,3.5,Clear,Low,1,0,1,Refunded
+Dec-23,Wednesday,Desserts,Zomato,UPI,Afternoon (2-5pm),5,715.1,25,14,45,0,5.2,4.2,Cloudy,Low,1,0,0,Delivered
+Sep-23,Friday,Pasta,Website,Wallet,Afternoon (2-5pm),3,1394.94,15,20,60,0,22.5,2.5,Clear,Very High,0,0,1,Cancelled
+Feb-24,Wednesday,Chinese,Direct App,UPI,Evening (5-8pm),3,1257.81,10,18,54,0,2.9,4,Clear,Medium,1,0,0,Delivered
+Dec-24,Sunday,Wraps & Rolls,Website,Wallet,Lunch (11am-2pm),5,855.8,10,13,30,0,13.6,3.4,Clear,High,0,0,1,Delivered
+Oct-24,Wednesday,Beverages,Swiggy,UPI,Morning (7-11am),4,280.04,0,10,25,0,10.8,4.5,Clear,Medium,1,0,0,Refunded
+Mar-24,Saturday,Pasta,Zomato,Debit Card,Late Night (11pm-2am),6,2396.58,0,15,64,0,24.6,2.7,Clear,Medium,3,0,0,Cancelled
+Apr-23,Wednesday,Pasta,Swiggy,Cash on Delivery,Evening (5-8pm),4,1514.2,15,24,20,0,3.7,4,Cloudy,Medium,0,0,0,Delivered
+Nov-24,Wednesday,South Indian,Direct App,Credit Card,Dinner (8-11pm),6,1626.3,0,20,44,0,10.5,3.7,Rainy,Low,1,0,1,Delivered
+Dec-23,Saturday,Wraps & Rolls,Zomato,Credit Card,Evening (5-8pm),1,95.8,0,9,27,0,24.3,4.1,Rainy,Low,0,0,0,Delivered
+Jul-23,Sunday,South Indian,Zomato,Credit Card,Late Night (11pm-2am),6,1254.54,5,14,39,0,21.8,2.7,Cloudy,High,0,1,0,Cancelled
+Sep-23,Monday,Desserts,Direct App,Cash on Delivery,Lunch (11am-2pm),5,338.55,20,11,18,0,20.6,3.9,Clear,High,0,0,0,Delivered
+Jan-24,Sunday,Pasta,Website,UPI,Evening (5-8pm),2,703.54,5,19,31,0,7.2,3.9,Clear,Medium,0,0,1,Delivered
+Apr-23,Tuesday,Burgers,Direct App,Credit Card,Lunch (11am-2pm),3,486.66,25,18,25,0,5.1,3.9,Clear,Medium,2,0,0,Delivered
+Apr-24,Monday,Burgers,Zomato,Wallet,Afternoon (2-5pm),2,350.06,0,14,44,0,17,4,Clear,Very High,0,0,0,Delivered
+Nov-23,Tuesday,Chinese,Website,UPI,Evening (5-8pm),1,324.63,5,18,15,0,23.3,4.2,Cloudy,Low,0,0,0,Delivered
+Dec-23,Thursday,Pasta,Swiggy,Debit Card,Morning (7-11am),6,1643.58,0,16,34,0,14.4,4.5,Cloudy,Medium,1,0,0,Delivered
+Dec-23,Saturday,Burgers,Swiggy,UPI,Morning (7-11am),4,775.76,10,17,25,0,14.7,3.2,Clear,Medium,1,0,0,Delivered
+Mar-23,Wednesday,Wraps & Rolls,Direct App,Credit Card,Late Night (11pm-2am),2,219.36,10,17,34,0,7.7,4.6,Clear,High,1,0,0,Delivered
+Jun-24,Friday,Pasta,Swiggy,Wallet,Evening (5-8pm),6,2415.9,25,24,15,0,19.5,3.7,Rainy,Very High,1,2,1,Cancelled
+Jan-24,Tuesday,Chinese,Website,Debit Card,Evening (5-8pm),5,1813.7,0,15,17,0,5.5,2.7,Rainy,Medium,1,0,1,Delivered
+Jun-24,Saturday,Biryani,Zomato,Credit Card,Morning (7-11am),4,1470.8,0,34,43,1,8.8,2.6,Clear,High,2,0,0,Delivered
+Oct-24,Tuesday,Beverages,Direct App,Wallet,Late Night (11pm-2am),5,637.95,0,10,37,0,11.2,3.3,Stormy,High,1,0,0,Delivered
+Apr-23,Saturday,Pizza,Swiggy,Wallet,Dinner (8-11pm),3,717.81,0,22,17,0,13.2,4.5,Stormy,Medium,0,0,1,Delivered
+Mar-24,Wednesday,Healthy Bowls,Swiggy,Credit Card,Late Night (11pm-2am),1,429.66,5,17,20,0,6.8,4.3,Clear,Medium,0,1,0,Delivered
+Sep-23,Tuesday,Biryani,Swiggy,Credit Card,Dinner (8-11pm),3,691.17,0,30,15,0,3.8,4.5,Clear,Medium,0,0,1,Delivered
+Jun-24,Monday,Burgers,Zomato,Credit Card,Dinner (8-11pm),4,611.28,20,15,29,0,15.7,3.8,Cloudy,Very High,1,1,0,Cancelled
+Jul-23,Saturday,Beverages,Swiggy,Credit Card,Lunch (11am-2pm),2,321.4,5,8,50,0,7.9,3.6,Stormy,Low,0,0,0,Delivered
+Mar-24,Monday,Pizza,Direct App,Wallet,Morning (7-11am),5,1994.85,5,18,38,0,14.9,2.9,Rainy,High,0,0,0,Delivered
+Feb-24,Saturday,Pasta,Zomato,UPI,Late Night (11pm-2am),5,1431.95,10,23,63,0,4.7,3.3,Clear,Medium,2,0,1,Delivered
+Dec-23,Friday,Pasta,Zomato,Cash on Delivery,Late Night (11pm-2am),4,1662.2,0,20,41,0,12.5,3.6,Clear,High,1,0,0,Delivered
+Jan-24,Monday,Chinese,Swiggy,Credit Card,Late Night (11pm-2am),1,328.83,10,22,27,1,13.8,2.7,Cloudy,Medium,0,0,0,Delivered
+Nov-24,Thursday,Beverages,Website,Credit Card,Lunch (11am-2pm),3,512.73,25,3,20,0,2.2,3.1,Cloudy,Medium,1,0,0,Delivered
+Jan-23,Saturday,Pizza,Direct App,Cash on Delivery,Dinner (8-11pm),1,408,25,16,42,0,9.1,4,Clear,High,0,0,1,Delivered
+Jun-24,Thursday,South Indian,Website,Debit Card,Dinner (8-11pm),2,248.74,0,12,15,0,4.2,4.3,Rainy,High,0,0,1,Delivered
+Oct-24,Thursday,South Indian,Website,Cash on Delivery,Evening (5-8pm),4,610.8,25,17,20,0,2.5,5,Cloudy,High,2,1,0,Cancelled
+Nov-24,Monday,Biryani,Website,Credit Card,Afternoon (2-5pm),5,1506.1,10,34,20,0,24.8,4.8,Rainy,Low,0,0,0,Delivered
+Apr-24,Friday,Pasta,Website,UPI,Dinner (8-11pm),2,997.22,0,26,43,0,8.7,4.1,Rainy,High,0,0,1,Delivered
+Nov-23,Saturday,South Indian,Swiggy,Cash on Delivery,Lunch (11am-2pm),2,167.16,25,13,22,0,20.4,3.6,Cloudy,Low,0,0,0,Delivered
+Jul-23,Tuesday,Burgers,Website,Cash on Delivery,Afternoon (2-5pm),4,995.76,15,20,40,0,7.1,4.1,Clear,Medium,0,0,0,Delivered
+Oct-23,Saturday,Pasta,Zomato,Cash on Delivery,Dinner (8-11pm),4,1316.24,0,26,39,0,17.4,4.5,Cloudy,Medium,1,0,0,Delivered
+Mar-24,Sunday,Desserts,Website,Cash on Delivery,Dinner (8-11pm),6,752.94,20,12,19,0,19.2,2.8,Clear,Medium,0,1,1,Cancelled
+Sep-24,Wednesday,Healthy Bowls,Zomato,Credit Card,Afternoon (2-5pm),3,1235.31,15,13,17,0,15.3,3.5,Cloudy,Medium,0,1,0,Delivered
+Nov-24,Friday,Beverages,Zomato,Cash on Delivery,Afternoon (2-5pm),1,48.71,20,9,21,0,12.3,4.6,Clear,Very High,0,0,1,Delivered
+Aug-24,Friday,Pasta,Swiggy,Cash on Delivery,Evening (5-8pm),3,650.37,0,24,25,0,10.9,3.5,Cloudy,Low,1,1,0,Delivered
+Sep-24,Friday,Pizza,Swiggy,Wallet,Evening (5-8pm),2,967.48,5,21,44,0,9.4,3.9,Clear,High,0,0,0,Delivered
+Aug-23,Saturday,Wraps & Rolls,Zomato,Credit Card,Late Night (11pm-2am),2,495.92,0,11,53,0,23.3,4,Clear,Medium,0,0,1,Delivered
+May-23,Monday,Pizza,Zomato,Debit Card,Lunch (11am-2pm),5,2768.6,10,17,38,0,20.9,3,Clear,Low,0,0,0,Delivered
+Jun-24,Tuesday,Biryani,Swiggy,Cash on Delivery,Late Night (11pm-2am),5,1606.35,25,25,44,0,24.2,3.4,Clear,Low,0,0,0,Delivered
+Aug-23,Friday,Biryani,Zomato,UPI,Lunch (11am-2pm),6,2214.48,25,33,33,0,4,3.3,Cloudy,Very High,0,0,0,Cancelled
+Sep-24,Wednesday,Biryani,Website,Credit Card,Lunch (11am-2pm),4,1274.6,5,31,21,0,18.5,2.6,Cloudy,High,0,0,1,Delivered
+Jan-24,Sunday,Beverages,Swiggy,Cash on Delivery,Late Night (11pm-2am),3,392.7,10,3,29,0,23.5,2.6,Cloudy,Very High,0,0,1,Cancelled
+Dec-23,Saturday,Beverages,Direct App,UPI,Late Night (11pm-2am),4,427.76,5,5,21,0,5.3,4.6,Clear,Very High,0,0,1,Delivered
+Jan-24,Friday,Desserts,Direct App,UPI,Late Night (11pm-2am),5,1097.45,0,6,38,0,2.6,3.2,Clear,Medium,0,0,1,Delivered
+Feb-24,Friday,Chinese,Swiggy,UPI,Morning (7-11am),6,1488.06,0,20,43,0,18.8,3.8,Clear,Medium,1,1,0,Delivered
+Jan-24,Tuesday,Wraps & Rolls,Direct App,Debit Card,Lunch (11am-2pm),6,690,25,10,19,0,14.8,3.2,Clear,High,0,0,0,Delivered
+Jun-24,Tuesday,Chinese,Swiggy,Cash on Delivery,Dinner (8-11pm),1,385.37,20,23,25,0,21.2,4.9,Rainy,Medium,0,0,1,Delivered
+Mar-23,Tuesday,Pizza,Direct App,Debit Card,Morning (7-11am),1,483.36,0,20,36,0,4.4,3.1,Clear,Medium,0,0,0,Delivered
+Dec-23,Wednesday,Pizza,Zomato,Credit Card,Late Night (11pm-2am),3,1212.27,25,19,20,0,20.1,3.6,Clear,Medium,1,0,0,Delivered
+Dec-23,Friday,South Indian,Direct App,Cash on Delivery,Dinner (8-11pm),3,329.01,5,21,20,0,5.8,4.7,Clear,Medium,1,0,0,Delivered
+May-23,Wednesday,Burgers,Zomato,Cash on Delivery,Dinner (8-11pm),6,683.82,5,18,38,0,4.9,4.6,Clear,Medium,0,0,0,Delivered
+Aug-24,Saturday,South Indian,Website,Credit Card,Evening (5-8pm),3,471.24,0,21,41,0,4.9,3,Cloudy,Low,1,0,1,Delivered
+May-24,Thursday,Healthy Bowls,Website,UPI,Evening (5-8pm),5,1637.5,0,19,44,0,20.5,4.5,Cloudy,Medium,0,0,0,Delivered
+Mar-24,Tuesday,South Indian,Zomato,Credit Card,Afternoon (2-5pm),2,384.7,0,21,40,0,17,3.6,Clear,Medium,0,0,0,Delivered
+Feb-24,Sunday,Beverages,Swiggy,UPI,Afternoon (2-5pm),5,279.65,5,4,38,0,13.6,3.7,Clear,Medium,1,0,1,Delivered
+Jun-23,Saturday,Pasta,Direct App,Credit Card,Afternoon (2-5pm),5,1155.2,0,26,17,0,9.6,2.8,Clear,Medium,1,0,0,Delivered
+Jan-24,Tuesday,Pizza,Swiggy,UPI,Evening (5-8pm),3,1320.93,5,30,31,0,22.1,2.7,Clear,High,1,0,0,Delivered
+Jul-23,Wednesday,Healthy Bowls,Swiggy,Wallet,Evening (5-8pm),3,1357.41,25,15,33,0,10.4,4.3,Clear,Low,1,1,0,Delivered
+Aug-24,Wednesday,Pizza,Swiggy,Debit Card,Dinner (8-11pm),6,1464.54,5,28,37,0,20.6,3.7,Stormy,Medium,1,0,1,Refunded
+Jul-23,Wednesday,Pizza,Direct App,Cash on Delivery,Late Night (11pm-2am),4,1213.28,15,18,42,0,11.5,3.6,Cloudy,High,0,1,1,Delivered
+Jun-23,Tuesday,Desserts,Direct App,UPI,Morning (7-11am),3,415.26,0,9,33,0,10,4.3,Cloudy,Medium,0,0,1,Delivered
+Jul-24,Monday,Biryani,Direct App,UPI,Morning (7-11am),2,683.58,10,34,18,0,12.1,4.4,Clear,Medium,0,2,1,Delivered
+Apr-24,Sunday,Pasta,Swiggy,UPI,Lunch (11am-2pm),4,1244,15,28,44,0,8.2,2.9,Clear,High,0,0,0,Delivered
+Apr-24,Sunday,Biryani,Zomato,Wallet,Evening (5-8pm),3,1218.99,15,24,54,0,18.9,4,Cloudy,Medium,2,0,1,Delivered
+Jun-24,Saturday,South Indian,Swiggy,Wallet,Dinner (8-11pm),3,447.63,10,22,39,0,13.1,2.8,Cloudy,High,1,2,1,Cancelled
+Jul-23,Tuesday,Healthy Bowls,Zomato,Wallet,Dinner (8-11pm),2,475.32,0,14,35,0,6.6,4.4,Cloudy,High,0,0,0,Delivered
+Nov-23,Wednesday,Pasta,Website,UPI,Dinner (8-11pm),5,1467.65,0,23,39,0,22.6,4.1,Clear,High,1,0,0,Delivered
+Dec-23,Saturday,Beverages,Website,UPI,Morning (7-11am),1,164.31,25,4,40,0,10.2,4.9,Cloudy,Medium,1,0,1,Delivered
+Nov-24,Monday,Wraps & Rolls,Website,Cash on Delivery,Evening (5-8pm),5,911.2,10,16,24,0,14,2.7,Clear,Low,1,0,1,Delivered
+May-23,Thursday,Healthy Bowls,Swiggy,Credit Card,Lunch (11am-2pm),4,1356.16,0,16,39,0,22.8,2.6,Rainy,Medium,0,1,1,Cancelled
+Nov-23,Saturday,Pasta,Website,Cash on Delivery,Morning (7-11am),1,326.11,20,18,45,0,16,3.2,Cloudy,Medium,0,0,1,Delivered
+Jan-23,Thursday,Biryani,Swiggy,Cash on Delivery,Dinner (8-11pm),1,356.4,10,26,33,0,3.8,3.2,Cloudy,Medium,3,0,0,Delivered
+Jan-24,Monday,Pizza,Direct App,Debit Card,Lunch (11am-2pm),5,1352,20,30,31,0,23.6,3.1,Clear,Medium,0,0,0,Delivered
+Oct-23,Tuesday,South Indian,Swiggy,Debit Card,Morning (7-11am),4,475.28,0,16,17,0,16.1,4.8,Cloudy,Medium,0,0,0,Delivered
+Nov-23,Thursday,Biryani,Direct App,Cash on Delivery,Lunch (11am-2pm),2,773.8,15,31,25,0,9,3.1,Clear,Low,0,0,0,Delivered
+Jun-23,Friday,Healthy Bowls,Zomato,Debit Card,Lunch (11am-2pm),3,1256.49,20,20,50,0,4.3,3.2,Clear,Medium,0,0,1,Delivered
+Dec-24,Monday,Beverages,Zomato,UPI,Evening (5-8pm),3,204.81,0,8,22,0,20.1,4.4,Clear,Medium,1,0,0,Delivered
+Jun-24,Monday,Pasta,Website,Debit Card,Dinner (8-11pm),5,1227.95,0,21,21,0,15.9,3.6,Cloudy,High,0,0,0,Delivered
+Jul-24,Friday,Desserts,Zomato,Wallet,Evening (5-8pm),1,142.06,25,15,54,0,13.8,4.4,Clear,Low,0,1,0,Delivered
+May-24,Monday,Healthy Bowls,Direct App,UPI,Late Night (11pm-2am),2,679.98,0,11,55,0,22.5,2.7,Clear,Medium,0,0,0,Delivered
+Jul-23,Monday,Wraps & Rolls,Swiggy,Credit Card,Evening (5-8pm),6,1407.66,10,8,33,0,19.9,3.7,Rainy,Very High,0,0,0,Delivered
+Dec-23,Sunday,Biryani,Swiggy,Debit Card,Morning (7-11am),4,780.4,25,34,42,0,4.6,2.6,Clear,Low,1,0,0,Delivered
+Oct-24,Monday,Pizza,Direct App,UPI,Afternoon (2-5pm),3,789.15,25,18,27,0,8.5,2.7,Cloudy,Medium,1,0,0,Refunded
+Sep-23,Thursday,Pizza,Zomato,UPI,Afternoon (2-5pm),5,1163.35,20,18,24,0,7,4.8,Clear,Low,0,0,0,Delivered
+Jan-23,Wednesday,Pizza,Direct App,Cash on Delivery,Afternoon (2-5pm),3,736.65,0,23,27,0,18.9,2.8,Clear,High,0,2,1,Cancelled
+Jun-24,Thursday,Beverages,Swiggy,Cash on Delivery,Afternoon (2-5pm),4,362,0,3,33,0,1.8,3.8,Rainy,Medium,2,0,0,Delivered
+May-23,Friday,Healthy Bowls,Website,Wallet,Morning (7-11am),1,423.75,10,11,19,0,14.7,3.5,Clear,Medium,0,1,0,Delivered
+Nov-24,Friday,Pasta,Website,Cash on Delivery,Morning (7-11am),3,748.92,10,27,30,0,19.3,3.4,Clear,Medium,0,0,0,Delivered
+Oct-23,Thursday,Pizza,Direct App,UPI,Dinner (8-11pm),2,735.48,0,23,28,0,22,4.7,Cloudy,High,1,0,0,Delivered
+Feb-23,Friday,Burgers,Swiggy,Cash on Delivery,Evening (5-8pm),5,567.7,25,13,38,0,9.2,2.6,Cloudy,Low,0,0,0,Delivered
+Feb-24,Sunday,Pasta,Zomato,Debit Card,Dinner (8-11pm),1,407.21,0,27,17,0,20.7,4.2,Cloudy,Low,0,0,1,Delivered
+Nov-24,Tuesday,Wraps & Rolls,Zomato,UPI,Evening (5-8pm),1,188.33,20,18,18,0,3.7,4.9,Clear,High,0,0,1,Delivered
+May-23,Thursday,South Indian,Direct App,UPI,Dinner (8-11pm),4,1028.96,10,19,31,0,21.3,3.9,Clear,Medium,0,1,0,Delivered
+Jul-23,Saturday,Biryani,Direct App,Wallet,Dinner (8-11pm),1,307.57,25,29,16,0,4.1,4.8,Cloudy,High,0,0,0,Delivered
+Jun-24,Friday,Burgers,Zomato,Cash on Delivery,Afternoon (2-5pm),2,388.86,15,13,44,0,10.5,2.6,Cloudy,Medium,0,1,1,Cancelled
+Jun-24,Tuesday,Pizza,Zomato,Credit Card,Late Night (11pm-2am),3,1766.82,0,24,17,0,20.1,3.5,Rainy,High,1,0,1,Delivered
+Jul-24,Saturday,Burgers,Direct App,Cash on Delivery,Afternoon (2-5pm),2,234.9,15,13,23,0,4.6,3.2,Rainy,Medium,0,0,1,Delivered
+Aug-24,Thursday,Pasta,Swiggy,Credit Card,Afternoon (2-5pm),4,1416.84,0,26,38,0,6.5,4.3,Rainy,High,1,0,0,Refunded
+May-24,Sunday,Biryani,Zomato,Cash on Delivery,Evening (5-8pm),1,326.92,10,31,29,0,18.3,5,Clear,Very High,0,0,0,Delivered
+May-24,Saturday,Pizza,Direct App,Wallet,Afternoon (2-5pm),5,1471.35,0,15,33,0,18.3,3.1,Clear,Medium,0,2,0,Cancelled
+Mar-23,Tuesday,Chinese,Swiggy,Credit Card,Dinner (8-11pm),6,1403.22,5,18,19,0,16.4,4.1,Rainy,Low,0,0,0,Delivered
+Aug-23,Wednesday,Healthy Bowls,Swiggy,UPI,Lunch (11am-2pm),4,1289.12,20,12,23,0,17.7,3,Clear,Medium,0,0,0,Delivered
+Jan-23,Thursday,Pasta,Website,Credit Card,Evening (5-8pm),6,2767.38,25,23,22,0,14,3.9,Clear,Low,0,0,0,Delivered
+Jul-24,Saturday,Pasta,Zomato,Credit Card,Evening (5-8pm),5,1819.05,10,24,28,0,7,3.7,Rainy,Medium,0,0,0,Delivered
+May-24,Wednesday,Biryani,Direct App,Credit Card,Dinner (8-11pm),3,1160.76,25,34,30,0,9.3,4.9,Rainy,Medium,1,0,1,Delivered
+Jun-24,Sunday,Healthy Bowls,Direct App,Debit Card,Late Night (11pm-2am),5,1838.55,15,17,27,0,5.4,4,Clear,Medium,0,0,1,Delivered
+Nov-23,Thursday,Chinese,Website,Debit Card,Afternoon (2-5pm),5,1902.05,0,17,17,1,22.8,3.4,Clear,Medium,0,0,0,Delivered
+Mar-24,Wednesday,Beverages,Website,Cash on Delivery,Afternoon (2-5pm),1,119.78,0,5,25,0,15,2.8,Clear,Medium,1,0,1,Delivered
+Feb-24,Thursday,Pasta,Website,Wallet,Afternoon (2-5pm),3,752.01,20,17,29,0,10.6,2.9,Rainy,High,1,0,0,Delivered
+Jul-23,Thursday,Pasta,Zomato,Credit Card,Lunch (11am-2pm),6,1510.26,10,16,24,0,12.1,3.1,Stormy,Low,0,0,1,Delivered
+May-24,Saturday,Desserts,Direct App,Cash on Delivery,Evening (5-8pm),1,204.2,15,6,16,0,23.7,3.1,Clear,Low,0,0,0,Delivered
+Jan-23,Sunday,Burgers,Swiggy,Debit Card,Afternoon (2-5pm),5,538.65,0,10,44,0,4.7,4.6,Clear,Low,0,0,0,Delivered
+Nov-23,Monday,Wraps & Rolls,Direct App,Wallet,Evening (5-8pm),4,896.48,10,11,22,0,15.1,3.9,Rainy,Medium,0,0,0,Delivered
+Apr-24,Thursday,Beverages,Swiggy,UPI,Late Night (11pm-2am),2,289.7,5,9,27,0,13.1,3.8,Clear,Medium,0,0,0,Delivered
+Jun-24,Wednesday,Pasta,Zomato,Credit Card,Late Night (11pm-2am),2,862.74,25,19,18,0,15.7,2.8,Cloudy,Medium,0,0,1,Delivered
+Jul-24,Tuesday,Pizza,Swiggy,Wallet,Lunch (11am-2pm),6,2810.76,5,27,36,0,1.4,4.7,Stormy,Medium,0,0,0,Delivered
+Apr-23,Saturday,Pizza,Zomato,UPI,Evening (5-8pm),5,2149,0,18,33,0,21.9,4.3,Clear,High,0,0,0,Delivered
+Feb-24,Friday,Pizza,Swiggy,Wallet,Evening (5-8pm),4,2160.48,10,17,27,0,23.4,2.7,Cloudy,Low,1,0,0,Delivered
+Sep-24,Friday,Beverages,Website,Cash on Delivery,Evening (5-8pm),2,358.52,25,4,27,0,14.6,4.3,Clear,High,2,0,0,Delivered
+Jun-23,Friday,Healthy Bowls,Zomato,Wallet,Late Night (11pm-2am),3,523.77,0,20,19,0,17.7,3.9,Clear,High,0,1,0,Delivered
+Feb-23,Tuesday,Healthy Bowls,Swiggy,Cash on Delivery,Dinner (8-11pm),6,2849.4,0,14,20,0,23.1,2.7,Rainy,High,0,0,1,Cancelled
+Aug-23,Saturday,Pasta,Direct App,Cash on Delivery,Morning (7-11am),6,1190.28,25,22,40,0,18,3.6,Clear,Very High,1,0,1,Delivered
+May-24,Monday,Chinese,Website,Cash on Delivery,Lunch (11am-2pm),6,2168.46,0,20,41,0,4.7,3.7,Stormy,Low,2,0,1,Delivered
+May-24,Wednesday,Wraps & Rolls,Zomato,Wallet,Dinner (8-11pm),2,396.24,0,15,39,0,14.8,2.9,Cloudy,Low,0,0,1,Delivered
+Jan-23,Wednesday,Pasta,Direct App,UPI,Evening (5-8pm),1,196.76,15,22,51,0,15.6,4.9,Clear,High,0,0,0,Delivered
+Oct-24,Wednesday,Beverages,Direct App,Debit Card,Evening (5-8pm),6,697.98,0,7,36,1,11.2,4.6,Clear,Medium,1,0,1,Delivered
+Jun-24,Friday,Pizza,Direct App,Cash on Delivery,Evening (5-8pm),4,1086.44,15,24,42,0,18.7,4.2,Clear,Medium,0,0,0,Delivered
+Jun-23,Monday,Burgers,Swiggy,UPI,Morning (7-11am),5,588.4,15,15,22,0,23.4,3.7,Clear,High,1,0,1,Delivered
+Jan-23,Tuesday,Desserts,Swiggy,Debit Card,Lunch (11am-2pm),4,242.92,0,15,32,0,23.2,3.5,Clear,High,1,0,0,Refunded
+Jan-23,Thursday,Desserts,Website,Credit Card,Lunch (11am-2pm),5,450.4,25,14,43,0,11.8,4.1,Clear,Very High,0,0,1,Delivered
+Jul-24,Saturday,Chinese,Swiggy,Debit Card,Afternoon (2-5pm),6,1084.08,10,15,26,0,3.7,3.9,Clear,Very High,1,0,1,Delivered
+Jul-23,Sunday,Beverages,Website,Wallet,Evening (5-8pm),6,843.78,15,3,19,0,24.6,2.7,Cloudy,High,0,0,1,Delivered
+Dec-24,Friday,Beverages,Swiggy,Credit Card,Dinner (8-11pm),5,409.45,25,5,36,0,21.1,3.8,Cloudy,Medium,0,0,1,Delivered
+Sep-24,Sunday,Pasta,Direct App,Cash on Delivery,Dinner (8-11pm),2,981.38,0,27,46,0,4,4.5,Cloudy,High,0,0,1,Delivered
+May-24,Saturday,Burgers,Direct App,Wallet,Dinner (8-11pm),1,261.23,5,14,40,0,23.1,3.6,Clear,Low,0,1,1,Delivered
+Feb-24,Monday,Chinese,Zomato,Cash on Delivery,Afternoon (2-5pm),4,1167.64,0,26,59,0,21.9,2.6,Clear,Medium,0,0,0,Delivered
+Jul-24,Tuesday,Biryani,Swiggy,Debit Card,Afternoon (2-5pm),2,432.14,15,32,22,0,13.5,4.5,Cloudy,High,0,0,0,Delivered
+Jun-24,Monday,Wraps & Rolls,Direct App,Wallet,Dinner (8-11pm),1,205.7,20,13,26,0,15.2,3,Clear,Medium,0,0,0,Delivered
+Sep-23,Friday,Healthy Bowls,Swiggy,UPI,Late Night (11pm-2am),2,362.76,0,15,31,0,10.6,3.1,Clear,Medium,2,1,0,Cancelled
+May-24,Monday,Burgers,Website,Wallet,Late Night (11pm-2am),1,220.22,5,15,42,0,2.3,2.9,Rainy,Low,0,0,0,Delivered
+Aug-23,Friday,Biryani,Website,Credit Card,Evening (5-8pm),2,767.5,15,21,27,0,9,3.3,Rainy,High,0,0,0,Delivered
+Nov-24,Friday,Beverages,Zomato,Wallet,Morning (7-11am),4,376.16,0,6,43,0,20.3,4.4,Cloudy,Medium,0,0,0,Delivered
+Jan-24,Friday,Burgers,Swiggy,Wallet,Morning (7-11am),4,1251.64,0,14,29,0,1.1,3.8,Clear,High,1,0,1,Delivered
+Apr-24,Friday,Pasta,Zomato,Wallet,Late Night (11pm-2am),6,1218.06,15,25,38,0,9,3,Rainy,Medium,0,2,1,Cancelled
+Mar-24,Saturday,Healthy Bowls,Swiggy,UPI,Late Night (11pm-2am),6,2796.12,0,12,33,0,10.6,4.7,Cloudy,High,0,0,0,Delivered
+Jul-23,Sunday,Chinese,Zomato,Wallet,Late Night (11pm-2am),1,211.07,0,21,32,0,13.9,4.7,Rainy,High,0,0,0,Delivered
+Dec-23,Thursday,Beverages,Swiggy,Debit Card,Morning (7-11am),4,471.92,5,4,16,0,23.1,4.7,Rainy,Medium,1,1,0,Cancelled
+Jan-23,Thursday,Healthy Bowls,Direct App,UPI,Dinner (8-11pm),4,974.76,0,19,55,0,9.3,3.1,Rainy,Medium,2,0,0,Cancelled
+Aug-24,Friday,Beverages,Direct App,UPI,Afternoon (2-5pm),4,635.12,5,5,19,0,9.3,3.6,Cloudy,Medium,0,0,1,Delivered
+Oct-23,Tuesday,Pasta,Swiggy,UPI,Afternoon (2-5pm),2,534.54,20,19,29,0,18.7,5,Clear,Very High,1,0,0,Delivered
+Mar-24,Saturday,Biryani,Zomato,Cash on Delivery,Evening (5-8pm),5,1163.7,0,33,38,0,11.9,4.4,Cloudy,High,0,0,0,Delivered
+Aug-24,Friday,Chinese,Website,Credit Card,Late Night (11pm-2am),4,1237.6,0,25,29,0,6.4,2.6,Cloudy,Very High,0,0,1,Delivered
+Oct-24,Friday,Pizza,Direct App,Cash on Delivery,Dinner (8-11pm),3,1371.51,0,20,31,0,11.9,2.7,Cloudy,Medium,1,0,1,Refunded
+Jul-23,Monday,Beverages,Direct App,Credit Card,Late Night (11pm-2am),2,133.44,25,6,18,0,4.4,3.7,Clear,High,1,0,0,Refunded
+Oct-23,Friday,Healthy Bowls,Website,UPI,Dinner (8-11pm),5,2111.05,5,11,29,0,5.2,4.8,Clear,High,2,0,1,Refunded
+Sep-24,Friday,Chinese,Zomato,Credit Card,Dinner (8-11pm),6,1286.28,0,27,40,0,13,3.8,Rainy,High,0,1,0,Cancelled
+Nov-24,Saturday,South Indian,Direct App,Debit Card,Dinner (8-11pm),5,822.5,20,15,34,0,11.1,3.7,Cloudy,Very High,1,0,0,Delivered
+May-23,Thursday,Wraps & Rolls,Direct App,Credit Card,Late Night (11pm-2am),6,1558.2,0,12,41,0,23,2.8,Stormy,Medium,1,1,0,Cancelled
+Jul-24,Thursday,Burgers,Website,Cash on Delivery,Dinner (8-11pm),3,914.97,25,20,48,0,9.7,4.1,Rainy,Low,1,0,0,Refunded
+Oct-24,Wednesday,Healthy Bowls,Zomato,Cash on Delivery,Afternoon (2-5pm),2,696.16,0,13,59,0,14.9,4.6,Cloudy,High,0,0,0,Delivered
+Jan-23,Saturday,Beverages,Swiggy,Cash on Delivery,Evening (5-8pm),5,706.15,25,10,23,0,16.2,3.5,Cloudy,High,0,1,0,Delivered
+Mar-23,Sunday,Wraps & Rolls,Zomato,Cash on Delivery,Lunch (11am-2pm),5,650.8,15,13,21,0,1.3,4.4,Rainy,Medium,0,0,1,Delivered
+Dec-23,Saturday,Chinese,Swiggy,Debit Card,Evening (5-8pm),4,734.72,25,18,30,0,16.9,4.9,Cloudy,Medium,0,0,1,Delivered
+Feb-23,Sunday,South Indian,Direct App,UPI,Evening (5-8pm),1,214,10,14,32,0,5.3,3,Cloudy,Medium,0,0,0,Delivered
+Aug-23,Tuesday,Biryani,Direct App,Credit Card,Morning (7-11am),6,1556.04,15,32,23,0,24.1,3.8,Clear,Medium,0,0,0,Delivered
+Apr-24,Tuesday,Pizza,Swiggy,UPI,Dinner (8-11pm),1,276.82,15,26,59,0,4.6,3.2,Clear,Medium,0,0,1,Refunded
+Nov-23,Sunday,Desserts,Website,Debit Card,Evening (5-8pm),2,343.02,0,12,17,0,11,4.5,Cloudy,High,1,2,0,Delivered
+Oct-24,Monday,Desserts,Direct App,Wallet,Lunch (11am-2pm),1,214.49,25,13,19,0,3,3.9,Clear,High,1,0,1,Delivered
+Mar-23,Sunday,Pizza,Swiggy,Debit Card,Afternoon (2-5pm),2,1049.22,0,27,37,0,24.9,4.1,Clear,Medium,0,0,0,Delivered
+Nov-24,Thursday,Pasta,Swiggy,Credit Card,Late Night (11pm-2am),3,1125.36,0,19,44,0,13.1,4.5,Clear,Medium,1,0,0,Delivered
+Nov-24,Wednesday,Healthy Bowls,Direct App,UPI,Dinner (8-11pm),6,1132.5,0,10,42,0,15.3,3.5,Clear,Medium,2,0,0,Delivered
+Jul-23,Saturday,Healthy Bowls,Swiggy,Cash on Delivery,Lunch (11am-2pm),2,452.32,10,14,33,0,2.6,4.8,Clear,Low,1,0,0,Delivered
+Feb-23,Wednesday,Wraps & Rolls,Website,Credit Card,Morning (7-11am),6,1272.06,0,8,21,0,19,3.8,Clear,High,0,0,0,Delivered
+Nov-24,Tuesday,Desserts,Direct App,UPI,Late Night (11pm-2am),4,674.52,15,14,15,0,6,2.9,Stormy,Very High,1,0,0,Cancelled
+Jun-24,Wednesday,Beverages,Swiggy,Cash on Delivery,Afternoon (2-5pm),4,601.2,15,6,21,0,22.6,4.2,Cloudy,Medium,1,0,0,Delivered
+May-23,Tuesday,Chinese,Website,Cash on Delivery,Lunch (11am-2pm),2,437.38,0,15,43,0,5.9,4.5,Clear,High,0,1,0,Delivered
+Mar-23,Monday,Wraps & Rolls,Zomato,Cash on Delivery,Afternoon (2-5pm),4,365.56,25,14,36,0,5.6,3.3,Clear,High,0,0,0,Delivered
+Jul-24,Monday,Healthy Bowls,Swiggy,Wallet,Lunch (11am-2pm),2,357.42,5,18,56,0,1.9,4.6,Cloudy,High,1,0,0,Refunded
+Mar-24,Tuesday,Burgers,Direct App,Wallet,Morning (7-11am),3,769.44,0,12,27,0,12.3,4.8,Clear,Low,0,0,0,Delivered
+Dec-23,Saturday,Pizza,Swiggy,Credit Card,Dinner (8-11pm),5,2930.45,10,21,43,0,14.6,3.2,Rainy,Very High,1,0,0,Cancelled
+Oct-23,Tuesday,Wraps & Rolls,Direct App,Wallet,Late Night (11pm-2am),4,509.92,10,14,26,0,2.6,5,Cloudy,Medium,1,0,0,Refunded
+Jul-24,Monday,Wraps & Rolls,Direct App,Debit Card,Morning (7-11am),6,1126.44,15,15,21,0,19.6,2.9,Rainy,Medium,1,2,0,Cancelled
+Mar-24,Friday,Pizza,Swiggy,Debit Card,Late Night (11pm-2am),6,2829.72,0,22,58,0,11.9,3,Clear,Low,0,0,1,Delivered
+Sep-24,Thursday,South Indian,Website,Credit Card,Late Night (11pm-2am),1,141.44,20,17,23,0,13.6,3,Cloudy,Medium,0,1,0,Cancelled
+Jul-24,Sunday,Healthy Bowls,Zomato,Cash on Delivery,Late Night (11pm-2am),5,1319.95,10,20,17,0,11.6,4.7,Clear,Low,1,0,1,Delivered
+Apr-24,Monday,Pizza,Zomato,Credit Card,Evening (5-8pm),1,437.16,15,28,33,0,10.6,4.1,Stormy,Medium,1,2,0,Cancelled
+Sep-23,Sunday,Wraps & Rolls,Zomato,Debit Card,Evening (5-8pm),2,374.48,20,16,43,0,14.4,2.9,Cloudy,Medium,0,0,0,Delivered
+Feb-23,Wednesday,Wraps & Rolls,Direct App,Cash on Delivery,Morning (7-11am),1,170.35,0,12,44,0,4.7,3.6,Clear,High,0,1,0,Delivered
+Nov-23,Sunday,Beverages,Zomato,Debit Card,Late Night (11pm-2am),5,347.9,10,5,16,0,5.4,4,Clear,High,1,0,1,Delivered
+Feb-24,Sunday,Pizza,Website,Cash on Delivery,Late Night (11pm-2am),5,1576.7,5,21,19,0,21.7,2.7,Clear,Medium,2,0,0,Cancelled
+Dec-23,Saturday,Chinese,Direct App,Cash on Delivery,Evening (5-8pm),1,234.94,5,16,17,0,23.7,4.7,Cloudy,High,0,1,0,Delivered
+Mar-24,Thursday,Healthy Bowls,Website,Credit Card,Afternoon (2-5pm),6,1395.24,15,17,26,0,10,4.5,Clear,High,1,0,0,Delivered
+Sep-23,Saturday,Chinese,Direct App,Debit Card,Evening (5-8pm),2,559.1,5,24,26,0,7.5,3.8,Cloudy,High,1,0,0,Refunded
+Dec-24,Monday,Pasta,Website,UPI,Afternoon (2-5pm),5,1229.9,0,22,25,0,16.5,4.9,Clear,Low,0,0,0,Delivered
+Jun-23,Friday,Healthy Bowls,Swiggy,Cash on Delivery,Morning (7-11am),2,844.88,20,16,33,0,10.8,3.5,Cloudy,High,1,1,0,Delivered
+Aug-23,Tuesday,Biryani,Direct App,Credit Card,Evening (5-8pm),2,570.22,15,30,21,0,1.6,5,Rainy,Very High,0,0,0,Delivered
+Feb-24,Thursday,Desserts,Website,Debit Card,Morning (7-11am),2,338.68,15,5,37,0,4.7,4.2,Rainy,High,0,0,0,Delivered
+Dec-23,Sunday,Desserts,Swiggy,Cash on Delivery,Lunch (11am-2pm),3,372.36,0,6,37,0,18.2,4.1,Rainy,Medium,0,0,0,Delivered
+Aug-23,Thursday,Chinese,Website,Cash on Delivery,Morning (7-11am),5,996.65,25,17,23,0,16.8,2.9,Clear,Medium,0,0,1,Delivered
+Jan-24,Thursday,Chinese,Website,Credit Card,Evening (5-8pm),6,1891.38,0,28,26,0,1.7,4.7,Clear,High,1,1,1,Delivered
+Jul-24,Friday,South Indian,Zomato,Wallet,Morning (7-11am),5,552.2,10,22,21,0,6.3,3.6,Cloudy,Medium,0,0,0,Delivered
+Jul-23,Thursday,Pasta,Zomato,Wallet,Lunch (11am-2pm),2,841.54,15,25,17,0,6.5,2.9,Clear,Low,1,0,1,Delivered
+Mar-24,Sunday,Pizza,Website,Credit Card,Morning (7-11am),3,625.23,20,30,29,0,17.1,2.5,Clear,Medium,0,1,1,Cancelled
+Jun-24,Wednesday,Burgers,Website,Wallet,Evening (5-8pm),2,594.54,0,13,34,0,1.5,3.9,Clear,High,2,0,0,Delivered
+Jun-24,Thursday,Burgers,Direct App,Debit Card,Evening (5-8pm),4,488.48,15,10,43,0,3.5,3.8,Clear,High,1,0,0,Refunded
+Dec-24,Tuesday,South Indian,Swiggy,Debit Card,Lunch (11am-2pm),2,549.12,0,18,30,0,20.2,4.3,Clear,Low,1,0,1,Delivered
+Apr-24,Wednesday,Pasta,Swiggy,Wallet,Late Night (11pm-2am),4,1305.4,25,23,35,0,5.3,4.7,Rainy,Very High,0,0,0,Cancelled
+Apr-24,Monday,Biryani,Direct App,Credit Card,Morning (7-11am),1,184.9,20,25,38,0,16.7,2.7,Clear,Medium,0,0,0,Delivered
+Mar-23,Sunday,Pasta,Website,Wallet,Evening (5-8pm),5,2541.8,15,23,21,0,6.7,4.3,Cloudy,High,0,0,1,Delivered
+Jul-24,Thursday,Pizza,Direct App,Credit Card,Late Night (11pm-2am),4,1140.36,10,15,21,0,3.4,3,Clear,High,0,0,0,Delivered
+Dec-23,Saturday,Healthy Bowls,Swiggy,Wallet,Dinner (8-11pm),4,699.08,0,19,45,0,6.8,4.6,Cloudy,High,1,0,1,Delivered
+Jan-24,Sunday,Healthy Bowls,Zomato,Wallet,Afternoon (2-5pm),3,1184.91,0,20,40,0,18.3,4.5,Clear,Very High,0,0,1,Delivered
+Jun-23,Wednesday,South Indian,Direct App,Credit Card,Late Night (11pm-2am),5,438.45,10,12,51,0,21.5,3.9,Rainy,Medium,0,0,1,Delivered
+Oct-24,Thursday,Pizza,Swiggy,Debit Card,Lunch (11am-2pm),5,1717.35,20,21,21,0,20.9,4.3,Rainy,High,0,0,0,Delivered
+Mar-23,Tuesday,Pasta,Direct App,Debit Card,Morning (7-11am),2,487.78,25,26,16,0,10.5,3.3,Clear,Low,1,0,0,Delivered
+Sep-23,Sunday,Wraps & Rolls,Website,Wallet,Dinner (8-11pm),2,238.44,0,9,18,0,17,3.7,Stormy,High,0,0,0,Delivered
+Aug-24,Saturday,Biryani,Zomato,Cash on Delivery,Dinner (8-11pm),3,1127.34,25,31,37,0,5.9,4.6,Stormy,High,0,0,0,Delivered
+May-24,Wednesday,Pasta,Swiggy,Credit Card,Evening (5-8pm),2,615.88,20,22,41,0,8,3.6,Rainy,High,1,0,0,Delivered
+Jan-24,Saturday,Healthy Bowls,Swiggy,Credit Card,Lunch (11am-2pm),2,542.32,0,19,17,0,22.5,3.4,Rainy,Medium,0,0,0,Cancelled
+May-24,Thursday,Chinese,Website,Debit Card,Dinner (8-11pm),6,1556.52,0,19,28,0,1.3,3.7,Clear,High,0,0,0,Delivered
+Mar-23,Sunday,Pizza,Swiggy,Wallet,Lunch (11am-2pm),5,1820.4,0,20,21,0,3.1,4.6,Cloudy,Low,0,0,0,Delivered
+Jan-24,Friday,Healthy Bowls,Website,Wallet,Dinner (8-11pm),4,929.52,0,15,30,0,6,3.3,Clear,Low,0,0,0,Delivered
+Feb-23,Friday,Chinese,Zomato,Debit Card,Evening (5-8pm),3,721.59,10,27,23,0,1.6,2.9,Clear,High,1,0,1,Delivered
+May-24,Tuesday,Chinese,Direct App,Credit Card,Late Night (11pm-2am),3,1125.45,0,25,17,0,5.4,4.3,Stormy,Medium,1,1,1,Cancelled
+Jul-24,Thursday,Chinese,Website,UPI,Late Night (11pm-2am),4,1480.24,10,23,32,0,15,4.6,Clear,High,0,1,1,Delivered
+Mar-23,Tuesday,Wraps & Rolls,Website,Wallet,Late Night (11pm-2am),5,1040.75,10,16,16,0,11.1,2.8,Cloudy,Medium,0,0,0,Delivered
+Dec-23,Thursday,Biryani,Direct App,Credit Card,Afternoon (2-5pm),4,1263.12,10,35,21,0,22.4,3.1,Rainy,Low,1,0,1,Cancelled
+Mar-23,Wednesday,South Indian,Zomato,Wallet,Late Night (11pm-2am),1,127.64,25,18,19,0,20.6,2.9,Rainy,High,1,0,1,Cancelled
+Jul-24,Friday,Beverages,Website,Debit Card,Lunch (11am-2pm),3,517.59,15,7,31,0,9.2,3.4,Stormy,Medium,0,0,0,Delivered
+Jul-24,Friday,Pasta,Swiggy,UPI,Morning (7-11am),5,1310.5,5,25,52,0,7.2,3.6,Clear,Low,0,0,0,Delivered
+Nov-24,Tuesday,Chinese,Website,UPI,Evening (5-8pm),4,1469.12,15,18,30,0,10.1,4.4,Clear,High,0,0,0,Delivered
+Jun-24,Sunday,Desserts,Website,Debit Card,Lunch (11am-2pm),5,568.45,25,5,41,0,15.2,4.1,Clear,Medium,2,0,0,Refunded
+May-24,Friday,Healthy Bowls,Zomato,Wallet,Morning (7-11am),2,733.48,25,14,40,0,7.4,4.1,Clear,High,0,0,0,Delivered
+May-24,Friday,South Indian,Swiggy,UPI,Morning (7-11am),2,172.84,0,17,21,0,16,3.4,Clear,Medium,2,0,0,Delivered
+Sep-23,Monday,Desserts,Direct App,Cash on Delivery,Dinner (8-11pm),6,938.64,10,13,41,0,10.8,4.6,Clear,High,0,0,1,Delivered
+Dec-24,Sunday,Desserts,Direct App,Wallet,Lunch (11am-2pm),5,884.25,15,5,41,0,14.2,3.7,Rainy,High,0,0,0,Delivered
+Jul-23,Wednesday,Wraps & Rolls,Website,Credit Card,Late Night (11pm-2am),3,460.86,0,17,19,0,11.5,4.9,Cloudy,High,0,0,0,Delivered
+Sep-23,Wednesday,Pasta,Zomato,Credit Card,Dinner (8-11pm),5,1216.5,20,17,36,0,8.1,4.1,Clear,Low,0,0,1,Delivered
+May-23,Wednesday,Healthy Bowls,Direct App,Debit Card,Evening (5-8pm),1,218.96,10,14,21,0,23.8,2.8,Cloudy,High,0,0,0,Delivered
+Sep-23,Saturday,Wraps & Rolls,Website,Credit Card,Lunch (11am-2pm),2,435.92,15,9,43,0,19.3,4.2,Clear,High,0,0,1,Delivered
+Dec-24,Sunday,Burgers,Direct App,Debit Card,Late Night (11pm-2am),2,416.68,15,18,25,0,4.4,3.3,Clear,High,0,0,0,Delivered
+Oct-24,Wednesday,Pizza,Zomato,Debit Card,Lunch (11am-2pm),4,931.48,0,20,30,0,21.8,4.2,Rainy,Medium,0,0,1,Delivered
+May-23,Tuesday,Biryani,Website,Cash on Delivery,Dinner (8-11pm),3,639.39,10,25,41,0,12.7,2.7,Cloudy,High,1,0,0,Delivered
+Mar-24,Thursday,Wraps & Rolls,Swiggy,Credit Card,Lunch (11am-2pm),2,266.44,20,8,30,0,22.5,2.9,Rainy,High,0,1,0,Cancelled
+Sep-24,Wednesday,Biryani,Direct App,UPI,Lunch (11am-2pm),2,489.52,0,28,30,0,20.2,4.6,Clear,Low,2,1,0,Cancelled
+Jan-23,Thursday,Wraps & Rolls,Swiggy,UPI,Lunch (11am-2pm),6,563.64,0,12,27,0,11.2,3.1,Rainy,Medium,0,0,1,Delivered
+Feb-24,Wednesday,Wraps & Rolls,Website,Debit Card,Afternoon (2-5pm),1,255.4,0,17,41,0,1.5,4.6,Cloudy,High,2,0,1,Delivered
+Aug-24,Thursday,Beverages,Swiggy,Debit Card,Dinner (8-11pm),6,825.9,0,10,48,0,7.4,3.2,Cloudy,Low,1,0,0,Delivered
+Aug-24,Wednesday,Pizza,Website,Credit Card,Morning (7-11am),1,271.96,25,21,18,0,14,4.1,Cloudy,Very High,0,1,1,Cancelled
+Jun-24,Thursday,Pasta,Website,Cash on Delivery,Afternoon (2-5pm),1,428.81,5,22,38,0,16.2,4.2,Rainy,High,0,0,0,Delivered
+Aug-23,Tuesday,Pizza,Swiggy,Wallet,Dinner (8-11pm),6,3177.78,0,28,21,0,7.2,3.8,Cloudy,High,0,1,0,Delivered
+May-24,Thursday,South Indian,Website,Wallet,Dinner (8-11pm),3,674.37,5,14,30,0,4.3,3.3,Cloudy,Medium,0,0,1,Delivered
+Nov-23,Friday,Burgers,Zomato,Debit Card,Lunch (11am-2pm),4,1340.72,20,11,17,0,21,3,Stormy,Medium,1,0,0,Cancelled
+Oct-23,Wednesday,Chinese,Direct App,Cash on Delivery,Afternoon (2-5pm),2,388.06,0,18,17,0,24.6,2.6,Rainy,Very High,1,1,0,Cancelled
+Jul-24,Tuesday,Pasta,Website,Debit Card,Afternoon (2-5pm),2,783.62,0,22,33,0,13.6,3.3,Clear,Medium,0,0,1,Delivered
+Jan-24,Wednesday,Beverages,Direct App,Credit Card,Late Night (11pm-2am),6,382.98,0,4,33,0,5.1,4.1,Cloudy,High,0,0,1,Delivered
+Nov-24,Wednesday,Burgers,Swiggy,UPI,Late Night (11pm-2am),5,1214.75,15,15,30,0,7.5,4.8,Clear,Medium,0,0,1,Delivered
+Jun-24,Saturday,Desserts,Direct App,Debit Card,Evening (5-8pm),5,669.5,0,6,30,0,1.4,4.7,Clear,Low,1,0,1,Delivered
+Mar-24,Saturday,South Indian,Swiggy,Credit Card,Afternoon (2-5pm),4,382.52,0,20,22,0,22.9,4.4,Cloudy,Low,1,0,0,Refunded
+Aug-23,Tuesday,Pasta,Zomato,UPI,Evening (5-8pm),5,1136.45,0,25,30,0,3.8,4.5,Stormy,Medium,0,0,1,Delivered
+Jul-24,Thursday,Wraps & Rolls,Direct App,UPI,Afternoon (2-5pm),4,738.84,0,10,19,0,14.8,4.2,Stormy,Very High,0,0,0,Delivered
+Jun-24,Saturday,South Indian,Zomato,Wallet,Evening (5-8pm),5,879.95,25,20,35,0,7.6,3.2,Clear,Medium,0,0,1,Delivered
+Mar-24,Friday,South Indian,Zomato,Credit Card,Evening (5-8pm),6,549.42,5,16,38,0,14.3,4.8,Cloudy,Medium,1,1,0,Delivered
+Apr-23,Saturday,South Indian,Zomato,Credit Card,Morning (7-11am),2,341.36,0,21,23,0,16.6,4.2,Clear,Medium,1,0,0,Delivered
+Dec-24,Thursday,South Indian,Direct App,Wallet,Morning (7-11am),3,460.62,5,18,37,0,20.9,3.9,Stormy,Medium,1,0,0,Refunded
+Oct-24,Wednesday,Wraps & Rolls,Direct App,Debit Card,Dinner (8-11pm),5,1257.6,0,17,17,0,6,2.8,Stormy,Medium,1,0,0,Delivered
+Nov-23,Monday,Pizza,Direct App,Credit Card,Dinner (8-11pm),2,736.74,0,30,16,0,1.3,3.6,Cloudy,High,0,0,0,Delivered
+May-24,Wednesday,Healthy Bowls,Zomato,Cash on Delivery,Morning (7-11am),1,285.61,0,11,43,0,4.3,3.7,Rainy,Medium,0,0,1,Delivered
+Oct-23,Tuesday,Pasta,Swiggy,Wallet,Late Night (11pm-2am),6,3110.1,0,16,19,0,22.6,4.7,Cloudy,Medium,1,2,1,Refunded
+Nov-23,Thursday,Chinese,Direct App,Wallet,Lunch (11am-2pm),3,907.68,25,15,24,0,22,3.9,Cloudy,Low,0,0,0,Delivered
+Jun-23,Saturday,Pizza,Swiggy,Debit Card,Evening (5-8pm),1,466.47,15,26,41,0,15.3,3.5,Clear,Very High,1,0,1,Delivered
+Nov-24,Sunday,South Indian,Swiggy,Credit Card,Morning (7-11am),4,1052.44,15,22,39,0,15.4,4.9,Clear,Medium,0,0,0,Delivered
+Dec-23,Tuesday,Desserts,Swiggy,Debit Card,Late Night (11pm-2am),3,225.84,0,12,56,0,17,2.8,Cloudy,Low,0,0,0,Delivered
+Oct-24,Monday,Healthy Bowls,Zomato,Cash on Delivery,Evening (5-8pm),3,974.28,0,16,15,0,5.2,3.6,Cloudy,High,0,1,0,Delivered
+Mar-24,Tuesday,Chinese,Website,Debit Card,Lunch (11am-2pm),5,1416.05,15,15,37,0,22.9,2.6,Clear,Medium,2,0,1,Cancelled
+Jun-24,Thursday,Wraps & Rolls,Zomato,Debit Card,Evening (5-8pm),4,475.24,5,12,39,0,11.1,4.3,Stormy,Medium,1,0,1,Delivered
+Feb-23,Friday,South Indian,Swiggy,Credit Card,Dinner (8-11pm),6,855.66,20,12,28,0,10.2,4.8,Clear,Medium,0,0,0,Delivered
+Jul-23,Thursday,Beverages,Swiggy,Wallet,Dinner (8-11pm),3,478.38,5,8,16,0,13.5,3.2,Cloudy,High,0,0,0,Delivered
+Nov-23,Wednesday,Wraps & Rolls,Direct App,Wallet,Evening (5-8pm),1,173.69,10,13,16,0,2.1,4.6,Cloudy,Low,0,0,0,Delivered
+Aug-23,Thursday,Beverages,Swiggy,Credit Card,Morning (7-11am),4,490.92,25,4,21,0,5,3.2,Cloudy,High,0,0,0,Delivered
+Oct-23,Sunday,Burgers,Direct App,Wallet,Lunch (11am-2pm),6,1636.74,20,19,44,0,18.7,4.8,Cloudy,High,2,0,0,Delivered
+Jan-23,Friday,Desserts,Direct App,Wallet,Dinner (8-11pm),6,600.72,0,10,41,0,3,4.4,Clear,Medium,0,0,0,Delivered
+Oct-23,Sunday,Beverages,Swiggy,Credit Card,Evening (5-8pm),4,463.4,10,3,41,0,15.5,4.5,Clear,Medium,2,0,1,Delivered
+Jul-23,Wednesday,Wraps & Rolls,Direct App,Debit Card,Lunch (11am-2pm),2,302.44,0,13,15,0,6.9,2.5,Cloudy,Medium,0,1,1,Cancelled
+Aug-23,Tuesday,Healthy Bowls,Swiggy,Wallet,Morning (7-11am),6,2772.24,0,16,43,0,10.3,4.9,Cloudy,High,1,1,0,Delivered
+Jan-23,Wednesday,Biryani,Swiggy,Cash on Delivery,Morning (7-11am),2,880.88,15,33,16,0,7.9,4.3,Clear,Medium,0,0,0,Delivered
+Feb-24,Tuesday,Wraps & Rolls,Zomato,UPI,Dinner (8-11pm),4,856.88,0,9,22,0,9.5,3.3,Cloudy,Medium,0,0,0,Delivered
+Dec-24,Wednesday,Healthy Bowls,Website,UPI,Lunch (11am-2pm),1,353.72,5,19,52,0,18.3,4.6,Clear,Medium,0,0,1,Delivered
+Mar-24,Monday,Wraps & Rolls,Swiggy,Wallet,Lunch (11am-2pm),1,156.49,5,13,16,0,8.1,3.2,Cloudy,Very High,0,0,1,Delivered
+Jan-24,Saturday,Pasta,Zomato,Cash on Delivery,Afternoon (2-5pm),5,2318.65,10,25,40,0,14.6,4.7,Rainy,Medium,0,0,1,Delivered
+Mar-23,Wednesday,Healthy Bowls,Website,Cash on Delivery,Evening (5-8pm),4,1129.68,15,15,24,0,12.4,2.8,Clear,Very High,0,0,0,Delivered
+Oct-24,Sunday,Chinese,Zomato,UPI,Lunch (11am-2pm),2,699.24,0,19,29,0,16.9,4.3,Clear,Medium,1,1,1,Delivered
+Sep-23,Friday,Pizza,Zomato,UPI,Late Night (11pm-2am),3,685.11,0,29,39,0,23.5,3.9,Rainy,Low,0,1,0,Cancelled
+Jan-23,Thursday,Healthy Bowls,Zomato,Cash on Delivery,Late Night (11pm-2am),6,1042.68,5,11,17,0,18.6,2.7,Cloudy,Medium,0,0,0,Delivered
+Aug-23,Friday,South Indian,Direct App,Cash on Delivery,Afternoon (2-5pm),5,547.2,15,19,35,0,6.2,3.1,Cloudy,Medium,1,0,0,Delivered
+Sep-24,Wednesday,Chinese,Direct App,UPI,Afternoon (2-5pm),3,545.19,25,17,19,0,1.7,2.5,Rainy,Medium,0,0,0,Cancelled
+Jan-24,Sunday,Biryani,Swiggy,Debit Card,Lunch (11am-2pm),3,1087.86,5,29,18,0,7.3,3.7,Rainy,Low,0,0,1,Delivered
+Mar-24,Wednesday,Desserts,Website,Credit Card,Afternoon (2-5pm),2,189.08,0,11,30,0,15.3,3.3,Stormy,Very High,2,0,1,Cancelled
+May-23,Tuesday,Pizza,Direct App,UPI,Late Night (11pm-2am),1,573.42,20,28,35,0,2.2,4,Cloudy,High,0,0,0,Delivered
+Jul-24,Thursday,Biryani,Direct App,Wallet,Dinner (8-11pm),4,1194.16,20,26,18,0,12.9,3.2,Clear,High,1,1,0,Cancelled
+Oct-24,Saturday,Pasta,Direct App,UPI,Morning (7-11am),2,982.4,0,21,40,0,15.3,3.2,Clear,Low,1,0,0,Refunded
+Mar-24,Sunday,Burgers,Website,Cash on Delivery,Morning (7-11am),4,897.04,5,14,26,0,9,4.4,Clear,Low,0,0,0,Delivered
+Dec-24,Saturday,South Indian,Swiggy,Debit Card,Afternoon (2-5pm),4,334.84,0,15,15,0,19.5,2.6,Cloudy,Low,0,0,0,Delivered
+Dec-24,Monday,Chinese,Zomato,Credit Card,Evening (5-8pm),2,653.32,0,22,43,0,3.6,4.8,Clear,High,0,0,1,Delivered
+Sep-23,Wednesday,Pizza,Swiggy,Debit Card,Late Night (11pm-2am),1,573.43,15,30,27,0,2.8,4.6,Stormy,Very High,2,0,1,Cancelled
+Sep-23,Thursday,Pizza,Swiggy,Cash on Delivery,Evening (5-8pm),6,2297.22,25,20,21,0,18.5,4.2,Cloudy,Medium,1,1,1,Delivered
+May-24,Thursday,South Indian,Website,Debit Card,Evening (5-8pm),2,246.98,5,18,42,0,12.9,4,Cloudy,Low,0,0,1,Delivered
+Jun-23,Sunday,South Indian,Direct App,UPI,Lunch (11am-2pm),1,119.31,15,19,42,0,17.5,4.7,Clear,Medium,0,0,0,Delivered
+Aug-24,Friday,Burgers,Zomato,Wallet,Evening (5-8pm),5,1637.75,10,17,41,0,11.4,3,Clear,Medium,2,0,0,Delivered
+Dec-23,Saturday,Beverages,Zomato,Credit Card,Morning (7-11am),1,107.1,10,5,18,0,6.9,2.7,Clear,Medium,1,0,0,Delivered
+Jul-23,Monday,Biryani,Swiggy,Credit Card,Late Night (11pm-2am),1,374.69,5,31,25,0,20.7,3.1,Clear,High,3,1,0,Cancelled
+Feb-23,Saturday,Burgers,Zomato,UPI,Dinner (8-11pm),5,1492.2,10,12,16,0,20.2,4.5,Clear,High,0,0,1,Delivered
+Aug-24,Friday,Pizza,Zomato,UPI,Evening (5-8pm),5,1846.75,25,23,42,0,17.7,2.6,Cloudy,Low,0,1,0,Cancelled
+Apr-24,Thursday,Pasta,Direct App,UPI,Morning (7-11am),5,1503,0,28,32,0,7.5,4,Rainy,Low,0,0,0,Delivered
+Oct-23,Wednesday,Chinese,Swiggy,Debit Card,Late Night (11pm-2am),5,1863.65,0,28,37,0,15.2,5,Rainy,Very High,0,0,0,Delivered
+May-24,Wednesday,Biryani,Website,UPI,Afternoon (2-5pm),2,423.92,0,22,38,0,9.7,4.6,Cloudy,Medium,0,0,1,Delivered
+Jun-23,Sunday,Desserts,Swiggy,UPI,Afternoon (2-5pm),5,819.2,0,15,38,0,3.2,3.8,Clear,Low,1,0,0,Delivered
+Sep-24,Tuesday,Pasta,Zomato,Debit Card,Late Night (11pm-2am),2,816.94,15,22,54,0,23,2.7,Rainy,Low,0,0,1,Cancelled
+May-24,Thursday,Healthy Bowls,Zomato,Wallet,Afternoon (2-5pm),6,2212.02,5,11,27,0,4.3,4.6,Rainy,Low,0,0,1,Delivered
+Mar-24,Monday,Chinese,Zomato,Credit Card,Late Night (11pm-2am),6,1880.82,20,27,15,0,23.8,4,Clear,Medium,1,0,0,Refunded
+Jan-23,Sunday,Desserts,Swiggy,Credit Card,Lunch (11am-2pm),3,583.98,15,11,41,0,11.7,2.8,Cloudy,High,0,0,0,Delivered
+Dec-24,Tuesday,Pasta,Zomato,UPI,Morning (7-11am),3,1172.1,0,20,44,0,5.4,2.7,Clear,Medium,1,0,1,Delivered
+May-24,Monday,Pizza,Direct App,Cash on Delivery,Lunch (11am-2pm),2,1143.72,25,22,31,0,14,4.8,Rainy,Medium,0,0,0,Delivered
+Jan-24,Tuesday,Beverages,Zomato,Wallet,Afternoon (2-5pm),2,197.48,0,7,36,0,22,4.2,Stormy,High,0,0,1,Delivered
+Nov-23,Tuesday,Burgers,Direct App,Debit Card,Morning (7-11am),5,1628.45,0,10,21,0,18.6,4.6,Clear,Medium,0,0,0,Delivered
+Jul-24,Saturday,Healthy Bowls,Direct App,Cash on Delivery,Lunch (11am-2pm),3,1287.18,20,13,35,0,20.4,4.7,Rainy,High,1,0,0,Delivered
+Mar-23,Monday,Chinese,Website,Wallet,Morning (7-11am),4,1297.2,0,26,31,0,16.8,3.9,Cloudy,High,0,0,1,Delivered
+Jul-23,Wednesday,Beverages,Zomato,Cash on Delivery,Dinner (8-11pm),6,1008.12,10,10,29,0,17.6,3.8,Stormy,Low,0,0,1,Delivered
+Jan-24,Monday,South Indian,Website,Debit Card,Late Night (11pm-2am),6,1455.72,15,13,30,0,21.4,3.6,Clear,High,0,0,1,Delivered
+Dec-23,Friday,Beverages,Direct App,Debit Card,Late Night (11pm-2am),6,655.2,25,3,23,0,7,3.3,Rainy,Medium,1,0,1,Cancelled
+Aug-23,Tuesday,Biryani,Website,Wallet,Lunch (11am-2pm),6,2213.88,20,32,28,0,12.7,3.6,Clear,Very High,0,0,1,Delivered
+Apr-23,Thursday,Biryani,Swiggy,Cash on Delivery,Lunch (11am-2pm),3,1151.76,0,23,15,0,6.3,4.4,Clear,Medium,0,2,1,Delivered
+Nov-23,Tuesday,Pasta,Zomato,Credit Card,Lunch (11am-2pm),6,2611.62,0,28,22,0,24.7,4,Clear,Very High,0,0,1,Delivered
+Apr-23,Saturday,Burgers,Swiggy,Debit Card,Evening (5-8pm),2,669.66,0,17,20,0,23.7,4.7,Stormy,High,0,0,0,Delivered
+Dec-24,Sunday,Healthy Bowls,Website,Credit Card,Late Night (11pm-2am),2,772.8,5,13,40,0,1.9,3.6,Rainy,Medium,2,0,0,Delivered
+Apr-24,Monday,Pasta,Website,Debit Card,Late Night (11pm-2am),6,3020.58,25,23,60,0,17.9,4,Rainy,Medium,1,0,1,Delivered
+Apr-23,Sunday,Pizza,Direct App,Debit Card,Morning (7-11am),6,2592,25,28,38,0,23.2,4.1,Stormy,Very High,0,1,0,Cancelled
+Jul-23,Tuesday,Healthy Bowls,Website,Wallet,Evening (5-8pm),5,1904.2,25,11,64,0,5.3,4,Clear,High,2,0,0,Refunded
+Mar-23,Wednesday,South Indian,Website,Cash on Delivery,Late Night (11pm-2am),4,579.48,0,20,21,0,14.6,4.3,Clear,Low,0,1,0,Delivered
+Apr-24,Thursday,Chinese,Website,Credit Card,Afternoon (2-5pm),1,302.41,0,22,20,0,23,3.1,Clear,High,0,1,0,Cancelled
+Sep-24,Thursday,Biryani,Zomato,Debit Card,Dinner (8-11pm),4,737.28,25,21,52,0,1.8,3.8,Clear,Medium,2,0,0,Refunded
+Jun-24,Saturday,Beverages,Zomato,Debit Card,Late Night (11pm-2am),2,171.18,0,9,40,0,17.7,2.8,Clear,Low,0,0,0,Delivered
+Jan-23,Sunday,South Indian,Website,Debit Card,Lunch (11am-2pm),5,1017.7,10,17,18,0,8.1,3.5,Clear,Medium,0,0,1,Delivered
+Sep-24,Monday,Beverages,Zomato,Debit Card,Lunch (11am-2pm),4,371,20,6,36,0,23.2,3.7,Clear,Medium,0,0,0,Delivered
+Jul-24,Saturday,Biryani,Direct App,Debit Card,Evening (5-8pm),4,1541.92,20,29,43,0,24.3,4.1,Clear,High,1,0,0,Delivered
+Oct-23,Friday,Wraps & Rolls,Zomato,Debit Card,Afternoon (2-5pm),4,534.32,10,9,48,0,23.7,4.9,Clear,Medium,0,0,0,Delivered
+Mar-23,Friday,Chinese,Website,Wallet,Evening (5-8pm),6,1539.24,25,22,28,0,12.4,4,Clear,High,1,0,0,Delivered
+Mar-23,Wednesday,Beverages,Website,Wallet,Dinner (8-11pm),3,395.04,25,9,34,0,21.7,4.4,Stormy,Low,1,0,0,Delivered
+Jan-23,Saturday,South Indian,Swiggy,Credit Card,Lunch (11am-2pm),6,766.2,25,22,41,0,21.3,3.8,Rainy,Medium,1,0,1,Delivered
+Oct-23,Sunday,Burgers,Zomato,Debit Card,Dinner (8-11pm),6,1100.7,25,12,35,0,8.7,4.1,Stormy,Medium,2,1,0,Cancelled
+Apr-24,Wednesday,Biryani,Swiggy,Credit Card,Dinner (8-11pm),2,519.12,0,26,43,0,20.9,2.7,Clear,Medium,0,0,1,Delivered
+Dec-24,Tuesday,Pasta,Website,Cash on Delivery,Late Night (11pm-2am),5,2050.3,5,17,58,0,1.9,3.1,Clear,Low,0,1,0,Cancelled
+Jul-24,Tuesday,Wraps & Rolls,Zomato,Debit Card,Dinner (8-11pm),4,732.48,0,16,34,0,15.3,3.4,Rainy,Low,1,0,0,Delivered
+Mar-24,Monday,Pasta,Zomato,Cash on Delivery,Afternoon (2-5pm),6,2464.44,0,25,61,0,6.5,3.7,Clear,Medium,0,0,0,Delivered
+Apr-24,Friday,South Indian,Zomato,UPI,Morning (7-11am),6,514.26,20,20,32,0,3.9,2.6,Clear,Medium,1,0,0,Delivered
+Jun-23,Thursday,Desserts,Zomato,Cash on Delivery,Dinner (8-11pm),3,631.32,25,9,45,0,2.8,2.9,Clear,Medium,2,0,1,Cancelled
+Oct-23,Wednesday,Wraps & Rolls,Website,Debit Card,Morning (7-11am),4,908.16,0,9,19,0,17.7,3.2,Clear,Medium,0,0,1,Delivered
+Apr-24,Wednesday,Pizza,Website,UPI,Lunch (11am-2pm),6,3403.08,0,26,29,0,9.2,4.9,Clear,High,0,0,0,Delivered
+Mar-23,Wednesday,Healthy Bowls,Zomato,Credit Card,Lunch (11am-2pm),2,919.64,15,16,36,0,18.4,3.3,Clear,Very High,0,1,0,Cancelled
+Nov-24,Monday,Pasta,Swiggy,Debit Card,Dinner (8-11pm),2,373.46,25,27,57,0,2.6,3.7,Cloudy,Medium,0,0,0,Delivered
+Nov-24,Monday,Burgers,Zomato,Cash on Delivery,Late Night (11pm-2am),6,1351.32,25,17,27,0,8.6,3,Clear,Medium,0,0,0,Delivered
+Aug-23,Saturday,Healthy Bowls,Direct App,Cash on Delivery,Morning (7-11am),4,877.04,25,15,63,0,13.9,4,Clear,Low,0,1,1,Delivered
+Jun-24,Wednesday,South Indian,Swiggy,Cash on Delivery,Morning (7-11am),4,776.96,20,15,24,0,20,3.2,Rainy,Very High,0,0,0,Cancelled
+Aug-23,Saturday,Burgers,Swiggy,Debit Card,Late Night (11pm-2am),6,1964.88,5,20,31,0,8.7,3,Clear,Low,0,0,1,Delivered
+Aug-24,Wednesday,South Indian,Website,Debit Card,Dinner (8-11pm),2,497.96,10,16,18,0,16,3.8,Clear,Medium,0,0,0,Delivered
+Sep-23,Friday,Wraps & Rolls,Website,Credit Card,Afternoon (2-5pm),4,519.16,0,16,27,0,22.3,2.5,Rainy,Medium,0,1,0,Cancelled
+Sep-23,Wednesday,Pizza,Direct App,Credit Card,Morning (7-11am),3,704.4,0,28,22,0,15.8,2.5,Clear,Medium,1,0,0,Refunded
+Feb-23,Friday,Beverages,Website,UPI,Late Night (11pm-2am),5,694.85,5,8,21,0,6.6,3,Clear,Low,0,0,0,Delivered
+Jul-24,Thursday,Wraps & Rolls,Swiggy,Credit Card,Lunch (11am-2pm),6,1339.8,0,12,37,0,1.6,2.6,Clear,High,0,0,1,Delivered
+Nov-24,Friday,Biryani,Website,Debit Card,Evening (5-8pm),3,892.08,20,29,34,0,21.9,2.8,Clear,Low,2,1,0,Cancelled
+Oct-24,Wednesday,Pizza,Website,Credit Card,Morning (7-11am),5,1068.2,20,25,36,0,1.5,3.3,Cloudy,High,0,0,1,Delivered
+Oct-24,Monday,South Indian,Direct App,Credit Card,Dinner (8-11pm),3,385.23,0,16,37,0,22,4.5,Rainy,Low,0,2,0,Cancelled
+May-24,Wednesday,Biryani,Swiggy,Cash on Delivery,Dinner (8-11pm),2,404.7,10,27,33,0,13.7,3.9,Clear,Low,0,0,1,Delivered
+May-23,Monday,Biryani,Website,Cash on Delivery,Afternoon (2-5pm),1,388.62,10,22,41,0,23.5,3.8,Cloudy,Very High,0,0,0,Delivered
+Oct-24,Thursday,Pasta,Swiggy,Cash on Delivery,Lunch (11am-2pm),2,488.92,0,27,43,0,20.2,3.2,Cloudy,Low,0,0,1,Delivered
+Jun-23,Saturday,Burgers,Website,Credit Card,Afternoon (2-5pm),1,167.23,0,15,60,0,25,4.8,Clear,High,1,0,1,Refunded
+Aug-24,Sunday,Beverages,Zomato,UPI,Morning (7-11am),3,448.41,10,8,25,0,9.4,3.5,Cloudy,Medium,0,1,1,Delivered
+Dec-24,Tuesday,Burgers,Website,Debit Card,Evening (5-8pm),1,277.68,25,13,15,0,19.4,2.7,Clear,Low,0,0,0,Delivered
+Aug-24,Saturday,Desserts,Direct App,Cash on Delivery,Evening (5-8pm),3,325.5,0,6,42,0,10.6,4,Clear,Very High,0,0,1,Delivered
+Nov-24,Friday,Pizza,Website,Credit Card,Late Night (11pm-2am),6,3263.22,20,27,42,0,12.5,2.8,Clear,Medium,0,0,0,Delivered
+Nov-23,Sunday,Wraps & Rolls,Zomato,UPI,Lunch (11am-2pm),2,239.82,0,8,26,0,16.1,3.4,Clear,High,0,0,0,Delivered
+May-24,Wednesday,Burgers,Direct App,UPI,Late Night (11pm-2am),4,1242.68,15,16,44,0,22,3.8,Clear,Low,1,0,0,Delivered
+Jul-23,Saturday,Biryani,Swiggy,Cash on Delivery,Evening (5-8pm),3,689.52,5,22,45,0,24.6,4.7,Rainy,High,2,0,0,Cancelled
+Jan-24,Thursday,Chinese,Website,Cash on Delivery,Afternoon (2-5pm),2,725.4,10,21,36,0,19.4,3.7,Clear,Low,0,0,1,Delivered
+Sep-23,Friday,Burgers,Zomato,Cash on Delivery,Afternoon (2-5pm),1,211.2,0,20,32,0,11,4.3,Clear,Medium,0,0,0,Delivered
+Sep-23,Monday,Burgers,Swiggy,Debit Card,Afternoon (2-5pm),4,1204.28,20,17,33,0,11.1,5,Clear,High,3,0,0,Delivered
+Mar-24,Wednesday,Wraps & Rolls,Direct App,Wallet,Evening (5-8pm),2,435.7,25,17,35,0,18.7,2.8,Cloudy,Very High,1,0,0,Cancelled
+Dec-23,Tuesday,Biryani,Direct App,Cash on Delivery,Morning (7-11am),6,2681.22,0,29,16,0,6.7,3.2,Cloudy,Very High,0,0,0,Delivered
+Jan-23,Sunday,Wraps & Rolls,Swiggy,Debit Card,Evening (5-8pm),4,738,0,14,25,0,3.7,3.5,Cloudy,High,0,0,1,Delivered
+Nov-23,Saturday,Pizza,Direct App,Debit Card,Afternoon (2-5pm),1,244.48,0,19,19,0,9.5,3.6,Rainy,High,0,0,0,Delivered
+Jan-24,Thursday,Burgers,Zomato,Cash on Delivery,Dinner (8-11pm),4,1369.56,0,11,17,0,7.9,3.5,Rainy,Low,1,1,0,Cancelled
+Jul-24,Tuesday,Healthy Bowls,Zomato,Credit Card,Dinner (8-11pm),5,1863,0,19,20,0,8.1,4.8,Clear,Medium,0,0,0,Delivered
+Aug-24,Wednesday,Pizza,Direct App,Credit Card,Morning (7-11am),3,1064.34,15,23,17,0,6.6,4.3,Cloudy,Medium,0,1,1,Delivered
+Dec-23,Monday,Chinese,Direct App,Debit Card,Lunch (11am-2pm),4,791.44,20,27,25,0,2,4,Rainy,Medium,2,1,1,Cancelled
+Jan-24,Thursday,Beverages,Zomato,Cash on Delivery,Lunch (11am-2pm),4,439.56,10,8,37,0,1.4,3.3,Stormy,Medium,0,0,1,Delivered
+Feb-24,Thursday,Pizza,Website,Debit Card,Morning (7-11am),5,2413.15,15,15,21,0,24.7,4.6,Rainy,Medium,0,0,0,Delivered
+May-24,Friday,Burgers,Direct App,Credit Card,Afternoon (2-5pm),1,260.24,20,15,32,0,11.3,4.9,Clear,Low,1,1,0,Delivered
+Aug-23,Friday,Burgers,Direct App,Credit Card,Late Night (11pm-2am),3,796.83,10,14,24,0,10.2,4.6,Clear,High,0,0,0,Delivered
+Jul-24,Saturday,Healthy Bowls,Zomato,Debit Card,Late Night (11pm-2am),1,397.9,0,12,53,0,17.3,2.5,Clear,Low,0,0,0,Delivered
+Aug-23,Tuesday,Desserts,Zomato,Debit Card,Late Night (11pm-2am),2,227.98,15,5,17,0,6.2,4.1,Cloudy,Medium,0,0,0,Delivered
+Aug-23,Tuesday,Biryani,Zomato,Wallet,Afternoon (2-5pm),5,1308.3,25,35,42,0,23.8,2.6,Clear,Medium,1,0,1,Refunded
+Jul-23,Wednesday,Desserts,Swiggy,Debit Card,Dinner (8-11pm),5,873.95,15,9,23,0,19.9,3.1,Clear,High,0,0,0,Delivered
+Feb-24,Thursday,Beverages,Direct App,UPI,Morning (7-11am),3,160.29,20,8,41,0,3.1,2.6,Rainy,High,0,0,0,Delivered
+May-24,Friday,Biryani,Direct App,Wallet,Late Night (11pm-2am),5,1837.8,0,29,38,0,11,4,Clear,High,0,0,1,Delivered
+Sep-23,Saturday,Wraps & Rolls,Swiggy,Cash on Delivery,Dinner (8-11pm),6,1338.78,5,11,45,0,22.1,4.2,Rainy,Low,1,0,1,Delivered
+Sep-23,Sunday,Wraps & Rolls,Direct App,Debit Card,Late Night (11pm-2am),2,295.78,15,8,44,0,23.7,2.8,Clear,Medium,2,0,0,Cancelled
+Jun-24,Saturday,Wraps & Rolls,Zomato,UPI,Dinner (8-11pm),5,664.3,0,15,27,0,12.2,3.5,Clear,Low,0,0,0,Delivered
+Jun-23,Saturday,Biryani,Swiggy,UPI,Afternoon (2-5pm),5,1702.5,0,31,31,0,15.7,3.6,Clear,Medium,0,0,0,Delivered
+Jun-24,Saturday,Beverages,Zomato,Wallet,Dinner (8-11pm),1,93.72,15,4,46,0,5,3.4,Rainy,Medium,1,1,0,Cancelled
+Nov-23,Monday,Burgers,Website,Cash on Delivery,Late Night (11pm-2am),3,714.48,0,16,40,0,24.8,2.8,Clear,Low,0,0,0,Delivered
+Jan-23,Tuesday,Beverages,Swiggy,Cash on Delivery,Afternoon (2-5pm),1,54.97,20,5,21,0,6.6,3.5,Clear,Medium,0,0,0,Delivered
+Feb-24,Tuesday,Burgers,Website,Wallet,Afternoon (2-5pm),3,669.54,15,13,41,0,23.6,4.4,Stormy,Very High,1,0,1,Cancelled
+Jan-23,Thursday,Beverages,Swiggy,Credit Card,Afternoon (2-5pm),1,129.44,0,5,24,0,16.6,2.7,Clear,Very High,0,0,1,Delivered
+Apr-23,Saturday,Chinese,Zomato,Debit Card,Afternoon (2-5pm),5,881.95,0,16,16,0,15.6,2.7,Cloudy,Medium,0,0,0,Delivered
+Sep-24,Sunday,South Indian,Website,Credit Card,Late Night (11pm-2am),2,235.88,5,21,48,0,13.3,3.4,Cloudy,Low,0,1,0,Cancelled
+Dec-24,Wednesday,Pasta,Direct App,Debit Card,Morning (7-11am),1,244.69,15,26,24,0,6.5,4.9,Clear,Low,1,0,0,Delivered
+Feb-24,Thursday,South Indian,Swiggy,Debit Card,Morning (7-11am),1,142.67,0,15,40,0,5.2,4.2,Cloudy,Medium,1,2,1,Delivered
+Feb-24,Tuesday,Burgers,Swiggy,UPI,Late Night (11pm-2am),1,197.99,10,12,36,0,6.3,4.2,Clear,Very High,0,0,0,Delivered
+May-24,Friday,Biryani,Website,Credit Card,Morning (7-11am),6,2270.7,0,35,37,0,5.5,3.4,Cloudy,Low,1,0,0,Delivered
+Sep-23,Tuesday,Burgers,Zomato,Debit Card,Late Night (11pm-2am),1,247.26,25,11,33,0,19.7,4,Clear,High,0,0,0,Delivered
+Dec-23,Thursday,Healthy Bowls,Swiggy,Wallet,Morning (7-11am),3,868.44,15,10,35,0,9.4,2.5,Cloudy,Low,1,1,0,Cancelled
+Dec-23,Tuesday,Biryani,Website,UPI,Morning (7-11am),2,621.28,25,22,31,0,2.4,4.1,Clear,Very High,1,0,1,Delivered
+Oct-23,Monday,Pizza,Zomato,Credit Card,Lunch (11am-2pm),5,1852.55,15,29,40,0,24.3,4.8,Cloudy,Medium,1,0,0,Refunded
+Apr-24,Thursday,Wraps & Rolls,Direct App,Wallet,Lunch (11am-2pm),2,368.82,20,14,40,0,22.2,4,Clear,High,0,1,0,Delivered
+Jun-23,Wednesday,Burgers,Swiggy,Credit Card,Late Night (11pm-2am),4,746.68,25,18,37,0,23.3,4.7,Clear,Medium,0,0,0,Delivered
+Jun-23,Thursday,South Indian,Zomato,Cash on Delivery,Afternoon (2-5pm),3,475.89,20,16,35,0,24.9,4.3,Clear,High,1,0,0,Delivered
+Oct-23,Tuesday,Chinese,Zomato,Debit Card,Evening (5-8pm),5,1192.5,5,22,36,0,5.2,2.8,Clear,Low,0,1,1,Cancelled
+May-24,Saturday,Desserts,Swiggy,Wallet,Afternoon (2-5pm),5,629.45,0,5,26,0,10.5,4.8,Rainy,Low,1,0,1,Delivered
+Mar-24,Monday,Pasta,Website,Debit Card,Dinner (8-11pm),5,2106.85,0,26,44,0,19.2,2.7,Clear,Very High,0,0,0,Delivered
+Jun-24,Wednesday,Pasta,Direct App,Debit Card,Morning (7-11am),3,916.62,5,15,16,0,17.7,3.8,Stormy,Very High,2,0,0,Cancelled
+Mar-24,Monday,Wraps & Rolls,Website,UPI,Lunch (11am-2pm),4,658.72,5,14,43,0,4.7,2.9,Stormy,High,1,0,0,Delivered
+Apr-24,Tuesday,Chinese,Zomato,UPI,Lunch (11am-2pm),3,652.89,15,22,21,0,20.6,2.5,Cloudy,High,1,0,0,Refunded
+Mar-23,Friday,Pizza,Website,UPI,Dinner (8-11pm),4,886.16,0,24,34,0,6.4,3.6,Clear,High,0,0,0,Delivered
+Jul-23,Monday,Pizza,Swiggy,Wallet,Late Night (11pm-2am),4,2210.88,0,15,33,0,6.4,3.2,Clear,Low,0,0,1,Delivered
+Feb-24,Tuesday,Burgers,Direct App,UPI,Morning (7-11am),5,662.1,10,15,54,0,13.9,3.7,Rainy,Medium,0,0,0,Delivered
+May-24,Wednesday,Chinese,Swiggy,UPI,Afternoon (2-5pm),4,1182.64,5,28,52,0,15.2,3.9,Clear,Medium,0,1,0,Delivered
+Aug-23,Sunday,South Indian,Zomato,Cash on Delivery,Lunch (11am-2pm),6,1271.04,0,13,43,0,14.9,2.6,Clear,High,0,2,0,Cancelled
+Dec-24,Thursday,Biryani,Zomato,Credit Card,Lunch (11am-2pm),3,1280.28,0,34,44,0,3.2,2.8,Cloudy,Medium,0,0,1,Delivered
+Jan-23,Friday,Pasta,Website,Wallet,Afternoon (2-5pm),2,718.58,10,15,39,0,22.1,3.9,Rainy,Low,0,0,0,Delivered
+Dec-23,Friday,South Indian,Swiggy,Debit Card,Afternoon (2-5pm),1,222.27,0,20,38,0,7.4,3.4,Rainy,Medium,0,1,1,Cancelled
+May-23,Thursday,Desserts,Zomato,Cash on Delivery,Afternoon (2-5pm),3,411.96,0,14,17,0,4.1,4.3,Clear,High,0,0,0,Delivered
+Aug-24,Friday,Beverages,Direct App,UPI,Evening (5-8pm),6,782.34,0,6,23,0,22.3,4.1,Cloudy,Medium,0,0,0,Delivered
+Apr-24,Tuesday,South Indian,Direct App,Wallet,Dinner (8-11pm),6,1602.66,25,20,31,0,23.9,4.6,Clear,Low,2,1,1,Cancelled
+Jan-24,Friday,Biryani,Zomato,Wallet,Late Night (11pm-2am),3,876.39,0,34,54,0,21.7,4.2,Clear,Low,0,0,0,Delivered
+Mar-23,Friday,Biryani,Direct App,Cash on Delivery,Dinner (8-11pm),5,1806.55,5,26,32,0,20.4,3.6,Rainy,Medium,1,0,1,Delivered
+Sep-24,Saturday,Healthy Bowls,Zomato,Credit Card,Morning (7-11am),1,297.19,0,15,21,0,16.7,4.2,Clear,Medium,0,0,0,Delivered
+Dec-23,Wednesday,Burgers,Direct App,Debit Card,Late Night (11pm-2am),3,581.52,0,11,25,0,14.2,3.2,Clear,High,0,0,0,Delivered
+May-23,Sunday,Beverages,Website,Credit Card,Evening (5-8pm),5,752.6,0,7,56,0,3.1,3.3,Clear,High,1,0,0,Refunded
+Mar-23,Friday,South Indian,Zomato,Debit Card,Dinner (8-11pm),4,413.88,10,15,27,0,10.8,4.5,Rainy,High,0,0,0,Delivered
+Mar-24,Tuesday,Healthy Bowls,Swiggy,Credit Card,Late Night (11pm-2am),5,1543.8,20,12,24,0,9.9,3.6,Rainy,Medium,0,0,0,Delivered
+Dec-23,Friday,Pasta,Swiggy,Credit Card,Evening (5-8pm),2,557.64,0,21,45,0,7.2,4.5,Cloudy,High,1,0,0,Delivered
+Feb-23,Friday,Healthy Bowls,Direct App,Wallet,Late Night (11pm-2am),2,434.64,25,16,25,0,18.4,4.6,Rainy,Medium,0,0,1,Delivered
+Jul-24,Monday,Healthy Bowls,Zomato,UPI,Late Night (11pm-2am),5,2058.35,0,11,20,0,12.9,4.6,Clear,Medium,0,0,0,Delivered
+Sep-24,Sunday,Healthy Bowls,Zomato,Debit Card,Lunch (11am-2pm),6,2424.36,15,20,54,0,2.9,4.8,Clear,High,0,0,0,Delivered
+Apr-23,Wednesday,Desserts,Direct App,Credit Card,Late Night (11pm-2am),5,322.85,0,6,43,0,6.3,3.6,Clear,Low,1,0,0,Delivered
+Nov-23,Sunday,Wraps & Rolls,Direct App,Credit Card,Afternoon (2-5pm),2,368.74,20,9,35,0,17.4,3.3,Clear,Low,1,1,0,Cancelled
+Dec-23,Thursday,Pizza,Zomato,Credit Card,Morning (7-11am),5,1188.35,20,16,38,0,2.8,4,Clear,High,1,0,0,Delivered
+Mar-24,Saturday,Wraps & Rolls,Swiggy,Wallet,Evening (5-8pm),4,614,0,13,30,0,21.4,3.4,Stormy,Medium,0,0,1,Cancelled
+Mar-24,Friday,Beverages,Direct App,UPI,Morning (7-11am),6,966.24,10,9,55,0,12.9,4,Clear,High,0,0,1,Delivered
+Jul-24,Sunday,Wraps & Rolls,Direct App,UPI,Evening (5-8pm),6,1136.82,20,12,17,0,12.5,4.3,Clear,Low,0,0,0,Delivered
+Jan-23,Wednesday,Desserts,Zomato,Cash on Delivery,Afternoon (2-5pm),6,1163.52,25,5,23,0,15.2,4.2,Clear,High,0,0,1,Delivered
+Jul-23,Tuesday,Desserts,Direct App,Wallet,Morning (7-11am),6,1199.94,5,6,30,0,20.8,3.4,Clear,Medium,1,0,0,Delivered
+Nov-23,Wednesday,Chinese,Zomato,UPI,Evening (5-8pm),2,373.18,0,22,33,0,9.3,2.9,Stormy,Low,1,0,1,Delivered
+Aug-24,Monday,Pasta,Direct App,Credit Card,Lunch (11am-2pm),3,1422.33,0,25,42,0,17.3,3.6,Clear,High,0,0,1,Delivered
+Feb-24,Wednesday,Pasta,Zomato,Wallet,Late Night (11pm-2am),3,1257.6,0,27,33,0,14.6,2.9,Clear,Medium,1,1,1,Cancelled
+May-23,Wednesday,Biryani,Website,Debit Card,Evening (5-8pm),2,789.44,10,25,34,0,7.4,4.7,Rainy,Medium,0,0,0,Delivered
+Sep-24,Monday,Wraps & Rolls,Direct App,Wallet,Dinner (8-11pm),2,459.98,25,8,26,0,22.1,3.4,Clear,Low,1,0,0,Delivered
+Oct-23,Monday,Burgers,Swiggy,UPI,Afternoon (2-5pm),2,628.6,25,17,22,0,20.1,2.9,Clear,Low,0,0,0,Delivered
+Mar-24,Thursday,South Indian,Zomato,Debit Card,Afternoon (2-5pm),4,1080.16,20,22,34,0,16.8,2.6,Clear,Medium,1,0,1,Delivered
+Dec-24,Sunday,South Indian,Zomato,Wallet,Lunch (11am-2pm),2,512.04,0,17,40,0,21.4,4.1,Cloudy,Low,0,1,0,Delivered
+Jan-23,Thursday,Pasta,Swiggy,UPI,Late Night (11pm-2am),4,1017.64,0,23,45,0,21.8,4.1,Stormy,Very High,0,0,1,Cancelled
+Apr-23,Saturday,Pizza,Direct App,UPI,Morning (7-11am),4,1810.12,0,28,27,0,18,3.4,Rainy,Low,2,0,0,Cancelled
+Apr-23,Wednesday,Beverages,Zomato,Credit Card,Afternoon (2-5pm),3,297.03,25,9,33,0,21.1,2.7,Clear,Medium,1,0,1,Delivered
+Aug-23,Wednesday,Healthy Bowls,Zomato,Credit Card,Morning (7-11am),6,2545.02,15,15,32,0,17.7,3.5,Rainy,Low,0,0,0,Delivered
+Apr-23,Sunday,Burgers,Website,Debit Card,Afternoon (2-5pm),6,747.54,0,12,37,0,17.3,3.3,Clear,Medium,0,0,0,Delivered
+Feb-24,Tuesday,Burgers,Zomato,UPI,Dinner (8-11pm),6,1231.5,0,15,44,0,15.8,4.2,Clear,Very High,1,0,0,Delivered
+Oct-24,Friday,Healthy Bowls,Swiggy,Cash on Delivery,Lunch (11am-2pm),5,2336.9,0,18,59,0,19.1,4,Clear,Low,1,1,0,Delivered
+Nov-24,Sunday,Pizza,Zomato,UPI,Late Night (11pm-2am),5,2156.5,15,24,43,0,4.8,3.4,Clear,Very High,0,0,0,Delivered
+May-23,Tuesday,Chinese,Website,Debit Card,Late Night (11pm-2am),6,1642.74,5,22,56,0,22.1,3,Cloudy,Medium,0,0,1,Delivered
+Dec-24,Saturday,Beverages,Swiggy,Cash on Delivery,Dinner (8-11pm),5,256.05,25,6,23,0,21.9,5,Cloudy,High,0,0,0,Delivered
+Sep-23,Wednesday,Desserts,Direct App,Debit Card,Dinner (8-11pm),3,473.73,10,12,18,0,1.7,3.6,Stormy,Medium,0,0,0,Delivered
+Jul-24,Wednesday,Chinese,Website,UPI,Afternoon (2-5pm),1,377.31,15,24,27,0,20.8,4.2,Cloudy,High,1,0,1,Delivered
+Feb-23,Monday,Beverages,Website,UPI,Afternoon (2-5pm),1,40.7,0,9,39,0,4.1,2.9,Cloudy,Medium,1,0,0,Delivered
+Jun-23,Friday,Burgers,Swiggy,Debit Card,Lunch (11am-2pm),4,1365.24,10,17,29,1,9,3.7,Clear,Medium,0,0,1,Delivered
+Dec-24,Tuesday,Biryani,Zomato,Cash on Delivery,Late Night (11pm-2am),2,650.94,0,28,62,0,18.8,2.6,Clear,Low,0,0,1,Delivered
+Feb-23,Tuesday,Pizza,Direct App,Credit Card,Lunch (11am-2pm),1,266.4,10,25,33,0,4.9,3.8,Cloudy,Low,0,1,0,Delivered
+May-24,Sunday,Chinese,Direct App,Debit Card,Evening (5-8pm),4,964.56,0,21,40,0,20.6,4.9,Clear,Very High,0,0,0,Delivered
+Jul-23,Wednesday,Biryani,Website,Debit Card,Morning (7-11am),1,345.67,20,34,15,0,21,3.5,Rainy,Medium,2,1,0,Cancelled
+Apr-23,Wednesday,South Indian,Direct App,Wallet,Dinner (8-11pm),4,841.28,0,12,42,0,13.2,2.6,Clear,Medium,0,1,1,Cancelled
+Feb-24,Friday,Desserts,Website,Cash on Delivery,Morning (7-11am),4,382.04,0,14,29,0,1.2,2.6,Clear,High,1,0,0,Delivered
+Oct-23,Tuesday,South Indian,Direct App,Wallet,Morning (7-11am),5,1038.35,0,18,37,0,7.9,3.5,Clear,Medium,0,0,0,Delivered
+Aug-24,Tuesday,South Indian,Website,Wallet,Morning (7-11am),5,559,0,19,29,0,15.8,2.9,Clear,Very High,0,0,1,Delivered
+Jul-24,Monday,Biryani,Website,UPI,Lunch (11am-2pm),4,1477.56,15,32,60,0,24.5,2.6,Clear,High,1,1,0,Cancelled
+Jul-23,Sunday,Chinese,Swiggy,Wallet,Afternoon (2-5pm),6,2093.76,10,27,24,0,16.2,4.4,Cloudy,Medium,0,0,1,Delivered
+Aug-23,Thursday,Desserts,Zomato,Credit Card,Morning (7-11am),1,152.59,10,12,18,0,7.2,3.6,Clear,High,1,0,1,Delivered
+Jan-23,Saturday,Pasta,Zomato,Cash on Delivery,Evening (5-8pm),5,1308.4,20,20,17,0,16.2,3.2,Cloudy,Low,0,1,0,Cancelled
+Sep-24,Thursday,Pizza,Zomato,Cash on Delivery,Lunch (11am-2pm),4,2209.12,25,20,24,0,14,4.8,Clear,Medium,0,0,1,Delivered
+Apr-24,Thursday,Pizza,Direct App,Wallet,Morning (7-11am),4,977.48,0,29,45,0,19.7,2.8,Clear,Medium,1,0,1,Delivered
+Feb-24,Tuesday,Pizza,Direct App,UPI,Dinner (8-11pm),1,486.9,0,25,33,0,3.6,4.9,Clear,Medium,2,0,0,Delivered
+Oct-24,Sunday,Healthy Bowls,Swiggy,Cash on Delivery,Afternoon (2-5pm),2,503.42,15,10,42,0,19.3,3.3,Rainy,High,1,0,0,Refunded
+Apr-23,Saturday,Beverages,Zomato,Wallet,Late Night (11pm-2am),1,71.63,10,7,38,0,14,4.7,Clear,Very High,0,0,0,Delivered
+Aug-24,Sunday,Beverages,Website,Wallet,Lunch (11am-2pm),5,894.3,0,3,54,0,24.1,4,Rainy,Medium,0,0,0,Delivered
+Aug-24,Saturday,South Indian,Swiggy,Debit Card,Lunch (11am-2pm),1,217.36,0,17,58,0,9.2,4.6,Clear,Medium,0,0,1,Delivered
+Jan-23,Wednesday,Healthy Bowls,Zomato,Cash on Delivery,Afternoon (2-5pm),6,1581.78,10,11,36,0,16.2,5,Rainy,Very High,0,1,0,Cancelled
+Dec-23,Saturday,Healthy Bowls,Zomato,Debit Card,Afternoon (2-5pm),3,785.67,20,20,38,0,23.4,3.2,Clear,Medium,0,0,1,Delivered
+Jun-24,Thursday,Chinese,Website,Debit Card,Dinner (8-11pm),2,614.06,20,19,21,0,3.5,4.9,Cloudy,Medium,0,2,0,Delivered
+Dec-23,Friday,Beverages,Swiggy,Cash on Delivery,Morning (7-11am),5,775.05,0,5,32,0,23.5,3.5,Cloudy,Medium,1,2,0,Delivered
+Feb-23,Wednesday,Wraps & Rolls,Direct App,Cash on Delivery,Afternoon (2-5pm),4,423.4,10,17,36,0,17.5,3.5,Stormy,Very High,1,0,1,Delivered
+Apr-23,Wednesday,Pizza,Zomato,Debit Card,Afternoon (2-5pm),2,1172.76,20,21,32,0,2.6,3.4,Clear,Medium,0,0,1,Delivered
+Aug-23,Thursday,Wraps & Rolls,Swiggy,Credit Card,Afternoon (2-5pm),1,224.24,15,13,41,0,8.2,3.9,Clear,High,0,0,0,Delivered
+Mar-23,Sunday,Pizza,Website,Wallet,Late Night (11pm-2am),3,1645.98,0,16,37,0,18,2.9,Clear,High,0,0,0,Delivered
+Jan-24,Wednesday,Pasta,Website,Debit Card,Late Night (11pm-2am),5,2359.95,15,23,36,0,2.6,3.9,Rainy,Medium,0,0,0,Delivered
+Mar-23,Wednesday,Pasta,Website,UPI,Morning (7-11am),3,1492.23,0,25,28,0,15,3.9,Cloudy,Medium,3,0,0,Delivered
+Nov-23,Thursday,Biryani,Zomato,Cash on Delivery,Morning (7-11am),1,404.92,25,23,30,0,9.3,4.4,Rainy,High,1,0,0,Refunded
+Jan-24,Wednesday,South Indian,Website,Credit Card,Late Night (11pm-2am),3,337.65,10,17,21,0,15.9,4.6,Clear,Medium,0,1,0,Delivered
+May-23,Sunday,Chinese,Zomato,Debit Card,Afternoon (2-5pm),4,1395.4,10,23,55,0,2.1,3.6,Clear,High,1,0,1,Delivered
+Aug-23,Tuesday,Chinese,Direct App,Credit Card,Afternoon (2-5pm),3,591.12,0,27,25,0,21.9,3.3,Clear,Very High,0,0,0,Cancelled
+Aug-24,Saturday,Healthy Bowls,Zomato,UPI,Late Night (11pm-2am),6,2586.48,0,20,38,0,24.4,3.1,Stormy,High,0,0,1,Cancelled
+May-24,Tuesday,Wraps & Rolls,Zomato,UPI,Evening (5-8pm),2,485.28,15,14,23,0,24.3,3,Cloudy,High,0,2,1,Cancelled
+Aug-24,Tuesday,Desserts,Direct App,Credit Card,Lunch (11am-2pm),5,542.95,25,11,42,0,19,2.6,Stormy,High,1,0,0,Cancelled
+Aug-24,Monday,Desserts,Swiggy,Cash on Delivery,Lunch (11am-2pm),6,429.36,20,12,66,0,4.1,3.4,Clear,High,1,1,1,Cancelled
+Oct-24,Thursday,Beverages,Swiggy,Credit Card,Dinner (8-11pm),3,135.27,0,8,26,0,19.2,3.2,Cloudy,Medium,0,0,0,Delivered
+Jun-24,Wednesday,Healthy Bowls,Website,Debit Card,Dinner (8-11pm),4,1487.8,5,20,40,0,1.6,4.9,Cloudy,Low,0,0,1,Delivered
+Oct-24,Wednesday,South Indian,Direct App,Credit Card,Afternoon (2-5pm),1,272.99,0,12,41,0,1.5,3.9,Clear,Medium,0,0,0,Delivered
+Jul-23,Monday,Biryani,Direct App,Debit Card,Afternoon (2-5pm),5,1064.65,10,21,39,0,8.8,3.4,Rainy,High,0,0,0,Delivered
+Aug-23,Tuesday,Wraps & Rolls,Direct App,Credit Card,Morning (7-11am),5,572.1,15,10,31,0,12.7,4,Stormy,Medium,2,0,1,Delivered
+Jul-24,Saturday,Wraps & Rolls,Direct App,Debit Card,Lunch (11am-2pm),6,1552.56,0,14,22,0,19.5,2.8,Rainy,High,2,0,0,Cancelled
+Jun-24,Wednesday,Burgers,Website,Cash on Delivery,Morning (7-11am),5,1426.25,10,14,42,0,17.4,3.6,Cloudy,Medium,1,0,1,Delivered
+Sep-24,Sunday,Beverages,Direct App,Debit Card,Lunch (11am-2pm),1,61.72,15,3,23,0,11.7,4.1,Clear,High,0,1,1,Delivered
+Aug-23,Monday,Burgers,Website,UPI,Evening (5-8pm),6,1126.14,0,17,33,0,7.6,3.7,Clear,Low,0,0,0,Delivered
+Dec-24,Monday,Pizza,Website,Cash on Delivery,Morning (7-11am),4,974.48,0,16,36,0,24.9,3.5,Stormy,High,0,2,0,Cancelled
+Feb-23,Monday,Desserts,Swiggy,Credit Card,Evening (5-8pm),1,199.77,10,7,26,0,11.2,5,Clear,Medium,0,0,0,Delivered
+Jul-24,Saturday,Beverages,Direct App,Cash on Delivery,Lunch (11am-2pm),1,81.51,5,8,30,0,11.8,4.7,Cloudy,Medium,1,0,0,Delivered
+Dec-24,Monday,Pizza,Website,UPI,Evening (5-8pm),4,1798.48,25,16,36,0,4.9,4.1,Cloudy,Medium,0,0,1,Delivered
+Dec-24,Sunday,Healthy Bowls,Swiggy,Cash on Delivery,Afternoon (2-5pm),5,818.05,0,12,17,0,20.1,3.9,Cloudy,High,0,0,0,Delivered
+Nov-23,Saturday,Healthy Bowls,Zomato,Credit Card,Morning (7-11am),6,2596.32,15,10,30,0,17.6,4.1,Stormy,Medium,0,0,0,Delivered
+Jan-24,Wednesday,Pizza,Zomato,Cash on Delivery,Evening (5-8pm),1,271.72,0,24,40,0,6.3,3,Clear,Medium,0,0,1,Delivered
+Jan-24,Sunday,Pizza,Direct App,UPI,Dinner (8-11pm),3,692.91,15,18,16,0,3,3.5,Clear,Very High,0,0,0,Delivered
+Mar-24,Thursday,Beverages,Zomato,Credit Card,Evening (5-8pm),3,532.74,0,8,29,0,17.3,2.6,Clear,High,0,0,1,Delivered
+Jun-24,Thursday,Chinese,Direct App,UPI,Lunch (11am-2pm),4,753.68,10,23,23,0,16.7,3.7,Clear,Very High,0,0,0,Delivered
+Aug-23,Tuesday,Pasta,Website,Credit Card,Dinner (8-11pm),4,759.56,20,25,42,0,7.6,3.9,Clear,Medium,1,1,1,Delivered
+Dec-23,Sunday,South Indian,Zomato,Debit Card,Afternoon (2-5pm),5,1211.75,0,12,40,0,23.8,3.1,Clear,Medium,0,0,0,Delivered
+May-24,Tuesday,Healthy Bowls,Website,Credit Card,Late Night (11pm-2am),2,884,10,19,22,0,4.6,4.9,Rainy,High,0,0,0,Delivered
+Mar-24,Sunday,Pizza,Website,Cash on Delivery,Lunch (11am-2pm),2,549.68,10,28,44,0,11.4,4.8,Stormy,Medium,0,0,0,Delivered
+Sep-24,Wednesday,Chinese,Direct App,Cash on Delivery,Dinner (8-11pm),6,1633.26,25,27,18,0,23.6,4.3,Clear,High,1,0,0,Delivered
+Jan-23,Monday,Burgers,Swiggy,UPI,Dinner (8-11pm),2,500.94,5,14,19,0,11.1,3.8,Clear,Medium,0,0,1,Delivered
+Sep-23,Friday,Biryani,Swiggy,Cash on Delivery,Late Night (11pm-2am),4,936.92,0,33,45,1,16.3,4.7,Stormy,Medium,1,0,0,Delivered
+May-24,Friday,Pizza,Direct App,Cash on Delivery,Lunch (11am-2pm),4,1518.32,10,29,35,0,10.5,2.8,Clear,Low,0,0,1,Delivered
+Sep-24,Sunday,Pizza,Swiggy,Cash on Delivery,Evening (5-8pm),4,913.84,10,28,19,0,7.6,4.5,Clear,Medium,0,0,0,Delivered
+Feb-24,Monday,Beverages,Swiggy,Cash on Delivery,Morning (7-11am),2,254.22,20,6,39,0,24.6,2.8,Clear,Low,2,0,0,Cancelled
+Oct-23,Monday,Desserts,Website,Cash on Delivery,Late Night (11pm-2am),4,794.16,25,12,28,0,10.8,4.5,Cloudy,Low,0,0,0,Delivered
+Feb-24,Sunday,Wraps & Rolls,Website,Credit Card,Dinner (8-11pm),4,514.44,25,9,20,0,22.5,3.2,Clear,Very High,0,0,0,Cancelled
+Jul-23,Thursday,Biryani,Zomato,Wallet,Lunch (11am-2pm),6,1943.16,15,35,27,0,6.5,4.7,Stormy,Medium,2,2,0,Cancelled
+Jan-24,Wednesday,South Indian,Website,Debit Card,Late Night (11pm-2am),6,1225.44,20,16,23,0,6.1,4.9,Clear,High,1,0,0,Delivered
+May-24,Thursday,Burgers,Zomato,UPI,Evening (5-8pm),6,637.26,5,20,52,0,1.7,2.9,Cloudy,High,0,0,1,Delivered
+Sep-23,Wednesday,Desserts,Website,Wallet,Late Night (11pm-2am),4,809.56,0,11,41,0,16.6,3.7,Clear,Medium,1,1,0,Delivered
+May-24,Saturday,Desserts,Website,Cash on Delivery,Afternoon (2-5pm),6,1134.54,20,5,44,0,9.8,5,Clear,Low,1,1,0,Delivered
+Apr-23,Thursday,Desserts,Direct App,Wallet,Late Night (11pm-2am),1,98.25,25,8,56,0,21.7,3.7,Cloudy,High,0,0,0,Delivered
+Nov-23,Wednesday,Pizza,Direct App,Wallet,Afternoon (2-5pm),6,1540.08,25,16,19,0,12.4,4.7,Rainy,High,2,0,0,Cancelled
+Mar-23,Sunday,Chinese,Direct App,Debit Card,Morning (7-11am),6,1805.4,5,28,27,0,24.2,4,Rainy,High,0,2,1,Cancelled
+May-23,Tuesday,Burgers,Website,Cash on Delivery,Evening (5-8pm),2,629.54,20,17,30,0,5.5,3.4,Cloudy,High,1,0,0,Delivered
+Sep-23,Thursday,Desserts,Swiggy,Wallet,Morning (7-11am),6,909,0,15,15,0,21.8,3.2,Stormy,Very High,2,1,0,Cancelled
+Jun-23,Sunday,Chinese,Direct App,Debit Card,Afternoon (2-5pm),3,814.98,5,22,39,0,19.6,3,Rainy,Medium,0,0,0,Delivered
+May-24,Saturday,Chinese,Swiggy,Cash on Delivery,Lunch (11am-2pm),4,1586.92,0,16,42,0,19.5,4.4,Rainy,Medium,0,0,0,Delivered
+Oct-24,Thursday,Pizza,Swiggy,Debit Card,Lunch (11am-2pm),3,1301.91,0,25,25,0,21.3,3.5,Clear,High,1,0,0,Delivered
+Feb-24,Sunday,Beverages,Zomato,UPI,Lunch (11am-2pm),5,357.8,0,4,18,0,19.3,3.8,Clear,Low,0,0,1,Delivered
+Jun-24,Monday,Wraps & Rolls,Direct App,Credit Card,Late Night (11pm-2am),5,1142.2,0,15,30,0,16,3.7,Clear,High,0,1,0,Delivered
+Dec-24,Thursday,Biryani,Swiggy,Debit Card,Late Night (11pm-2am),1,292.28,15,21,38,0,4.1,3.9,Cloudy,Low,0,2,0,Delivered
+May-23,Friday,Wraps & Rolls,Zomato,Cash on Delivery,Late Night (11pm-2am),3,575.94,15,18,37,0,1.8,4.7,Clear,Medium,0,0,1,Delivered
+May-24,Monday,Desserts,Swiggy,Debit Card,Dinner (8-11pm),2,406.08,5,12,29,0,23.1,5,Clear,High,0,0,0,Delivered
+Apr-23,Monday,Pasta,Swiggy,UPI,Lunch (11am-2pm),6,2807.58,0,22,24,0,15.8,3.5,Rainy,Medium,3,1,1,Cancelled
